@@ -51,6 +51,6 @@
             scrollTop: 0
         }, 10)
     }, 3e3)*/
-}), $(".hello > span:gt(0)").hide(), setInterval(function() {
+$(".hello > span:gt(0)").hide(), setInterval(function() {
     $(".hello > span:first").fadeOut(300).next().fadeIn(300).end().appendTo(".hello")
 }, 300);
