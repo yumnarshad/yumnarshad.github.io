@@ -26,6 +26,7 @@
     }
 }(), $(document).ready(function() {
     $("#showModal").on("show.bs.modal", function(e) {
+        console.log("i am here");
         $(".portfolio-wrapper ul li a").addClass("bnw");
         var t = $(e.relatedTarget),
             n = t.data("projname"),
@@ -40,11 +41,20 @@
             var n = "<li>" + t + "</li>";
             modal.find("#tech-used").append(n)
         })
-    }), $("#showModal").on("hidden.bs.modal", function(e) {
+    }), 
+    $("#showModal").on("hidden.bs.modal", function(e) {
+        console.log('in evene hidden.bs.modal');
         $(".portfolio-wrapper ul li a").removeClass("bnw"), modal.find("#folio-imgs, #tech-used,#folio-res, #proj-desc").empty()
     });
+
+    /*
+    gives good morning/good evening message to user
+    */
     var e = (new Date).getHours();
     e < 12 ? ($(".about-me").addClass("good-morning"), $(".sun-anim").removeClass("hidden"), $("#wlcm").text(" Good Morning!")) : e < 18 ? $("#wlcm").text(" Good After noon!") : ($(".about-me").addClass("good-evening"), $(".twinkle-stars").removeClass("hidden"), $("#wlcm").text(" Good Evening!"))
+
+
+
 }), /*$(window).on("load", function() {
     $("body").css("overflow : hidden"), setTimeout(function() {
         $("#splashscreen").fadeOut(), $("body").removeClass("no-scroll"), $("html, body").animate({
