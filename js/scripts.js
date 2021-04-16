@@ -26,7 +26,7 @@
     }
 }(), $(document).ready(function() {
     $("#showModal").on("show.bs.modal", function(e) {
-        console.log("i am here");
+        
         $(".portfolio-wrapper ul li a").addClass("bnw");
         var t = $(e.relatedTarget),
             n = t.data("projname"),
