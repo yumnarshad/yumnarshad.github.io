@@ -1,0 +1,658 @@
+@media only screen and (max-height: 1000px){
+  .col-md-3.user_menu_wrapper{
+    position: absolute;
+  }
+}
+
+@media only screen and (max-width: 1440px){
+
+  .features_submit {
+      width: 50%;
+  }
+
+  .remove_parameter_button.wpresidence_button {
+    padding: 12px 15px;
+  }
+
+  .wpestate_dashboard_content_wrapper .wpresidence_button.remove_fav_dash {
+    line-height: 1.4em;
+  }
+
+  .print_invoice{
+      padding: 9px 10px;
+  }
+
+  .wpestate_bell_note{
+    right: 30px;
+  }
+
+  .dashboard-margin {
+    padding-left: 275px;
+  }
+
+  .dashboard_package_row {
+    margin-left: 250px;
+  }
+
+  .pack_description_details{
+      width: 175px;
+  }
+
+  .dashboard_widget_unit .dashbard_unit_image img{
+    width: 70px;
+  }
+
+  .wpestat_dash_history_date {
+    font-size: 12px;
+  }
+
+  .wpestat_dash_history_label{
+      font-size: 13px;
+  }
+
+  .property_dashboard_location_wrapper {
+    float: left;
+    padding-left: 10px;
+    max-width: 189px;
+  }
+
+  .wpestate_widget_wrapper .dashbard_unit_title {
+    font-size: 14px;
+  }
+
+  .wpestate_widget_wrapper .property_dashboard_location {
+    display: block;
+    font-size: 13px;
+  }
+
+}
+
+@media only screen and (max-width: 1280px){
+
+.wpestate_dashboard_content_wrapper input[type=text].wpestate_dashboard_input_type,
+#prop_name {
+    width: 240px;
+}
+#invoice_type, #invoice_status, #invoice_end_date, #invoice_start_date {
+    width: calc((100% - 94px)/4);
+    min-height: 56px;
+}
+}
+
+@media only screen and (max-width: 1024px){
+
+    .wpresidence_button.add_custom_parameter{
+        margin-bottom: 10px;
+    }
+
+    .full_width_header .top_bar,
+    .page-template-user_dashboard_showing .top_bar,
+    .page-template-user_dashboard_inbox .top_bar,
+    .page-template-user_dashboard_add_agent .top_bar,
+    .page-template-user_dashboard_agent_list .top_bar,
+    .page-template-user_dashboard_search_result .top_bar,
+    .page-template-user_dashboard_invoices .top_bar,
+    .page-template-user_dashboard_searches .top_bar,
+    .page-template-user_dashboard_favorite .top_bar,
+    .page-template-user_dashboard_add .top_bar,
+    .page-template-user_dashboard .top_bar,
+    .page-template-user_dashboard_profile .top_bar {
+        padding: 0px 15px;
+    }
+
+    .full_width_header .logo {
+        padding-left: 15px;
+    }
+
+    .full_width_header .user_menu {
+        margin-right: 15px;
+    }
+
+    .submitrow{
+        width: 100%;
+        float:left;
+        padding: 15px;
+    }
+
+    .floor_plan_unit_wrapper .wpresidence_button {
+        width: 100%;
+    }
+
+    #add_new_floor_plan{
+         width: calc(100% - 30px);
+     }
+
+    .pack_description,
+    .pack_description_row{
+        width: 100%;
+        padding-top: 30px;
+    }
+
+
+   .dashboard_hello_section {
+        margin: 30px 23px 0px 23px;
+   }
+
+   .dashboard_hello_section h2{
+       font-size: 40px;
+   }
+
+   .dashboard_hi_text{
+     font-size: 20px;
+   }
+
+  .change_pass_wrapper,
+  .user_profile_div ,
+  .wpestate_dashboard_holder{
+    width:100%;
+    float:left;
+  }
+
+
+  .col-md-4.user-profile-dashboard-wrapper,
+  .col-md-8.user_profile_div,
+  .wpestate_dash_coluns{
+    padding: 15px;
+    display: inline-block;
+  }
+
+  .wpestate_dashboard_content_wrapper{
+    margin-bottom: 0px;
+  }
+
+  .user_profile_div   .wpestate_dashboard_content_wrapper{
+    margin-bottom: 30px;
+  }
+
+
+  .property_wrapper_dash.row {
+    padding: 20px 0px;
+  }
+
+  .wpestate_dashhboard_filter {
+    margin-bottom: 15px;
+  }
+
+  .wpestate_dashboard_list_header form{
+    float:left;
+    padding-left: 0px;
+  }
+
+  .dashboard_property_list .blog_listing_image {
+    width: 75%;
+  }
+
+  .property_dashboard_location_wrapper{
+    max-width: 300px;
+  }
+
+  .property_dashboard_types,
+  .property_dashboard_action,
+  .property_dashboard_status,
+  .property_dashboard_price{
+    width: 25%;
+  }
+  
+  .wpestate_crm_contact_name, 
+  .wpestate_crm_contact_email ,
+  .wpestate_crm_contact_phone,
+  .wpestate_crm_contact_added_on,
+  .wpestate_crm_contact_status,
+  .wpestate_crm_lead_actions,
+  .wpestate_crm_lead_date,
+  .wpestate_crm_lead_actions,
+  .wpestate_crm_lead_status.wpestate_crm_contact_status,
+  .wpestate_crm_lead_agent_in_charge,
+  .wpestate_crm_lead_from,
+  .wpestate_crm_lead_id {
+       width: 33%;
+        display: flex;
+        margin: 0px;
+        float:left;
+  }
+  
+  
+  
+  .user_profile_div  .profile-onprofile.row .col-md-2,
+  .user_profile_div  .profile-onprofile.row .col-md-5,
+  .user_profile_div  .profile-onprofile.row .col-md-12,
+  .user_profile_div  .profile-onprofile.row .col-md-4,
+  .user_profile_div  .profile-onprofile.row .col-md-6,
+  .page-template-user_dashboard_add .profile-onprofile.row .col-md-12,
+  .page-template-user_dashboard_add .profile-onprofile.row .col-md-4,
+  .page-template-user_dashboard_add .profile-onprofile.row .col-md-6 {
+    width:100%;
+    float:left;
+  }
+
+  .wpestate_dashboard_content_wrapper .wpresidence_button.remove_fav_dash {
+    padding: 12px 8px;
+    text-align: center;
+  }
+
+  .page-template-user_dashboard_searches .search_param,
+  .search_unit_wrapper h4{
+      width: 52%;
+      float: left;
+  }
+
+  .invoice_totals{
+    padding: 15px 0px;
+  }
+
+  .print_invoice_wrap{
+    width: 100%;
+  }
+
+  .print_invoice {
+    border-radius: 4px;
+    margin-top: 0px;
+    cursor: pointer;
+    width: auto;
+    float: left;
+  }
+  .price_invoice_wrap{
+    width:16.5%;
+  }
+
+  .mess_reply_form, .mess_content{
+    width: calc(100% - 30px);
+    margin-bottom: 10px;
+  }
+
+
+  .wpestate_dashboard_table_list_header.row,
+  .dashboard_property_list .wpestate_dashboard_table_list_header,
+  .dashboard_agent_list .wpestate_dashboard_table_list_header {
+    display: none;
+  }
+
+  .dashboard_agent_list .property_dashboard_status,
+  .dashboard_agent_list .property_dashboard_action{
+    width: 100%;
+    float: left;
+  }
+
+  .dashboard_agent_list .property_dashboard_action .btn {
+    margin-top: 0px;
+  }
+
+  #imagelist .uploaded_images {
+    width: calc((100% - 15px)/2);
+  }
+
+}
+
+@media only screen and (max-width: 1023px){
+
+    .message-action,
+    .mess_date,
+    .mess_subject,
+    .mess_from {
+        width: 100%;
+    }
+
+    .message-action{
+        margin-top: 15px;
+        float: left;
+    }
+
+    .remove_parameter_button.wpresidence_button {
+        margin-top: 0px;
+        margin-bottom: 15px;
+        padding: 12px 30px;
+    }
+
+    .submitrow{
+      padding: 0px;
+      margin: 0px 15px;
+    }
+
+    .property_wrapper_dash.row{
+        margin: 0px;
+    }
+
+   .dashboard_property_list .blog_listing_image {
+      width: 70%;
+    }
+
+  .blog_listing_image,
+  .property_dashboard_types,
+  .property_dashboard_action,
+  .property_dashboard_status,
+  .property_dashboard_price{
+    width: 30%;
+  }
+
+  .admin-bar.has_top_bar .has_header_type1 .dashboard-margin,
+  .admin-bar .has_header_type1 .dashboard-margin,
+  .has_top_bar .has_header_type1 .dashboard-margin,
+  .has_header_type1 .dashboard-margin,
+  .admin-bar .has_header_type1 .dashboard-margin{
+      top: 15px!important;
+    }
+
+  .dashboard_hello_section {
+      margin: 30px 23px 0px 23px;
+  }
+
+  .wpestate_dashboard_holder{
+    padding: 0px;
+  }
+
+  .wpestate_dashboard_content_wrapper{
+    margin-bottom: 30px;
+    padding: 25px;
+  }
+
+  .property_dashboard_location_wrapper{
+    max-width: 100%;
+  }
+
+  .property_dashboard_price .price_label,
+  .property_dashboard_price,
+  .property_dashboard_status,
+  .property_dashboard_types {
+    display: inline-block;
+    height: 30px;
+    float: left;
+    white-space: initial;
+  }
+
+  .blog_listing_image {
+    margin-bottom: 15px;
+  }
+
+   .add-estate.profile-page.profile-onprofile.row {
+        margin: 0px;
+   }
+
+    .upload_explain{
+        width:100%;
+    }
+
+    #imagelist .uploaded_images {
+        margin: 0px 5px 10px 5px;
+        width: calc(50% - 10px);
+    }
+
+    .col-md-3.user_menu_wrapper {
+        display: none;
+    }
+
+    .dashboard_package_row,
+    .dashboard-margin {
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-left:0px;
+    }
+
+    .col-md-12.top_dahsboard_wrapper.dashboard_package_row {
+        height: 100%;
+        float: left;
+        padding: 0px 15px;
+        z-index: 99;
+        top:0px;
+    }
+
+    .floor_plan_unit_wrapper {
+        display: inline;
+        float: left;
+        width: 100%;
+    }
+
+    .floor_plan_image_thumb {
+        width: auto;
+      }
+
+     .has_top_bar .row.row_user_dashboard {
+        margin-top: 0px;
+        float: left;
+        width: 100%;
+    }
+
+    .dash_no_header.page-template-user_dashboard_showing .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_inbox .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_add_agent .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_agent_list .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_search_result .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_invoices .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_searches .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_favorite .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_add .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_profile .top_bar_wrapper {
+        position: relative;
+        top: 0px;
+    }
+
+    .dash_no_header.page-template-user_dashboard_showing.admin-bar .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_inbox.admin-bar .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_add_agent.admin-bar .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_agent_list.admin-bar .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_search_result.admin-bar .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_invoices.admin-bar .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_searches.admin-bar .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_favorite.admin-bar .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_add.admin-bar .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard.admin-bar .top_bar_wrapper,
+    .dash_no_header.page-template-user_dashboard_profile.admin-bar .top_bar_wrapper{
+        top:0px;
+    }
+
+    .admin-bar .dashboard-margin {
+        top: 0px;
+    }
+
+    .profile-page .col-md-4,
+    .user_profile_div .col-md-4{
+        float: left;
+        width: 100%;
+    }
+
+    .wpestate_dash_coluns,
+    .wpestate_dash_coluns.dashboard_submit_floor_plans {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width: 768px){
+
+  .dashboard_property_list .blog_listing_image,
+  .blog_listing_image,
+  .property_dashboard_types,
+  .property_dashboard_action,
+  .property_dashboard_status,
+  .property_dashboard_price{
+    width: 100%;
+  }
+
+  .dashboard_hello_section h2{
+    font-size: 36px;
+  }
+
+  .dashboard_widget_unit .property_dashboard_location_wrapper{
+    padding-top: 0px;
+  }
+
+  .wpestate_dashboard_account_summary .dasboard_widget_row,
+  .dasboard_widget_row{
+    width:100%;
+  }
+
+  .fullp-button{
+     width: calc(100% - 30px);
+  }
+
+  #form_submit_1{
+    margin-left: 15px;
+  }
+
+  .page-template-user_dashboard_inbox .wpestate_dashboard_table_list_header,
+  .page-template-user_dashboard_invoices .wpestate_dashboard_table_list_header {
+    display: none;
+  }
+
+  .invoice_unit .col-md-1,
+  .invoice_unit .col-md-2,
+  .price_invoice_wrap{
+    width: 100%;
+    padding: 5px 15px;
+  }
+
+  .price_invoice_wrap{
+      margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 667px){
+
+#update_profile_agency {
+    margin-bottom: 10px;
+}
+
+.submitrow #form_submit_1{
+    margin-left: 0px;
+    margin-bottom: 15px;
+}
+
+.submitrow{
+    margin: 0px;
+    padding: 0px 15px;
+}
+
+  .page-template-user_dashboard_searches .search_param,
+  .search_unit_wrapper h4 {
+    width: 100%;
+  }
+
+  .delete_search {
+    cursor: pointer;
+    position: relative;
+    top: auto;
+    right: auto;
+    margin-top: 15px;
+    margin-left: 15px;
+  }
+
+
+  #invoice_start_date,
+  #invoice_end_date,
+  #invoice_type,
+  #invoice_status{
+    width:100%;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (max-width: 414px){
+    
+    #westate_crm_create_contact, #westate_crm_create_lead {
+        position: relative;
+        right: auto;
+        top:auto;
+    }
+    
+    .wpestate_crm_contact_name, 
+    .wpestate_crm_contact_email ,
+    .wpestate_crm_contact_phone,
+    .wpestate_crm_contact_added_on,
+    .wpestate_crm_contact_status,
+    .wpestate_crm_lead_actions,
+    .wpestate_crm_lead_date,
+    .wpestate_crm_lead_actions,
+    .wpestate_crm_lead_status.wpestate_crm_contact_status,
+    .wpestate_crm_lead_agent_in_charge,
+    .wpestate_crm_lead_from,
+    .wpestate_crm_lead_id {
+         width: 100%;
+          display: flex;
+          margin: 0px;
+          float:left;
+    }
+
+    .delete_search,
+    .wpresidence_button.add_custom_parameter{
+        width: calc(100% - 30px);
+     }
+
+    .dashboard-margin .wpresidence_button.view_public_profile{
+        margin: 0px 0px 10px 0px;
+    }
+
+    #delete_profile,
+    #update_profile{
+        margin-left:15px;
+        margin-bottom: 10px;
+    }
+
+    .pack-name {
+      padding: 0px 0px 10px 0px;
+    }
+
+    .pack-unit h4 {
+      padding: 30px 10px 0px 0px;
+      width: 100%
+    }
+
+  .pack_description_details{
+     width:47%
+  }
+
+
+  .wpestate_dashboard_list_header form{
+    width: 100%;
+  }
+
+  #prop_name,
+  .wpestate_dashhboard_filter {
+    margin-bottom: 15px;
+    width: 100%;
+  }
+
+  #search_form_submit_1{
+    margin-left: 0px;
+  }
+}
+
+@media only screen and (max-width: 375px){
+
+  .wpestate_bell_note{
+    display: none;
+  }
+
+  .wpestate_widget_wrapper .dashbard_unit_title {
+    font-size: 13px;
+  }
+  .wpestate_widget_wrapper .property_dashboard_location{
+    font-size: 12px;
+  }
+
+  #change_pass,
+  #aaiu-uploader{
+    width:100%;
+  }
+
+}
+
+@media only screen and (max-width: 320px){
+
+    .property_dashboard_location_wrapper {
+        padding-left: 1px;
+        max-width: 100%;
+        width: 100%;
+        float: left;
+        margin-top: 15px;
+    }
+
+    .wpestate_dashboard_content_wrapper .featured_div {
+      bottom: 55px;
+    }
+
+    .blog_listing_image {
+        float: left;
+        display: inline-block;
+    }
+
+}

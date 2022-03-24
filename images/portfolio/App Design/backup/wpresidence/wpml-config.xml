@@ -1,0 +1,235 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">estate_agent</custom-type>
+        <custom-type translate="0">wpestate_invoice</custom-type>
+        <custom-type translate="0">membership_package</custom-type>
+        <custom-type translate="1">estate_property</custom-type>
+        <custom-type translate="1">estate_developer</custom-type>
+        <custom-type translate="1">estate_agency</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">property_category</taxonomy>
+        <taxonomy translate="1">property_action_category</taxonomy>
+        <taxonomy translate="1">property_city</taxonomy>
+        <taxonomy translate="1">property_area</taxonomy>
+        <taxonomy translate="1">property_features</taxonomy>
+        <taxonomy translate="1">property_status</taxonomy>
+        <taxonomy translate="1">county_state_agency</taxonomy>
+        <taxonomy translate="1">area_agency</taxonomy>
+        <taxonomy translate="1">city_agency</taxonomy>
+        <taxonomy translate="1">action_category_agency</taxonomy>
+        <taxonomy translate="1">category_agency</taxonomy>
+        <taxonomy translate="1">property_area_developer</taxonomy>
+        <taxonomy translate="1">property_city_developer</taxonomy>
+        <taxonomy translate="1">property_action_developer</taxonomy>
+        <taxonomy translate="1">property_category_developer</taxonomy>
+        <taxonomy translate="1">property_county_state_developer</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="copy">agent_email</custom-field>
+        <custom-field action="copy">agent_facebook</custom-field>
+        <custom-field action="copy">agent_linkedin</custom-field>
+        <custom-field action="copy">agent_mobile</custom-field>
+        <custom-field action="copy">agent_phone</custom-field>
+        <custom-field action="copy">agent_pinterest</custom-field>
+        <custom-field action="copy">agent_instagram</custom-field>
+        <custom-field action="copy">agent_skype</custom-field>
+        <custom-field action="copy">agent_twitter</custom-field>
+        <custom-field action="copy">property-basement</custom-field>
+        <custom-field action="copy">property-date</custom-field>
+        <custom-field action="copy">property-external-construction</custom-field>
+        <custom-field action="copy">property-garage</custom-field>
+        <custom-field action="copy">property-garage-size</custom-field>
+        <custom-field action="copy">property-roofing</custom-field>
+        <custom-field action="copy">property-year</custom-field>
+        <custom-field action="copy">property_address</custom-field>
+        <custom-field action="translate">property_agent</custom-field>
+        <custom-field action="copy">property_area</custom-field>
+        <custom-field action="copy">property_basement</custom-field>
+        <custom-field action="copy">property_bathrooms</custom-field>
+        <custom-field action="copy">property_bedrooms</custom-field>
+        <custom-field action="copy">property_city</custom-field>
+        <custom-field action="copy">property_country</custom-field>
+        <custom-field action="copy">property_county</custom-field>
+        <custom-field action="copy">property_date</custom-field>
+        <custom-field action="copy">property_external_construction</custom-field>
+        <custom-field action="copy">property_garage</custom-field>
+        <custom-field action="copy">property_garage_size</custom-field>
+        <custom-field action="copy">property_google_view</custom-field>
+        <custom-field action="translate">property_label</custom-field>
+        <custom-field action="translate">property_label_before</custom-field>
+        <custom-field action="copy">property_latitude</custom-field>
+        <custom-field action="copy">property_longitude</custom-field>
+        <custom-field action="copy">property_lot_size</custom-field>
+        <custom-field action="copy">property_price</custom-field>
+        <custom-field action="copy">property_roofing</custom-field>
+        <custom-field action="copy">property_rooms</custom-field>
+        <custom-field action="copy">property_size</custom-field>
+        <custom-field action="copy">property_state</custom-field>
+        <custom-field action="copy">property_status</custom-field>
+        <custom-field action="copy">property_year</custom-field>
+        <custom-field action="copy">property_zip</custom-field>
+        <custom-field action="translate">agency_address</custom-field>
+        <custom-field action="copy-once">agency_email</custom-field>
+        <custom-field action="copy-once">agency_phone</custom-field>
+        <custom-field action="copy-once">agency_mobile</custom-field>
+        <custom-field action="copy-once">agency_skype</custom-field>
+        <custom-field action="copy-once">agency_facebook</custom-field>
+        <custom-field action="copy-once">agency_twitter</custom-field>
+        <custom-field action="copy-once">agency_linkedin</custom-field>
+        <custom-field action="copy-once">agency_pinterest</custom-field>
+        <custom-field action="copy-once">agency_instagram</custom-field>
+        <custom-field action="copy-once">agency_website</custom-field>
+        <custom-field action="copy-once">agency_languages</custom-field>
+        <custom-field action="copy-once">agency_license</custom-field>
+        <custom-field action="copy-once">agency_opening_hours</custom-field>
+        <custom-field action="copy-once">agency_taxes</custom-field>
+        <custom-field action="copy">agency_lat</custom-field>
+        <custom-field action="copy">agency_long</custom-field>
+        <custom-field action="copy">page_show_adv_search</custom-field>
+        <custom-field action="copy">page_use_float_search</custom-field>
+        <custom-field action="copy">page_wp_estate_float_form_top</custom-field>
+        <custom-field action="copy">page_custom_lat</custom-field>
+        <custom-field action="copy">page_custom_long</custom-field>
+        <custom-field action="copy">page_custom_zoom</custom-field>
+        <custom-field action="copy">page_custom_image</custom-field>
+        <custom-field action="copy">page_header_image_full_screen</custom-field>
+        <custom-field action="copy">page_header_image_back_type</custom-field>
+        <custom-field action="copy">page_header_title_over_image</custom-field>
+        <custom-field action="copy">page_header_subtitle_over_image</custom-field>
+        <custom-field action="copy">page_header_image_height</custom-field>
+        <custom-field action="copy">page_header_overlay_color</custom-field>
+        <custom-field action="copy">page_header_overlay_val</custom-field>
+        <custom-field action="copy">page_custom_video</custom-field>
+        <custom-field action="copy">page_custom_video_webbm</custom-field>
+        <custom-field action="copy">page_custom_video_ogv</custom-field>
+        <custom-field action="copy">page_custom_video_cover_image</custom-field>
+        <custom-field action="copy">page_header_video_full_screen</custom-field>
+        <custom-field action="translate">page_header_title_over_video</custom-field>
+        <custom-field action="translate">page_header_subtitle_over_video</custom-field>
+        <custom-field action="copy">page_header_video_height</custom-field>
+        <custom-field action="copy">page_header_overlay_color_video</custom-field>
+        <custom-field action="copy">page_header_overlay_val_video</custom-field>
+        <custom-field action="copy">min_height</custom-field>
+        <custom-field action="copy">max_height</custom-field>
+        <custom-field action="copy">keep_min</custom-field>
+        <custom-field action="copy">keep_max</custom-field>
+        <custom-field action="translate">plan_title</custom-field>
+        <custom-field action="translate">plan_description</custom-field>
+        <custom-field action="copy">plan_image_attach</custom-field>
+        <custom-field action="copy">plan_image</custom-field>
+        <custom-field action="copy">plan_size</custom-field>
+        <custom-field action="copy">plan_rooms</custom-field>
+        <custom-field action="copy">plan_bath</custom-field>
+        <custom-field action="copy">plan_price</custom-field>
+        <custom-field action="copy">adv_filter_search_action</custom-field>
+        <custom-field action="copy">adv_filter_search_category</custom-field>
+        <custom-field action="copy">current_adv_filter_city</custom-field>
+        <custom-field action="copy">current_adv_filter_county</custom-field>
+        <custom-field action="copy">current_adv_filter_area</custom-field>
+        <custom-field action="translate">developer_address</custom-field>
+        <custom-field action="copy-once">developer_email</custom-field>
+        <custom-field action="copy-once">developer_phone</custom-field>
+        <custom-field action="copy-once">developer_mobile</custom-field>
+        <custom-field action="copy-once">developer_skype</custom-field>
+        <custom-field action="copy-once">developer_facebook</custom-field>
+        <custom-field action="copy-once">developer_twitter</custom-field>
+        <custom-field action="copy-once">developer_linkedin</custom-field>
+        <custom-field action="copy-once">developer_pinterest</custom-field>
+        <custom-field action="copy-once">developer_instagram</custom-field>
+        <custom-field action="copy-once">developer_website</custom-field>
+        <custom-field action="copy-once">developer_license</custom-field>
+        <custom-field action="copy-once">developer_taxes</custom-field>
+        <custom-field action="copy-once">developer_lat</custom-field>
+        <custom-field action="copy-once">developer_long</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="wpresidence_admin">
+            <key name="wp_estate_header5_info_widget1_text1"/>
+            <key name="wp_estate_header5_info_widget1_text2"/>
+            <key name="wp_estate_header5_info_widget2_text1"/>
+            <key name="wp_estate_header5_info_widget2_text2"/>
+            <key name="wp_estate_header5_info_widget3_text1"/>
+            <key name="wp_estate_header5_info_widget3_text2"/>
+            <key name="wp_estate_location_animation_text"/>
+            <key name="wp_estate_copyright_message"/>
+            <key name="wp_estate_currency_label_main"/>
+            <key name="wp_estate_property_multi_text"/>
+            <key name="wp_estate_property_multi_child_text"/>
+            <key name="wp_estate_property_adr_text"/>
+            <key name="wp_estate_property_features_text"/>
+            <key name="wp_estate_property_description_text"/>
+            <key name="wp_estate_property_details_text"/>
+            <key name="wp_estate_property_video_text"/>
+            <key name="wp_estate_splash_page_title"/>
+            <key name="wp_estate_splash_page_subtitle"/>
+            <key name="wp_estate_company_name"/>
+            <key name="wp_estate_email_adr"/>
+            <key name="wp_estate_duplicate_email_adr"/>
+            <key name="wp_estate_telephone_no"/>
+            <key name="wp_estate_mobile_no"/>
+            <key name="wp_estate_fax_ac"/>
+            <key name="wp_estate_skype_ac"/>
+            <key name="wp_estate_co_address"/>
+            <key name="wp_opening_hours_1"/>
+            <key name="wp_opening_hours_value_1"/>
+            <key name="wp_opening_hours_2"/>
+            <key name="wp_opening_hours_value_2"/>
+            <key name="wp_opening_hours_3"/>
+            <key name="wp_opening_hours_value_3"/>
+            <key name="wp_estate_hq_latitude"/>
+            <key name="wp_estate_hq_longitude"/>
+            <key name="wp_estate_facebook_link"/>
+            <key name="wp_estate_twitter_link"/>
+            <key name="wp_estate_google_link"/>
+            <key name="wp_estate_linkedin_link"/>
+            <key name="wp_estate_pinterest_link"/>
+            <key name="wp_estate_instagram_link"/>
+            <key name="wp_estate_subject_agent_review"/>
+            <key name="wp_estate_agent_review"/>
+            <key name="wp_estate_matching_submissions"/>
+            <key name="wp_estate_recurring_payment"/>
+            <key name="wp_estate_subject_agent_update_profile"/>
+            <key name="wp_estate_agent_update_profile"/></key>
+    </admin-texts>
+    <shortcodes>
+        <shortcode>
+            <tag>estate_property_design_agent_details_intext_details</tag>
+        </shortcode>
+        <shortcode>
+            <tag>estate_property_design_intext_details</tag>
+        </shortcode>
+        <shortcode>
+            <tag>estate_property_simple_detail</tag>
+            <attributes>
+                <attribute>label</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>estate_property_page_acc</tag>
+            <attributes>
+                <attribute>description</attribute>
+                <attribute>property_address</attribute>
+                <attribute>property_details</attribute>
+                <attribute>amenities_features</attribute>
+                <attribute>map</attribute>
+                <attribute>walkscore</attribute>
+                <attribute>floor_plans</attribute>
+                <attribute>page_views</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>estate_property_page_tab</tag>
+            <attributes>
+                <attribute>description</attribute>
+                <attribute>property_address</attribute>
+                <attribute>property_details</attribute>
+                <attribute>amenities_features</attribute>
+                <attribute>map</attribute>
+                <attribute>walkscore</attribute>
+                <attribute>floor_plans</attribute>
+                <attribute>page_views</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+</wpml-config>

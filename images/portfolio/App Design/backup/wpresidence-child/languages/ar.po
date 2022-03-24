@@ -1,0 +1,5680 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WpResidence 3.9.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wpresidence\n"
+"POT-Creation-Date: 2021-06-15T10:43:42+00:00\n"
+"PO-Revision-Date: 2021-07-14 10:55+0300\n"
+"Last-Translator: bein map\n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && "
+"n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Theme Name of the theme
+msgid "WpResidence"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://themeforest.net/user/wpestate"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"WP Residence is a premium & responsive WordPress theme designed for Real "
+"Estate companies and independent agents."
+msgstr ""
+
+#. Author of the theme
+msgid "wpestate"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.wpestate.org"
+msgstr ""
+
+# @ wpestate
+#: 404.php:13
+msgid "Page not found"
+msgstr "الصفحة غير موجودة"
+
+# @ wpestate
+#: 404.php:17
+msgid ""
+"We're sorry. Your page could not be found, But you can check our latest "
+"listings & articles"
+msgstr ""
+"نأسف، الصفحة التي تحاول الوصول اليها غير موجودة, لكن يمكنك تصفح آخر الأخبار "
+"والمشاريع."
+
+# @ wpestate
+#: 404.php:21
+msgid "Latest Listings"
+msgstr "احدث العقارات"
+
+# @ wpestate
+#: 404.php:41
+msgid "Latest Articles"
+msgstr "أحدث المقالات"
+
+#. Template Name of the theme
+msgid "Agents Agencies Developers Search Results"
+msgstr "وكلاء وكالات المطورين نتائج البحث"
+
+#: aag_search_results.php:6 advanced_search_results.php:6 agency_list.php:6
+#: agents_list.php:5 compare_listings.php:6 contact_page.php:6
+#: developers_list.php:6 front_property_submit.php:6
+#: libs/dashboard_functions.php:1278 page_property_design.php:5 processor.php:5
+#: property_list.php:5 property_list_directory.php:5 property_list_half.php:5
+#: single-idx.php:6 splash_page.php:5 zillow_estimate_page.php:5
+msgid ""
+"This page will not work without WpResidence Core Plugin, Please activate it "
+"from the plugins menu!"
+msgstr ""
+"هذه الصفحة لا تعمل دون WpResidence الأساسية المساعد ، يرجى تفعيلها من قائمة "
+"الإضافات!"
+
+#: aag_search_results.php:171
+msgid ""
+"We didn't find any results. Please try again with different search parameters."
+msgstr "لم يتم ايجاد أي نتائج، الرجاء المحاولة مرة أخرى مع معايير بحث مختلفة."
+
+#. Template Name of the theme
+msgid "Advanced Search Results"
+msgstr "نتائج البحث المتقدمة"
+
+#. Template Name of the theme
+msgid "Agency list"
+msgstr "وكالة قائمة"
+
+#. Template Name of the theme
+msgid "Agents list"
+msgstr "وكلاء قائمة"
+
+# @ wpestate
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "اريشف التصنيف: %s"
+
+# @ wpestate
+#: archive.php:24
+msgid "Daily Archives: %s"
+msgstr "الارشيف اليومي: %s"
+
+# @ wpestate
+#: archive.php:26
+msgid "Monthly Archives: %s"
+msgstr "الأرشيف الشهري: %s"
+
+#: archive.php:26
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+# @ wpestate
+#: archive.php:28
+msgid "Yearly Archives: %s"
+msgstr "الأرشيف السنوى: %s"
+
+#: archive.php:28
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+# @ wpestate
+#: archive.php:30
+msgid "Blog Archives"
+msgstr "الأرشيف"
+
+#. Template Name of the theme
+msgid "User Dashboard Search Results"
+msgstr "لوحة أجهزة القياس المستخدم في نتائج البحث"
+
+#: auser_dashboard_search_result.php:23 libs/dashboard_widgets.php:295
+#: search.php:5 user_dashboard_add.php:69 user_dashboard_add.php:198
+#: user_dashboard_agent_list.php:7
+msgid "Sorry, your nonce did not verify."
+msgstr "آسف، لم تتحقق كُنّا."
+
+# @ wpestate
+#: auser_dashboard_search_result.php:98 templates/half_map_core.php:157
+msgid "You don't have any properties yet!"
+msgstr "لم تقم بنشر اي عقارات حتى الان!"
+
+#: auser_dashboard_search_result.php:103
+#: libs/dashboard_actions_functions.php:658
+msgid "Search a listing"
+msgstr "قائمة البحث"
+
+# @ wpestate
+#: auser_dashboard_search_result.php:104
+#: libs/dashboard_actions_functions.php:544
+#: libs/dashboard_actions_functions.php:659 search.php:34 search.php:35
+#: searchform.php:3 templates/advanced_search_type3.php:62
+#: templates/advanced_search_type10.php:81
+#: templates/advanced_search_type11.php:106
+msgid "Search"
+msgstr "بحث"
+
+#. Template Name of the theme
+msgid "Blog list page"
+msgstr "صفحة قائمة المدونة"
+
+# @ wpestate
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "هذه المدونة محمية بكلمة مرور. ادخل كلمة المرور لترى التعليقات."
+
+# @ wpestate
+#: comments.php:16
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا يوجد تعليقات على &ldquo;%2$s&rdquo;"
+msgstr[1] "يوجد تعليق واحد على  &ldquo;%2$s&rdquo;"
+msgstr[2] "يوجد تعليقين على  &ldquo;%2$s&rdquo;"
+msgstr[3] "يوجد %1$s تعليقات على  &ldquo;%2$s&rdquo;"
+msgstr[4] "يوجد %1$s تعليقات على  &ldquo;%2$s&rdquo;"
+msgstr[5] "يوجد %1$s تعليقات على  &ldquo;%2$s&rdquo;"
+
+# @ wpestate
+#: comments.php:29
+msgid "Comment navigation"
+msgstr "تصفح التعليقات"
+
+# @ wpestate
+#: comments.php:30
+msgid "&laquo; Older Comments"
+msgstr "&laquo; تعليقات اقدم"
+
+# @ wpestate
+#: comments.php:31
+msgid "Newer Comments &raquo;"
+msgstr "تعليقات احدث  &raquo;"
+
+# @ wpestate
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+# @ wpestate
+#: comments.php:54
+msgid "Leave a Reply"
+msgstr "اترك رداً"
+
+# @ wpestate
+#: comments.php:55
+msgid "Leave a Reply to %s"
+msgstr "اترك رداً على %s"
+
+# @ wpestate
+#: comments.php:56
+msgid "Cancel Reply"
+msgstr "الغاء الرد"
+
+# @ wpestate
+#: comments.php:57
+msgid "Post Comment"
+msgstr "أضف تعليقاً"
+
+# @ wpestate
+#: comments.php:60
+msgid "Your email address will not be published.  "
+msgstr "لن يتم نشر بريدك الالكتروني "
+
+# @ wpestate
+#: comments.php:65
+msgid "Comment"
+msgstr "التعليق"
+
+# @ wpestate
+#: comments.php:72 crm_functions/crm_functions.php:315
+msgid "Name"
+msgstr "الاسم"
+
+# @ wpestate
+#: comments.php:78 crm_functions/crm_functions.php:316
+#: libs/dashboard_actions_functions.php:553 libs/design_functions.php:2064
+#: templates/dashboard-templates/add_new_agent.php:72
+#: templates/dashboard-templates/add_new_agent_template.php:53
+#: templates/dashboard-templates/user_profile.php:28
+#: templates/dashboard-templates/user_profile_agency.php:24
+#: templates/dashboard-templates/user_profile_agent.php:29
+#: templates/dashboard-templates/user_profile_developer.php:22
+#: templates/login_register_modal.php:83 templates/mobile_menu.php:110
+msgid "Email"
+msgstr "البريد الالكتروني"
+
+# @ wpestate
+#: comments.php:83
+msgid "Website"
+msgstr "الموقع الالكتروني"
+
+# @ wpestate
+#. Template Name of the theme
+#: compare_listings.php:101 templates/compare_list.php:15
+msgid "Compare Listings"
+msgstr "قائمة المقارنة"
+
+# @ wpestate
+#: compare_listings.php:15
+msgid "page should be accesible only via the compare button"
+msgstr "لا يمكن الوصول للصفحة الا من خلال زر المقارنة"
+
+# @ wpestate
+#: compare_listings.php:113
+msgid "Type: "
+msgstr "النوع: "
+
+# @ wpestate
+#: compare_listings.php:121
+msgid "city"
+msgstr "المدينة"
+
+# @ wpestate
+#: compare_listings.php:122
+msgid "area"
+msgstr "المنطقة"
+
+# @ wpestate
+#: compare_listings.php:123
+msgid "zip"
+msgstr "رمز بريدي"
+
+# @ wpestate
+#: compare_listings.php:124
+msgid "size"
+msgstr "المساحة"
+
+# @ wpestate
+#: compare_listings.php:125
+msgid "lot size"
+msgstr "المساحة الكلية"
+
+# @ wpestate
+#: compare_listings.php:126
+msgid "rooms"
+msgstr "ريسيبشن"
+
+# @ wpestate
+#: compare_listings.php:127
+msgid "bedrooms"
+msgstr "غرف النوم"
+
+# @ wpestate
+#: compare_listings.php:128
+msgid "bathrooms"
+msgstr "حمامات"
+
+#: compare_listings.php:129 libs/dashboard_actions_functions.php:150
+#: libs/help_functions.php:5224
+msgid "Energy Index"
+msgstr "مؤشر الطاقة"
+
+#: compare_listings.php:130 libs/dashboard_actions_functions.php:142
+#: libs/help_functions.php:5223
+#: templates/submit_templates/property_energy_effective.php:21
+msgid "Energy Class"
+msgstr "فئة الطاقة"
+
+#: compare_listings.php:131
+msgid "Property ID"
+msgstr "رقم العقار"
+
+#. Template Name of the theme
+msgid "Contact Page"
+msgstr "صفحة الاتصال"
+
+#: contact_page.php:89 single-estate_agency.php:127
+#: templates/header_agency.php:65 templates/header_developer.php:86
+msgid "Phone:"
+msgstr "الهاتف:"
+
+# @ wpestate
+#: contact_page.php:93 single-estate_agency.php:122
+#: templates/header_agency.php:60 templates/header_developer.php:81
+msgid "Mobile:"
+msgstr "الموبايل:"
+
+# @ wpestate
+#: contact_page.php:97 single-estate_agency.php:117
+#: templates/header_agency.php:55 templates/header_developer.php:74
+msgid "Email:"
+msgstr "البريد الالكتروني:"
+
+#: contact_page.php:101
+msgid "Fax:"
+msgstr "فاكس:"
+
+#: contact_page.php:105 single-estate_agency.php:133
+#: templates/header_agency.php:71 templates/header_developer.php:129
+msgid "Skype:"
+msgstr "سكايب:"
+
+#: contact_page.php:121 libs/dashboard_widgets.php:8
+#: libs/dashboard_widgets.php:10 libs/help_functions.php:529
+#: libs/help_functions.php:531
+msgid "company logo"
+msgstr "شعار الشركة"
+
+#: crm_functions/crm_functions.php:14
+msgid "Lead Info"
+msgstr "معلومات العميل المتوقع"
+
+#: crm_functions/crm_functions.php:29
+#: crm_functions/templates/dashboard_contact_unit.php:26
+#: crm_functions/templates/dashboard_lead_unit.php:58
+msgid "New"
+msgstr "الجديد"
+
+#: crm_functions/crm_functions.php:95 crm_functions/crm_functions.php:237
+msgid "You are not allowed to edit this!!!"
+msgstr "لا يسمح لك بتحرير هذا!!!"
+
+#: crm_functions/crm_functions.php:164 crm_functions/crm_functions.php:192
+msgid "You are not allowed to delete this !"
+msgstr "لا يسمح لك بحذف هذا!"
+
+#: crm_functions/crm_functions.php:311
+msgid "Your Contacts"
+msgstr "جهات الاتصال الخاصة بك"
+
+#: crm_functions/crm_functions.php:313
+msgid "Create Contact"
+msgstr "إنشاء جهة اتصال"
+
+# @ wpestate
+#: crm_functions/crm_functions.php:317
+#: templates/dashboard-templates/add_new_agent.php:79
+#: templates/dashboard-templates/add_new_agent_template.php:42
+#: templates/dashboard-templates/user_profile.php:33
+#: templates/dashboard-templates/user_profile_agency.php:19
+#: templates/dashboard-templates/user_profile_agent.php:24
+#: templates/dashboard-templates/user_profile_developer.php:17
+msgid "Phone"
+msgstr "الهاتف"
+
+#: crm_functions/crm_functions.php:318
+msgid "Added on"
+msgstr "تمت الإضافة"
+
+# @ wpestate
+#: crm_functions/crm_functions.php:319 crm_functions/crm_functions.php:369
+#: libs/dashboard_actions_functions.php:496
+#: libs/dashboard_actions_functions.php:554
+#: libs/dashboard_actions_functions.php:673
+#: libs/dashboard_actions_functions.php:679 user_dashboard_favorite.php:41
+msgid "Status"
+msgstr "الحالة"
+
+#: crm_functions/crm_functions.php:320 crm_functions/crm_functions.php:370
+#: crm_functions/templates/crm_contact_unit_actions.php:12
+#: crm_functions/templates/crm_lead_unit_actions.php:14
+#: libs/dashboard_actions_functions.php:555
+#: libs/dashboard_actions_functions.php:684
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:11
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:26
+#: user_dashboard_favorite.php:43
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: crm_functions/crm_functions.php:324 crm_functions/crm_functions.php:374
+msgid "You don't have any Leads!"
+msgstr "ليس لديك أي خيوط!"
+
+#: crm_functions/crm_functions.php:359
+msgid "Your Leads/Deals"
+msgstr "العملاء المحتملين/ الصفقات"
+
+#: crm_functions/crm_functions.php:360
+msgid "Add New Lead/Deal"
+msgstr "إضافة العميل المتوقع/الصفقة الجديدة"
+
+#: crm_functions/crm_functions.php:363
+msgid "Lead No"
+msgstr "رقم العميل المتوقع"
+
+#: crm_functions/crm_functions.php:364
+msgid "Request By"
+msgstr "طلب حسب"
+
+#: crm_functions/crm_functions.php:365
+msgid "Agent in Charge"
+msgstr "الوكيل المسؤول"
+
+#: crm_functions/crm_functions.php:366 libs/dashboard_actions_functions.php:493
+#: libs/dashboard_actions_functions.php:1218
+msgid "Date"
+msgstr "التاريخ"
+
+# @ wpestate
+#: crm_functions/templates/crm_add_contact.php:29
+#: crm_functions/templates/crm_add_lead.php:30
+#: templates/front_end_submission.php:149 templates/front_end_submission.php:191
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: crm_functions/templates/crm_add_contact.php:33
+msgid "Add Contact"
+msgstr "إضافة جهة اتصال"
+
+#: crm_functions/templates/crm_add_lead.php:34
+msgid "Add Lead"
+msgstr "إضافة العميل المتوقع"
+
+#: crm_functions/templates/crm_contact_submit.php:1
+#: templates/dashboard-templates/user_profile.php:105
+#: templates/dashboard-templates/user_profile_agency.php:199
+#: templates/dashboard-templates/user_profile_agent.php:197
+#: templates/dashboard-templates/user_profile_developer.php:173
+msgid "Contact Information"
+msgstr "معلومات الاتصال"
+
+#: crm_functions/templates/crm_contact_unit_actions.php:17
+msgid "View/Edit Contact"
+msgstr "عرض/تحرير جهة الاتصال"
+
+# @ wpestate
+#: crm_functions/templates/crm_contact_unit_actions.php:21
+#: crm_functions/templates/crm_lead_unit_actions.php:23
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:20
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:35
+msgid "Are you sure you wish to delete "
+msgstr "هل انت متأكد من عملية الحذف "
+
+#: crm_functions/templates/crm_contact_unit_actions.php:23
+msgid "Delete Contact"
+msgstr "حذف جهة الاتصال"
+
+#: crm_functions/templates/crm_leads_submit.php:2
+msgid "Lead Information"
+msgstr "معلومات العميل المتوقع"
+
+#: crm_functions/templates/crm_leads_submit.php:10
+msgid "Contact"
+msgstr "اتصال"
+
+#: crm_functions/templates/crm_lead_unit_actions.php:19
+msgid "View/Edit Lead"
+msgstr "عرض/تحرير العميل المتوقع"
+
+#: crm_functions/templates/crm_lead_unit_actions.php:25
+msgid "Delete Lead"
+msgstr "حذف العميل المتوقع"
+
+#: crm_functions/templates/dashboard_lead_unit.php:3
+msgid "Lead no "
+msgstr "يؤدي لا "
+
+#: crm_functions/templates/dashboard_lead_unit.php:23
+msgid "added manually"
+msgstr "تمت الإضافة يدويا"
+
+#. Template Name of the theme
+msgid "Developer list"
+msgstr "قائمة المطورين"
+
+#. Template Name of the theme
+msgid "Front Property Submit"
+msgstr "أمام المنشأة تقديم"
+
+# @ wpestate
+#: front_property_submit.php:201 templates/front_end_submission.php:60
+msgid ""
+"Your current package doesn't let you publish more properties! You need to "
+"upgrade your membership."
+msgstr "حزمتك الحالية لا تسمح لك بنشر اي عقارات اخرى! الرجاء ترقية عضويتك."
+
+# @ wpestate
+#: front_property_submit.php:487 user_dashboard_add.php:88
+#: user_dashboard_add.php:221
+msgid "Please submit a title for your property"
+msgstr "من فضلك ضع عنوان لعقارك"
+
+#: front_property_submit.php:758
+msgid "1. Description"
+msgstr "1- الوصف"
+
+#: front_property_submit.php:759
+msgid "2. Media"
+msgstr "2- الصور"
+
+#: front_property_submit.php:760
+msgid "3. Location"
+msgstr "3- الموقع"
+
+#: front_property_submit.php:761
+msgid "4. Details"
+msgstr "4- تفاصيل"
+
+#: front_property_submit.php:762
+msgid "5. Amenities"
+msgstr "5-المميزات"
+
+#: front_property_submit.php:775 templates/front_end_submission.php:106
+#: templates/front_end_submission.php:167
+msgid "These fields are mandatory: Title"
+msgstr "هذه الحقول إلزامية: العنوان"
+
+# @ wpestate
+#: front_property_submit.php:783 templates/front_end_submission.php:80
+msgid ""
+"This is a paid submission.The listing will be live after payment is received."
+msgstr "هذا المنشور مدفوع. سيتم تفعيل منشورك فور دفع المستحقات."
+
+#: front_property_submit.php:831
+msgid "Prev Step"
+msgstr "الخطوة السابقة"
+
+#: front_property_submit.php:832 word_remove.php:67 word_remove.php:213
+#: word_remove.php:247
+msgid "Next Step"
+msgstr "الخطوة التالية"
+
+# @ wpestate
+#: front_property_submit.php:833
+msgid "Submit Property"
+msgstr "اضافة العقار"
+
+#: functions.php:73
+msgid ""
+"For better speed results, the theme offers a built-in caching system for "
+"properties and categories. Check this article how to enable - disable theme "
+"cache: "
+msgstr ""
+"من أجل سرعة أفضل النتائج يقدم موضوع المدمج في نظام التخزين المؤقت على "
+"العقارات والفئات. تحقق من هذه المقالة كيفية تمكين أو تعطيل موضوع ذاكرة "
+"التخزين المؤقت: "
+
+#: functions.php:73
+msgid "help article"
+msgstr "تساعد المادة"
+
+#: functions.php:85 word_remove.php:62
+msgid ""
+"The Google Maps JavaScript API v3 REQUIRES an API key to function correctly. "
+"Get an APIs Console key and post the code in Theme Options. You can get it "
+"from"
+msgstr ""
+"يتطلب تطبيق خرائط Google JavaScript API v3 مفتاح API ليعمل بشكل صحيح. احصل "
+"على مفتاح وحدة تحكم واجهات برمجة التطبيقات ونشر التعليمات البرمجية في خيارات "
+"السمة. يمكنك الحصول عليه من"
+
+#: functions.php:86 word_remove.php:62
+msgid "here"
+msgstr "هنا"
+
+#: functions.php:98
+msgid "WordPress Memory Limit is set to "
+msgstr "الحد الأقصى للذاكرة ووردبريس محدد ب "
+
+#: functions.php:98
+msgid "Recommended memory limit should be at least 96MB. Please refer to : "
+msgstr ""
+"يجب أن يكون الحد الأقصى للذاكرة الموصى بها ما لا يقل عن 96MB. يرجى الرجوع "
+"إلى: "
+
+#: functions.php:98
+msgid "Increasing memory allocated to PHP"
+msgstr "زيادة الذاكرة المخصصة لـ PHP"
+
+#: functions.php:118
+msgid "Your PHP version is "
+msgstr "نسخة PHP الخاص بك هو "
+
+#: functions.php:131
+msgid ""
+"PHP GD library is NOT installed on your web server and because of that the "
+"theme will not be able to work with images. Please contact your hosting "
+"company in order to activate this library."
+msgstr ""
+"لم يتم تثبيت مكتبة PHP GD على خادم الويب الخاص بك، وبسبب ذلك فإن الموضوع لا "
+"تكون قادرة على العمل مع الصور. يرجى الاتصال بشركة الاستضافة من أجل تفعيل هذه "
+"المكتبة."
+
+#: functions.php:143
+msgid ""
+"MbString extension not detected. Please contact your hosting provider in "
+"order to enable it."
+msgstr ""
+"الملحق MbString غير متوفر, يرجى الإتصال بموفر خدمة الإستضافة من أجل تمكنيه."
+
+#: functions.php:158
+msgid ""
+"Half Map Template - make sure your page has the \"media header type\" set as "
+"google map "
+msgstr ""
+"قالب Half Map - تأكد من ان صفحتك تحتوي  على \" هيدر الوسائط\"معد في خريطة "
+"جوجل "
+
+#: functions.php:174
+msgid ""
+"Please do not manually change the slugs when adding new terms. If you need to "
+"edit a term name copy the new name in the slug field also."
+msgstr ""
+"يرجى عدم تغير الإسم اللطيف (  slugs) يدويا. اذا كنت بحاجة الى تغيره يرجى نسخ "
+"الإسم اللطيف في حقل خاص به أيضا."
+
+# @ wpestate
+#: functions.php:337
+msgid "Post navigation"
+msgstr "تصفح المشاركات"
+
+# @ wpestate
+#: functions.php:338
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> منشورات اقدم"
+
+# @ wpestate
+#: functions.php:339
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "منشورات احدث <span class=\"meta-nav\">&rarr;</span>"
+
+# @ wpestate
+#: functions.php:363
+msgid "Pingback:"
+msgstr "تنبيه :"
+
+# @ wpestate
+#: functions.php:363 functions.php:379
+msgid "Edit"
+msgstr "تعديل"
+
+# @ wpestate
+#: functions.php:374 templates/dashboard-templates/message-listing-unit.php:92
+#: templates/dashboard-templates/message-listing-unit.php:98
+msgid "Reply"
+msgstr "رد"
+
+# @ wpestate
+#: functions.php:384
+msgid " on "
+msgstr " على"
+
+# @ wpestate
+#: functions.php:389
+msgid "Your comment is awaiting moderation."
+msgstr "يستم نشر تعليقك بعد مراجعته من قبل الادارة."
+
+# @ wpestate
+#: functions.php:422 functions.php:426
+msgid "Please edit your profile page from site interface."
+msgstr "يرجى تعديل صفحة ملفك الشخصي من واجهة الموقع."
+
+# @ wpestate
+#: functions.php:544
+msgid "Your new password for the account at:"
+msgstr "كلمة السر الجديدة للحساب:"
+
+# @ wpestate
+#: functions.php:546
+msgid "Username: %s"
+msgstr "اسم المستخدم: %s"
+
+# @ wpestate
+#: functions.php:547
+msgid "Password: %s"
+msgstr "كلمة المرور:  %s"
+
+# @ wpestate
+#: functions.php:548
+msgid "You can now login with your new password at: "
+msgstr "يمكنك الان تسجيل الدخول باستخدام كلمة مرورك الجديدة: "
+
+# @ wpestate
+#: functions.php:559
+msgid "A new password was sent via email!"
+msgstr "تم ارسال كلمة المرور الجديدة عبر بريدك الالكتروني!"
+
+#: functions.php:566
+msgid "We have just sent you a new password. Please check your email!"
+msgstr "تمت ارسال كلمة السر الى البريد الالكتروني!"
+
+#: functions.php:589 functions.php:604
+msgid "Message sent from page: "
+msgstr "رسالة من: "
+
+# @ wpestate
+#: functions.php:709 functions.php:736 libs/help_functions.php:3233
+#: libs/help_functions.php:3239 libs/help_functions.php:3379
+#: libs/help_functions.php:3635 libs/help_functions.php:3771
+#: libs/help_functions.php:4101 libs/searchfunctions.php:357
+#: libs/searchfunctions.php:408 libs/searchfunctions2.php:14
+#: property_list_directory.php:79 property_list_half.php:69
+#: templates/advanced_search_type2.php:46
+#: templates/advanced_search_type8.php:144
+#: templates/advanced_search_type9.php:146
+#: templates/advanced_search_type_half.php:126
+#: templates/advanced_search_type_half.php:159
+#: templates/advanced_search_type_half.php:170
+#: templates/adv_search_mobile.php:74 templates/adv_search_mobile.php:99
+#: templates/adv_search_mobile.php:175 templates/directory_filters.php:28
+#: templates/property_ajax_tax_hidden_filters.php:24
+#: templates/property_ajax_tax_hidden_filters.php:60
+#: templates/property_list_filters.php:52 templates/property_list_filters.php:92
+#: templates/taxonomy_agent_hidden_filters.php:21
+msgid "Types"
+msgstr "الأنواع"
+
+# @ wpestate
+#: functions.php:762 libs/help_functions.php:3235 libs/help_functions.php:3419
+#: libs/help_functions.php:3668 libs/help_functions.php:3804
+#: libs/help_functions.php:4324 property_list_directory.php:130
+#: property_list_half.php:86 templates/advanced_search_type_half.php:243
+#: templates/advanced_search_type_half.php:253
+#: templates/directory_filters.php:49
+#: templates/property_ajax_tax_hidden_filters.php:26
+#: templates/property_ajax_tax_hidden_filters.php:90
+#: templates/property_list_filters.php:54
+#: templates/property_list_filters.php:134
+#: templates/submit_templates/property_location.php:157
+#: templates/submit_templates/property_location.php:163
+#: templates/taxonomy_agent_hidden_filters.php:23
+msgid "Cities"
+msgstr "المدينة"
+
+# @ wpestate
+#: functions.php:790 libs/help_functions.php:3237 libs/help_functions.php:3436
+#: libs/help_functions.php:3683 libs/help_functions.php:3819
+#: libs/help_functions.php:4429 property_list_directory.php:155
+#: property_list_directory.php:182 property_list_half.php:93
+#: templates/advanced_search_type_half.php:281
+#: templates/advanced_search_type_half.php:291
+#: templates/directory_filters.php:59
+#: templates/property_ajax_tax_hidden_filters.php:27
+#: templates/property_ajax_tax_hidden_filters.php:80
+#: templates/property_list_filters.php:55
+#: templates/property_list_filters.php:124
+#: templates/submit_templates/property_location.php:206
+#: templates/submit_templates/property_location.php:212
+#: templates/taxonomy_agent_hidden_filters.php:24
+msgid "Areas"
+msgstr "المساحات"
+
+# @ wpestate
+#: functions.php:814 libs/css_js_include.php:742
+#: templates/advanced_search_type_half.php:315
+msgid "Type Bedrooms No."
+msgstr "ادخل عدد غرف النوم"
+
+# @ wpestate
+#: functions.php:823 libs/css_js_include.php:743
+#: templates/advanced_search_type_half.php:320
+msgid "Type Bathrooms No."
+msgstr "عدد دورات المياه"
+
+#: functions.php:854 libs/help_functions.php:3041 libs/searchfunctions2.php:88
+#: templates/advanced_search_type_half.php:347
+#: templates/directory_filters.php:159
+msgid "Price range:"
+msgstr "نطاق السعر:"
+
+# @ wpestate
+#: functions.php:875 libs/css_js_include.php:744
+#: templates/advanced_search_type_half.php:358
+msgid "Type Min. Price"
+msgstr "ادخل اقل سعر للبحث"
+
+# @ wpestate
+#: functions.php:879 libs/css_js_include.php:745
+#: templates/advanced_search_type_half.php:362
+msgid "Type Max. Price"
+msgstr "ادخل اعلى سعر للبحث"
+
+#: functions.php:1474 functions.php:1491 functions.php:1506 functions.php:1522
+#: functions.php:1538 functions.php:1553 functions.php:1568 functions.php:1583
+#: functions.php:1598 functions.php:1615 functions.php:1630 functions.php:1646
+#: functions.php:1663
+msgid "Clear theme cache after demo import is complete!"
+msgstr "مسح ذاكرة التخزين المؤقت للسمة بعد اكتمال الاستيراد التجريبي!"
+
+#. Template Name of the theme
+#: libs/help_functions.php:829
+msgid "GDPR Terms"
+msgstr "الشروط"
+
+# @ wpestate
+#: index.php:40
+msgid "There are no posts published!"
+msgstr "لا توجد منشورات!"
+
+#: libs/3rdparty.php:118
+msgid "right now"
+msgstr "الاّن"
+
+#: libs/3rdparty.php:120
+msgid " seconds ago"
+msgstr " منذ ثوانى"
+
+#: libs/3rdparty.php:122
+msgid "about 1 minute ago"
+msgstr "منذ حوالي 1 دقيقة"
+
+#: libs/3rdparty.php:124
+msgid " minutes ago"
+msgstr " دقائق مضت"
+
+#: libs/3rdparty.php:126
+msgid "about 1 hour ago"
+msgstr "منذ حوالي ساعة"
+
+#: libs/3rdparty.php:128
+msgid " hours ago"
+msgstr " منذ ساعات"
+
+#: libs/3rdparty.php:130
+msgid "yesterday"
+msgstr "امس ا"
+
+#: libs/3rdparty.php:132
+msgid " days ago"
+msgstr "منذ أيام"
+
+#: libs/3rdparty.php:134
+msgid "over a year ago"
+msgstr "اكثر من سنة مضت"
+
+# @ wpestate
+#: libs/3rdparty.php:257 libs/3rdparty.php:262
+msgid " package on "
+msgstr " حزمة على "
+
+#: libs/3rdparty.php:377 libs/3rdparty.php:378
+msgid "PayPal payment agreement"
+msgstr "اتفاق الدفع باي بال"
+
+#: libs/ajax_functions.php:19 libs/listing_functions.php:73
+#: libs/listing_functions.php:97 templates/property_page_acc_content.php:207
+#: templates/property_page_acc_content.php:221
+#: templates/property_page_tab_content.php:204
+msgid "Map"
+msgstr "الموقع"
+
+# @ wpestate
+#: libs/ajax_functions.php:97 libs/ajax_functions.php:209
+#: libs/css_js_include.php:861 libs/design_functions.php:1777
+#: templates/featured_property_3.php:34 templates/featured_property_4.php:48
+#: templates/listing_templates/overview_template.php:10
+#: templates/property_cards_templates/property_card_actions_type_default.php:11
+#: templates/property_cards_templates/property_card_favorite.php:8
+msgid "add to favorites"
+msgstr "اضافة للمفضلة"
+
+# @ wpestate
+#: libs/ajax_functions.php:112 libs/ajax_functions.php:214
+#: libs/css_js_include.php:860
+msgid "favorite"
+msgstr "المفضلة"
+
+#: libs/ajax_functions.php:183
+msgid "Number of Page Views"
+msgstr "عدد مشاهدات الصفحة"
+
+# @ wpestate
+#: libs/ajax_functions.php:246 templates/property_page_acc_content.php:334
+#: templates/property_page_acc_content.php:348
+#: templates/property_page_tab_content.php:325
+msgid "Payment Calculator"
+msgstr "حاسبة التمويل العقاري"
+
+#: libs/ajax_functions.php:265 templates/property_page_acc_content.php:363
+#: templates/property_page_acc_content.php:378
+#: templates/property_page_tab_content.php:75
+#: templates/submit_templates/floor_plans.php:16
+#: templates/submit_templates/property_floor_plans.php:71
+msgid "Floor Plans"
+msgstr "البلان (المسقط الهندسي)"
+
+#: libs/ajax_functions.php:286 templates/property_page_acc_content.php:306
+#: templates/property_page_acc_content.php:320
+#: templates/property_page_tab_content.php:299
+msgid "What's Nearby"
+msgstr "ماهو القريب منه"
+
+#: libs/ajax_functions.php:313 templates/property_page_acc_content.php:270
+#: templates/property_page_acc_content.php:287
+#: templates/property_page_tab_content.php:265
+msgid "WalkScore"
+msgstr "المشي بالنتيجه"
+
+#: libs/ajax_functions.php:340 libs/dashboard_actions_functions.php:223
+#: templates/property_page_acc_content.php:240
+#: templates/property_page_acc_content.php:254
+#: templates/property_page_tab_content.php:236
+#: templates/submit_templates/video_tour.php:27
+msgid "Virtual Tour"
+msgstr "جولة افتراضية \"بانوراما\""
+
+# @ wpestate
+#: libs/ajax_functions.php:370 templates/property_page_acc_content.php:164
+#: templates/property_page_tab_content.php:161
+msgid "Video"
+msgstr "فيديو"
+
+# @ wpestate
+#: libs/ajax_functions.php:397 templates/property_page_acc_content.php:126
+#: templates/property_page_tab_content.php:62
+#: templates/submit_templates/property_amenities.php:109
+msgid "Amenities and Features"
+msgstr "المميزات واضافات الراحة"
+
+# @ wpestate
+#: libs/ajax_functions.php:427 templates/property_page_acc_content.php:92
+#: templates/property_page_tab_content.php:49
+msgid "Property Details"
+msgstr "تفاصيل العقار"
+
+# @ wpestate
+#: libs/ajax_functions.php:455 libs/dashboard_actions_functions.php:116
+#: libs/help_functions.php:5201 templates/property_page_acc_content.php:64
+#: templates/property_page_tab_content.php:39
+msgid "Property Address"
+msgstr "عنوان العقار"
+
+#: libs/ajax_functions.php:486 libs/dashboard_actions_functions.php:16
+#: libs/help_functions.php:5194 libs/megamenu.php:255
+#: templates/property_page_acc_content.php:23
+#: templates/property_page_tab_content.php:26
+#: templates/submit_templates/property_description.php:17
+msgid "Description"
+msgstr "الوصف"
+
+# @ wpestate
+#: libs/ajax_functions.php:709 libs/ajax_functions.php:881
+#: libs/ajax_functions.php:1277 libs/ajax_functions.php:1805
+#: libs/ajax_functions.php:2533 libs/ajax_functions.php:4152
+#: libs/ajax_functions.php:4405 libs/ajax_functions.php:4670
+#: templates/google_maps_base.php:75
+msgid "We didn't find any results"
+msgstr "لم نتمكن من العثور على أية نتائج"
+
+#: libs/ajax_functions.php:1270 templates/agency_unit.php:149
+#: templates/agent_unit.php:22 templates/agent_unit_widget.php:109
+msgid "listings"
+msgstr "قوائم"
+
+#: libs/ajax_functions.php:1331
+msgid ""
+"Please validate your purchase code in order to use the theme! See this link "
+"link  "
+msgstr ""
+"يرجى التحقق من صحة رمز الشراء الخاص بك من أجل استخدام الموضوع! راجع رابط "
+"الارتباط هذا"
+
+#: libs/ajax_functions.php:1331
+msgid "if you don't know how to get your license key. Thank you!"
+msgstr "إذا كنت لا تعرف كيفية الحصول على مفتاح الرخصة الخاص بك. شكرا لكم!"
+
+# @ wpestate
+#: libs/ajax_functions.php:1813 libs/ajax_functions.php:4679
+#: templates/dashboard-templates/user_memebership_profile.php:138
+#: templates/half_map_core.php:175
+msgid "Listings"
+msgstr "عقار"
+
+# @ wpestate
+#: libs/ajax_functions.php:2244 libs/ajax_functions.php:2357
+#: libs/help_functions.php:4669
+msgid "Hi there,"
+msgstr "مرحبا،"
+
+#: libs/ajax_functions.php:2245
+msgid ""
+"We received your  Wire Transfer payment request on %s ! Please follow the "
+"instructions below in order to start submitting properties as soon as "
+"possible."
+msgstr ""
+"تلقينا مبلغ طلب نقل الإسلاك الخاصة بك على %s يرجى اتباع التعليمات التالية من "
+"أجل البدء في تقديم عقارات في أقرب وقت ممكن."
+
+#: libs/ajax_functions.php:2246
+msgid "The invoice number is: "
+msgstr "رقم الفاتورة هو: "
+
+#: libs/ajax_functions.php:2246
+msgid "Amount:"
+msgstr "قيمة:"
+
+#: libs/ajax_functions.php:2247
+msgid "Instructions: "
+msgstr "تعليمات: "
+
+#: libs/ajax_functions.php:2585
+msgid "you don't have the right to delete this"
+msgstr "لم يكن لديك الحق في حذف هذا"
+
+#: libs/ajax_functions.php:2643
+msgid ""
+"Search has been saved. You will receive an email notification when new "
+"properties matching your search have been published"
+msgstr ""
+"تم حفظ البحث. ستتلقى إشعارا بالبريد الإلكتروني عند نشر عقارات جديدة تطابق "
+"بحثك."
+
+#: libs/ajax_functions.php:2784
+msgid "wrong captcha"
+msgstr "خطأ في التحقق"
+
+# @ wpestate
+#: libs/ajax_functions.php:2812 libs/dashboard_actions_functions.php:821
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "اسم مستخدم خاطئ (يمنع استخدام الرموز والفراغات)"
+
+# @ wpestate
+#: libs/ajax_functions.php:2817 libs/dashboard_actions_functions.php:825
+#: libs/dashboard_actions_functions.php:851
+msgid "Username and/or Email field is empty!"
+msgstr "اسم المستخدم و/أو كلمة المرور غير محددتان!"
+
+# @ wpestate
+#: libs/ajax_functions.php:2822 libs/dashboard_actions_functions.php:866
+msgid "The email doesn't look right !"
+msgstr "الرجاء التأكد من صيغة البريد الالكتروني !"
+
+# @ wpestate
+#: libs/ajax_functions.php:2828 libs/dashboard_actions_functions.php:871
+msgid "The email's domain doesn't look right."
+msgstr "الرجاء التأكد من مستضيف البريد الالكتروني المدخل "
+
+# @ wpestate
+#: libs/ajax_functions.php:2835 libs/dashboard_actions_functions.php:830
+msgid "Username already exists.  Please choose a new one."
+msgstr "اسم المستخدم محجوز، الرجاء استخدام اسم اخر."
+
+#: libs/ajax_functions.php:2844 libs/dashboard_actions_functions.php:837
+msgid "One of the password field is empty!"
+msgstr "واحد من حقول كلمة السر فارغ!"
+
+# @ wpestate
+#: libs/ajax_functions.php:2849 libs/ajax_functions.php:3821
+#: libs/dashboard_actions_functions.php:841
+msgid "Passwords do not match"
+msgstr "كلمات المرور غير متوافقة"
+
+#: libs/ajax_functions.php:2869
+msgid "Your account was created and you can login now!"
+msgstr "تم إنشاء حسابك ويمكنك تسجيل الدخول الآن!"
+
+# @ wpestate
+#: libs/ajax_functions.php:2871
+msgid "An email with the generated password was sent!"
+msgstr ""
+"تم ارسال بريد الكتروني يحتوي معلومات الدخول وكلمة المرور الخاصة بك. شكراً لك !"
+
+# @ wpestate
+#: libs/ajax_functions.php:2884 libs/dashboard_actions_functions.php:845
+#: libs/dashboard_actions_functions.php:855
+msgid "Email already exists.  Please choose a new one."
+msgstr "البريد الالكتروني مستخدم من قبل، الرجاء اختيار بريد الكتوني اخر."
+
+# @ wpestate
+#: libs/ajax_functions.php:2903 libs/dashboard_actions_functions.php:551
+#: single-estate_property.php:219 single-estate_property.php:224
+#: templates/dashboard-templates/user_memebership_profile.php:73
+#: templates/property_cards_templates/property_card_agent_details.php:15
+msgid "Agent"
+msgstr "وكيل"
+
+#: libs/ajax_functions.php:2907
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "Agency"
+msgstr "وكالة"
+
+#: libs/ajax_functions.php:2911
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "Developer"
+msgstr "توسعه دهنده"
+
+# @ wpestate
+#: libs/ajax_functions.php:2962 libs/ajax_functions.php:3017
+#: libs/ajax_functions.php:3074
+msgid "You are already logged in! redirecting..."
+msgstr "تم تسجيل دخولك بالفعل! يجري اعادة التوجيه..."
+
+# @ wpestate
+#: libs/ajax_functions.php:2972 libs/ajax_functions.php:3028
+#: libs/ajax_functions.php:3085
+msgid "Username and/or Password field is empty!"
+msgstr "اسم المستخدم و/او كلمة المرور فارغة!"
+
+# @ wpestate
+#: libs/ajax_functions.php:2992 libs/ajax_functions.php:3049
+#: libs/ajax_functions.php:3097
+msgid "Wrong username or password!"
+msgstr "خطا في اسم المستخدم او كلمة المرور!"
+
+# @ wpestate
+#: libs/ajax_functions.php:2998 libs/ajax_functions.php:3055
+#: libs/ajax_functions.php:3105
+msgid "Login successful, redirecting..."
+msgstr "تم تسجيل الدخول بنجاح، يجري اعادة التوجيه..."
+
+# @ wpestate
+#: libs/ajax_functions.php:3134
+msgid "Email field is empty!"
+msgstr "حقل البريد الالكتروني فارغ!"
+
+#: libs/ajax_functions.php:3143
+msgid "Invalid E-mail address!"
+msgstr "عنوان البريد الإلكتروني غير صالح!"
+
+#: libs/ajax_functions.php:3151
+msgid "Invalid Username!"
+msgstr "اسم المستخدم غير صالح!"
+
+# @ wpestate
+#: libs/ajax_functions.php:3173
+msgid "We have just sent you an email with Password reset instructions."
+msgstr "تم ارسال بريد الكتروني اليك، يحتوي تعليمات اعادة تعيين كلمة المرور."
+
+#: libs/ajax_functions.php:3292 libs/ajax_functions.php:3467
+#: libs/ajax_functions.php:3635
+msgid "The email was not saved because it is used by another user."
+msgstr "لم يتم حفظ البريد الإلكتروني لأنه مستخدم من قبل مستخدم آخر"
+
+# @ wpestate
+#: libs/ajax_functions.php:3307 libs/ajax_functions.php:3482
+#: libs/ajax_functions.php:3650
+msgid "Profile updated"
+msgstr "تم تحديث الملف الشخصي"
+
+# @ wpestate
+#: libs/ajax_functions.php:3816
+msgid "The new password is blank"
+msgstr "كلمة المررور الجديدة فارغ"
+
+# @ wpestate
+#: libs/ajax_functions.php:3829
+msgid "Password Updated"
+msgstr "تم تحديث كلمة المرور"
+
+# @ wpestate
+#: libs/ajax_functions.php:3831
+msgid "Old Password is not correct"
+msgstr "كلمة المرور القديمة غير صحيحة"
+
+# @ wpestate
+#: libs/ajax_functions.php:3872 libs/ajax_functions.php:3878
+msgid "addded"
+msgstr "تمت الاضافة"
+
+# @ wpestate
+#: libs/ajax_functions.php:3885
+msgid "removed"
+msgstr "تم الحذف"
+
+# @ wpestate
+#: libs/ajax_functions.php:4818
+msgid "Listing payment on "
+msgstr "ادراج الدفع في "
+
+# @ wpestate
+#: libs/ajax_functions.php:4830
+msgid "Upgrade to featured listing on "
+msgstr "الترقية الى الادراجات المميزة في "
+
+# @ wpestate
+#: libs/ajax_functions.php:4917
+msgid "Upgrade to Featured Listing"
+msgstr "الترقية للادراجات المميزة"
+
+# @ wpestate
+#: libs/ajax_functions.php:4926
+msgid "Listing Payment"
+msgstr "ادراج الدفع"
+
+# @ wpestate
+#: libs/ajax_functions.php:4936
+msgid "Listing Payment with Featured option"
+msgstr "ادراج الدفع مع الخيارات المميزة"
+
+# @ wpestate
+#: libs/ajax_functions.php:5049
+msgid "Sent for approval"
+msgstr "ارسال للموافقة عليها"
+
+# @ wpestate
+#: libs/ajax_functions.php:5061
+msgid "no listings available"
+msgstr "لا يتوفر اي منشورات"
+
+#: libs/ajax_functions.php:5090
+msgid "The date & time is already booked. Please choose a new one"
+msgstr "التاريخ & الوقت حجزت بالفعل. يرجى اختيار واحدة جديدة"
+
+# @ wpestate
+#: libs/ajax_functions.php:5179
+msgid "membership payment on "
+msgstr "عضوية مدفوعة في "
+
+# @ wpestate
+#: libs/ajax_functions.php:5186 libs/ajax_functions.php:5189
+msgid "Membership Payment"
+msgstr "عضوية مدفوعة"
+
+#: libs/ajax_functions.php:5251
+msgid "Unable to login. Please, check login/password and try again"
+msgstr ""
+"غير قادر على تسجيل الدخول. الرجاء التحقق من تسجيل الدخول/كلمة المرور وحاول "
+"مرة أخرى"
+
+#: libs/ajax_functions.php:5259
+msgid "Please, enter correct email"
+msgstr "الرجاء إدخال البريد الإلكتروني الصحيح"
+
+#: libs/ajax_functions.php:5273
+msgid "Can\\t create user with this credentials"
+msgstr "يمكن أن\\t إنشاء المستخدم مع هذا التفويض"
+
+#: libs/ajax_functions.php:5277
+msgid "Sorry, user already exists. Try different username/email"
+msgstr "آسف المستخدم موجود بالفعل. محاولة مختلفة اسم المستخدم/البريد الإلكتروني"
+
+#: libs/css_js_include.php:242
+msgid "payment failed"
+msgstr "دفع فشل"
+
+# @ wpestate
+#: libs/css_js_include.php:555
+msgid " in "
+msgstr " في "
+
+# @ wpestate
+#: libs/css_js_include.php:562
+msgid "The browser couldn't detect your position!"
+msgstr "تعذر على المتصفح تحديد موقعك!"
+
+# @ wpestate
+#: libs/css_js_include.php:563
+msgid "Geolocation is not supported by this browser."
+msgstr "هذا المتصفح لا يدعم خاصية تحديد المواقع الجغرافية."
+
+# @ wpestate
+#: libs/css_js_include.php:564
+msgid "m radius"
+msgstr "نصف القطر بالمتر"
+
+# @ wpestate
+#: libs/css_js_include.php:571 libs/css_js_include.php:765
+msgid "close map"
+msgstr "اغلاق الخارطة"
+
+#: libs/css_js_include.php:582
+msgid "No results found!"
+msgstr "لا توجد نتائج!"
+
+#: libs/css_js_include.php:588
+msgid "loading results..."
+msgstr "لتحميل النتائج..."
+
+#: libs/css_js_include.php:593 libs/theme-slider.php:455
+#: templates/featured_property_5.php:32
+#: templates/property_cards_templates/property_card_details_type5.php:14
+msgid "BA"
+msgstr "حمام"
+
+#: libs/css_js_include.php:594 libs/theme-slider.php:451
+#: templates/featured_property_5.php:28
+#: templates/property_cards_templates/property_card_details_type5.php:10
+msgid "BD"
+msgstr "نوم"
+
+#: libs/css_js_include.php:661 libs/css_js_include.php:1125
+msgid "Geolocation was not successful"
+msgstr "تحديد الموقع الجغرافي لم يكن ناجحا"
+
+#: libs/css_js_include.php:710 libs/help_functions.php:5332
+#: libs/help_functions.php:5340
+msgid "Principal and Interest"
+msgstr "والفائدة"
+
+#: libs/css_js_include.php:711 libs/help_functions.php:5334
+#: libs/help_functions.php:5344
+msgid "HOO fees"
+msgstr "هوو رسوم"
+
+# @ wpestate
+#: libs/css_js_include.php:712 libs/help_functions.php:5333
+#: libs/help_functions.php:5341
+msgid "Property Tax"
+msgstr "ضريبة العقار"
+
+# @ wpestate
+#: libs/css_js_include.php:713 libs/css_js_include.php:881
+msgid "Property Views"
+msgstr "مشاهدات العقار"
+
+# @ wpestate
+#: libs/css_js_include.php:736
+msgid "Amount Financed:"
+msgstr "مبلغ التمويل:"
+
+# @ wpestate
+#: libs/css_js_include.php:737
+msgid "Mortgage Payments:"
+msgstr "مدفوعات التمويل العقاري:"
+
+# @ wpestate
+#: libs/css_js_include.php:738
+msgid "Annual cost of Loan:"
+msgstr "التكلفة السنوية للقرض:"
+
+# @ wpestate
+#: libs/css_js_include.php:739
+msgid "SEARCH"
+msgstr "بحث"
+
+# @ wpestate
+#: libs/css_js_include.php:740
+msgid "Search here..."
+msgstr "ابحث هنا..."
+
+# @ wpestate
+#: libs/css_js_include.php:746 libs/css_js_include.php:753
+#: libs/css_js_include.php:842 libs/css_js_include.php:846
+#: templates/agent_contact.php:85 templates/footer_buttons.php:17
+msgid "Your Name"
+msgstr "اسمك"
+
+# @ wpestate
+#: libs/css_js_include.php:747 libs/css_js_include.php:754
+#: libs/css_js_include.php:843 libs/css_js_include.php:847
+#: templates/agent_contact.php:87 templates/footer_buttons.php:18
+msgid "Your Email"
+msgstr "الإيميل"
+
+# @ wpestate
+#: libs/css_js_include.php:748 libs/css_js_include.php:755
+#: libs/css_js_include.php:844 libs/css_js_include.php:848
+#: templates/agent_contact.php:88 templates/footer_buttons.php:19
+msgid "Your Phone"
+msgstr "رقم الهاتف"
+
+# @ wpestate
+#: libs/css_js_include.php:749 libs/css_js_include.php:756
+#: libs/css_js_include.php:845 libs/css_js_include.php:849
+msgid "Your Message"
+msgstr "رسالتك"
+
+# @ wpestate
+#: libs/css_js_include.php:750
+msgid "Your Address"
+msgstr "عنوانك"
+
+# @ wpestate
+#: libs/css_js_include.php:751
+msgid "Your City"
+msgstr "مدينتك"
+
+# @ wpestate
+#: libs/css_js_include.php:752
+msgid "Your State Code (ex CA)"
+msgstr "رمز الولاية"
+
+# @ wpestate
+#: libs/css_js_include.php:757 libs/css_js_include.php:850
+msgid "Send Message"
+msgstr "ارسال رسالة"
+
+# @ wpestate
+#: libs/css_js_include.php:760 libs/css_js_include.php:856
+msgid "Sending user info, please wait..."
+msgstr "ارسال معلومات المستخدم، الرجاء الانتظار..."
+
+# @ wpestate
+#: libs/css_js_include.php:761 libs/listing_functions.php:78
+#: libs/listing_functions.php:101 templates/google_maps_base.php:125
+msgid "Street View"
+msgstr "معاينة الشارع"
+
+# @ wpestate
+#: libs/css_js_include.php:762
+msgid "Close Street View"
+msgstr "إغلاق رؤية الطريق"
+
+# @ wpestate
+#: libs/css_js_include.php:766 templates/google_maps_base.php:84
+#: templates/google_maps_base.php:88
+msgid "open map"
+msgstr "توسيع الخارطة"
+
+# @ wpestate
+#: libs/css_js_include.php:767 templates/google_maps_base.php:99
+#: templates/google_maps_base_map_list.php:12
+msgid "Fullscreen"
+msgstr "كامل الشاشة"
+
+# @ wpestate
+#: libs/css_js_include.php:768 templates/normal_directory.php:78
+#: templates/property_list_filters_search.php:18
+#: templates/property_list_filter_half.php:17
+msgid "Default"
+msgstr "ترتيب البحث"
+
+# @ wpestate
+#: libs/css_js_include.php:769
+msgid "Please wait while we are processing your submission!"
+msgstr "الرجاء الانتظار، نحن نقوم بمعالجة مدخلاتك!"
+
+#: libs/css_js_include.php:770
+msgid "Are you sure you wish to delete?"
+msgstr "هل أنت متأكد أنك تود الحذف ؟"
+
+#: libs/css_js_include.php:771
+msgid "You need to agree with terms and conditions !"
+msgstr "تحتاج إلى أن توافق على الشروط والأحكام!"
+
+#: libs/css_js_include.php:772
+msgid "Processing..."
+msgstr "معالجة..."
+
+#: libs/css_js_include.php:778 libs/general-settings.php:49
+#: libs/general-settings.php:51 libs/general-settings.php:61
+#: libs/general-settings.php:63 libs/searchfunctions.php:2362
+#: libs/searchfunctions.php:2390 libs/searchfunctions.php:2422
+#: templates/directory_filters.php:191 templates/directory_filters.php:208
+#: templates/directory_filters.php:227 templates/directory_filters.php:246
+#: templates/directory_filters.php:265
+msgid "to"
+msgstr "إلى"
+
+#: libs/css_js_include.php:780
+msgid "Send me the invoice"
+msgstr "أرسل لي الفاتورة"
+
+#: libs/css_js_include.php:781
+msgid "Direct payment instructions"
+msgstr "تعليمات الدفع المباشر"
+
+#: libs/css_js_include.php:782
+msgid "Thank you. Please check your email for payment instructions."
+msgstr "شكرا. لقد تم ارسال إجراءات الدفع إلى بريدك الإلكتروني."
+
+#: libs/css_js_include.php:783
+msgid "To be paid"
+msgstr "المبلغ الذي سوف يدفع"
+
+#: libs/css_js_include.php:785 libs/css_js_include.php:1044
+#: libs/dashboard_functions.php:1252
+#: templates/submit_templates/floor_plans.php:24
+#: templates/submit_templates/floor_plans.php:131
+#: templates/submit_templates/property_floor_plans.php:139
+msgid "Plan Title"
+msgstr "عنوان الخطة"
+
+#: libs/css_js_include.php:786 libs/css_js_include.php:1045
+#: templates/submit_templates/floor_plans.php:54
+#: templates/submit_templates/floor_plans.php:141
+msgid "Plan Image"
+msgstr "صورة التقسيم"
+
+#: libs/css_js_include.php:787 libs/css_js_include.php:1046
+#: libs/dashboard_functions.php:1255
+#: templates/submit_templates/floor_plans.php:29
+#: templates/submit_templates/floor_plans.php:136
+#: templates/submit_templates/property_floor_plans.php:145
+msgid "Plan Description"
+msgstr "وصف المخطط"
+
+#: libs/css_js_include.php:788 libs/css_js_include.php:1047
+#: libs/dashboard_functions.php:1256
+#: templates/submit_templates/floor_plans.php:34
+#: templates/submit_templates/floor_plans.php:147
+#: templates/submit_templates/property_floor_plans.php:150
+msgid "Plan Size"
+msgstr "المساحة"
+
+#: libs/css_js_include.php:789 libs/css_js_include.php:1048
+#: libs/dashboard_functions.php:1257
+#: templates/submit_templates/floor_plans.php:39
+#: templates/submit_templates/floor_plans.php:152
+#: templates/submit_templates/property_floor_plans.php:155
+msgid "Plan Rooms"
+msgstr "عدد الغرف"
+
+#: libs/css_js_include.php:790 libs/css_js_include.php:1049
+#: libs/dashboard_functions.php:1258
+#: templates/submit_templates/floor_plans.php:44
+#: templates/submit_templates/floor_plans.php:157
+#: templates/submit_templates/property_floor_plans.php:160
+msgid "Plan Bathrooms"
+msgstr "خطة الحمامات"
+
+#: libs/css_js_include.php:791 libs/css_js_include.php:1050
+#: templates/submit_templates/floor_plans.php:49
+#: templates/submit_templates/floor_plans.php:162
+msgid "Plan Price"
+msgstr "سعر الدور"
+
+#: libs/css_js_include.php:794
+msgid "deleting..."
+msgstr "حذف..."
+
+#: libs/css_js_include.php:795
+msgid "saving..."
+msgstr "حفظ..."
+
+#: libs/css_js_include.php:809
+msgid "posting"
+msgstr "نشر"
+
+#: libs/css_js_include.php:810
+msgid "Review Sent "
+msgstr "تم ارسال التقييم"
+
+#: libs/css_js_include.php:811
+msgid "Review Edit Saved"
+msgstr "مراجعة تحرير محفوظ"
+
+#: libs/css_js_include.php:814
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:87
+msgid "Pay"
+msgstr "ادفع"
+
+# @ wpestate
+#: libs/css_js_include.php:815
+msgid "Payment for package"
+msgstr "الدفع مقابل الباقة"
+
+#: libs/css_js_include.php:820 libs/help_functions.php:1828
+msgid "miles"
+msgstr "أميال"
+
+#: libs/css_js_include.php:821 libs/help_functions.php:1831
+msgid "km"
+msgstr "كم"
+
+#: libs/css_js_include.php:851 libs/dashboard_functions.php:1245
+#: libs/dashboard_functions.php:1402
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:13
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:10
+msgid "Disabled"
+msgstr "معطل"
+
+# @ wpestate
+#: libs/css_js_include.php:852 libs/dashboard_functions.php:1246
+#: libs/dashboard_functions.php:1398
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:9
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:7
+msgid "Published"
+msgstr "منشور"
+
+#: libs/css_js_include.php:853 libs/css_js_include.php:867
+msgid "Please, enter property title"
+msgstr "الرجاء إدخال عنوان الإقامة"
+
+# @ wpestate
+#: libs/css_js_include.php:858
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:39
+msgid "Property is featured"
+msgstr "عقار مميز"
+
+# @ wpestate
+#: libs/css_js_include.php:859
+msgid "You have used all the \"Featured\" listings in your package."
+msgstr "قمت باستخدام جميع ال \"عقارات المميزة\" في حزمتك."
+
+# @ wpestate
+#: libs/css_js_include.php:862 libs/design_functions.php:1783
+#: templates/featured_property_3.php:38 templates/featured_property_4.php:52
+#: templates/listing_templates/overview_template.php:15
+#: templates/property_cards_templates/property_card_actions_type_default.php:15
+#: templates/property_cards_templates/property_card_favorite.php:13
+msgid "remove from favorites"
+msgstr "حذف من المفضلة"
+
+# @ wpestate
+#: libs/css_js_include.php:863
+msgid "saving.."
+msgstr "جاري الحفظ.."
+
+#: libs/css_js_include.php:864
+msgid "sending message.."
+msgstr "إرسال الرسالة.."
+
+#: libs/css_js_include.php:865
+msgid "Please, enter field:"
+msgstr "الرجاء إدخال الحقل:"
+
+#: libs/css_js_include.php:866
+msgid "You need to upload at last one image"
+msgstr "تحتاج إلى تحميل في آخر صورة"
+
+#: libs/css_js_include.php:868
+msgid "Connecting to Paypal! Please wait..."
+msgstr "الاتصال بـ باي بال! يرجى الإنتظار..."
+
+#: libs/css_js_include.php:869
+#: templates/dashboard-templates/user_memebership_profile.php:43
+msgid "subscription will be cancelled at the end of current period"
+msgstr "سيتم إلغاء الاشتراك في نهاية الفترة الحالية"
+
+#: libs/css_js_include.php:871 libs/dashboard_functions.php:1247
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:96
+msgid "Disable Listing"
+msgstr "تعطيل الإعلان"
+
+#: libs/css_js_include.php:872 libs/dashboard_functions.php:1248
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:100
+msgid "Enable Listing"
+msgstr "تمكين الإعلان"
+
+#: libs/css_js_include.php:873 libs/dashboard_functions.php:1249
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:26
+msgid "Disable Agent"
+msgstr "تعطيل الوكيل"
+
+#: libs/css_js_include.php:874 libs/dashboard_functions.php:1250
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:28
+msgid "Enable Agent"
+msgstr "تمكين العميل"
+
+#: libs/css_js_include.php:877
+msgid "You must agree with GDPR terms"
+msgstr "يجب أن توافق على الشروط"
+
+#: libs/css_js_include.php:878
+msgid ""
+"Confirm your ACCOUNT DELETION request! Clicking the button below will delete "
+"your account and data. This means you will no longer be able to login to your "
+"account and access your account information: My Profile, My Properties, "
+"Inbox, Saved Searches and Messages. This operation CAN NOT BE REVERSED!"
+msgstr ""
+"تأكيد طلب حذف حسابك! سيؤدي النقر على الزر أدناه إلى حذف حسابك وبياناتك. وهذا "
+"يعني أنك لن تتمكن بعد الآن من تسجيل الدخول إلى حسابك والوصول إلى معلومات "
+"حسابك: ملفي الشخصي وخصائصي وعلبة الوارد وعمليات البحث المحفوظة والرسائل. لا "
+"يمكن عكس هذه العملية!"
+
+#: libs/css_js_include.php:888
+msgid "Sending"
+msgstr "ارسال"
+
+#: libs/css_js_include.php:909
+msgid "No More Listings"
+msgstr "لا مزيد من القوائم"
+
+# @ wpestate
+#: libs/css_js_include.php:967
+msgid "Allowed Files"
+msgstr "الملفات المسموحة"
+
+#: libs/css_js_include.php:982
+msgid "Image needs to be at least 500px height  x 500px wide!"
+msgstr "تحتاج صورة بعرض 500px ارتفاع * 500px عرض على الأقل!"
+
+#: libs/css_js_include.php:986
+msgid "You cannot upload more than"
+msgstr "لا يمكنك تحميل أكثر من"
+
+#: libs/css_js_include.php:986
+msgid "images"
+msgstr "صور"
+
+# @ wpestate
+#: libs/css_js_include.php:987
+msgid "Are you sure you want to delete this?"
+msgstr "هل انت متأكد من رغبتك باتمام الحذف؟"
+
+#: libs/css_js_include.php:1141
+msgid "Warning !"
+msgstr "تحذير !"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:7
+#: templates/submit_templates/property_description.php:11
+msgid "*Title (mandatory)"
+msgstr "* العنوان (إلزامي)"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:25
+#: templates/submit_templates/property_description.php:69
+#: templates/submit_templates/property_floor_plans.php:165
+msgid "Price in "
+msgstr "للبيع بالـ "
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:25
+#: templates/submit_templates/property_description.php:69
+msgid "(only numbers)"
+msgstr "(أرقام فقط)"
+
+#: libs/dashboard_actions_functions.php:34
+#: templates/submit_templates/property_description.php:94
+msgid "Yearly Tax Rate"
+msgstr "سنوي معدل الضريبة"
+
+#: libs/dashboard_actions_functions.php:42
+#: templates/submit_templates/property_description.php:102
+msgid "Homeowners Association Fee(monthly)"
+msgstr "رابطة أصحاب المنازل رسوم(شهريا)"
+
+#: libs/dashboard_actions_functions.php:50
+#: templates/submit_templates/property_description.php:77
+msgid "After Price Label (ex: \"/month\")"
+msgstr "للإيجار ضع المدة (شهري/سنوي)"
+
+#: libs/dashboard_actions_functions.php:58
+#: templates/submit_templates/property_description.php:85
+msgid "Before Price Label (ex: \"from \")"
+msgstr "نص قبل السعر (مثلاً: \"من\")"
+
+#: libs/dashboard_actions_functions.php:68
+msgid "Select Categorie"
+msgstr "تحديد الفئات"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:77
+msgid "Listed In"
+msgstr "بيع / ايجار"
+
+#: libs/dashboard_actions_functions.php:125 libs/help_functions.php:5204
+msgid "Property Zip"
+msgstr "الرمز البريدي"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:133 libs/listing_functions.php:669
+#: libs/listing_functions.php:720 word_remove.php:76
+msgid "Country"
+msgstr "الدولة"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:159 libs/listing_functions.php:803
+msgid "Property Size"
+msgstr "مساحة العقار"
+
+#: libs/dashboard_actions_functions.php:167 libs/help_functions.php:5217
+msgid "Owner Notes"
+msgstr "مالك الملاحظات"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:175 libs/help_functions.php:5213
+#: libs/listing_functions.php:806
+msgid "Property Lot Size"
+msgstr "مساحة للعقار الكلية"
+
+#: libs/dashboard_actions_functions.php:183 libs/help_functions.php:5214
+msgid "Property Rooms"
+msgstr "عدد الغرف"
+
+#: libs/dashboard_actions_functions.php:191 libs/help_functions.php:5215
+msgid "Property Bedrooms"
+msgstr "غرف نوم العقار"
+
+#: libs/dashboard_actions_functions.php:199 libs/help_functions.php:5216
+msgid "Property Bathrooms"
+msgstr "حمامات العقار"
+
+#: libs/dashboard_actions_functions.php:207
+#: libs/dashboard_actions_functions.php:215
+msgid "Video Type"
+msgstr "نوع الفيديو"
+
+#: libs/dashboard_actions_functions.php:231 libs/help_functions.php:5208
+msgid "Property Latitude"
+msgstr "خط عرض العقار"
+
+#: libs/dashboard_actions_functions.php:239
+msgid "Property Longitudine"
+msgstr "الملكية لونغيتودين"
+
+#: libs/dashboard_actions_functions.php:247
+msgid "Google View"
+msgstr "جوجل عرض"
+
+#: libs/dashboard_actions_functions.php:255 libs/help_functions.php:5210
+msgid "Google Camera Angle"
+msgstr "جوجل زاوية الكاميرا"
+
+#: libs/dashboard_actions_functions.php:264
+msgid "Property subunits list"
+msgstr "قائمة الوحدات الفرعية للممتلكات"
+
+#: libs/dashboard_actions_functions.php:272
+msgid "Property has subunits"
+msgstr "الملكية لها وحدات فرعية"
+
+#: libs/dashboard_actions_functions.php:462
+msgid "from date"
+msgstr "إلى تاريخ"
+
+#: libs/dashboard_actions_functions.php:463
+msgid "to date"
+msgstr "إلى تاريخ"
+
+#: libs/dashboard_actions_functions.php:468
+#: libs/dashboard_actions_functions.php:478
+msgid "Any"
+msgstr "الكل"
+
+#: libs/dashboard_actions_functions.php:469 libs/help_functions.php:4712
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:84
+#: templates/dashboard-templates/invoice_listing_unit.php:25
+msgid "Upgrade to Featured"
+msgstr "الترقية الى مميز"
+
+#: libs/dashboard_actions_functions.php:470
+msgid "Publish Listing with Featured"
+msgstr "نشر القائمة مع المميز"
+
+#: libs/dashboard_actions_functions.php:471
+#: templates/dashboard-templates/invoice_listing_unit.php:29
+msgid "Package"
+msgstr "حزمة"
+
+#: libs/dashboard_actions_functions.php:472
+#: templates/dashboard-templates/invoice_listing_unit.php:23
+msgid "Listing"
+msgstr "قوائم"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:479
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:5
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:22
+#: templates/dashboard-templates/invoice_listing_unit.php:53
+msgid "Paid"
+msgstr "مدفوع"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:480
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-paystatus.php:7
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:24
+#: templates/dashboard-templates/invoice_listing_unit.php:51
+msgid "Not Paid"
+msgstr "غير مدفوع"
+
+#: libs/dashboard_actions_functions.php:485
+msgid "Total Invoices: "
+msgstr "مجموع الفواتير: "
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:492
+msgid "Title"
+msgstr "العنوان"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:494
+msgid "Invoice Type"
+msgstr "نوع الفاتورة"
+
+#: libs/dashboard_actions_functions.php:495
+msgid "Billing Type"
+msgstr "نوع الدفع"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:497
+#: libs/dashboard_actions_functions.php:675
+#: libs/dashboard_actions_functions.php:680 libs/listing_functions.php:799
+#: user_dashboard_favorite.php:42
+msgid "Price"
+msgstr "السعر"
+
+#: libs/dashboard_actions_functions.php:543
+msgid "Search for an Agent"
+msgstr "البحث عن وكيل"
+
+#: libs/dashboard_actions_functions.php:552
+msgid "Phone/Mobile"
+msgstr "هاتف/محمول"
+
+#: libs/dashboard_actions_functions.php:561
+msgid "You don't have any agents added!"
+msgstr "لم يكن لديك أي وكلاء المضافة!"
+
+#: libs/dashboard_actions_functions.php:671
+#: libs/dashboard_actions_functions.php:677 user_dashboard_favorite.php:39
+msgid "Property"
+msgstr "‎‫العقار"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:672
+#: libs/dashboard_actions_functions.php:678 libs/searchfunctions.php:2047
+#: libs/searchfunctions.php:2277
+#: templates/dashboard-templates/add_new_agent.php:146
+#: templates/dashboard-templates/add_new_agent_template.php:250
+#: templates/dashboard-templates/user_profile_agency.php:146
+#: templates/dashboard-templates/user_profile_agency.php:210
+#: templates/dashboard-templates/user_profile_agent.php:214
+#: templates/dashboard-templates/user_profile_developer.php:127
+#: templates/dashboard-templates/user_profile_developer.php:184
+#: templates/submit_templates/property_categories.php:55
+#: user_dashboard_favorite.php:40
+msgid "Category"
+msgstr "الفئة"
+
+#: libs/dashboard_actions_functions.php:674
+msgid "Pay Status"
+msgstr "حالة الدفع:"
+
+#: libs/dashboard_actions_functions.php:688
+msgid "You don't have any properties!"
+msgstr "لم تقم بنشر اي عقارات حتى الان!"
+
+#: libs/dashboard_actions_functions.php:861
+msgid "Agent need a first & last name"
+msgstr "وكيل تحتاج الأول الاسم الأخير"
+
+#: libs/dashboard_actions_functions.php:1044
+msgid "Agent was added... You will be redirected to your agent list..."
+msgstr "وكيل أضيف... سيتم توجيهك إلى قائمة الوكيل..."
+
+#: libs/dashboard_actions_functions.php:1050
+msgid "Agent profile edited"
+msgstr "وكيل الشخصي تحريرها"
+
+#: libs/dashboard_actions_functions.php:1216
+msgid "Started by"
+msgstr "يبدأ بـ"
+
+# @ wpestate
+#: libs/dashboard_actions_functions.php:1217
+#: templates/dashboard-templates/message-listing-unit.php:36
+msgid "Subject"
+msgstr "الموضوع"
+
+#: libs/dashboard_actions_functions.php:1219
+msgid "Action"
+msgstr "الإجراء"
+
+#: libs/dashboard_functions.php:166
+msgid "Account History (last 7 days)"
+msgstr "تاريخ الحساب (آخر 7 أيام)"
+
+#: libs/dashboard_functions.php:188
+msgid "Edited"
+msgstr "تحرير"
+
+#: libs/dashboard_functions.php:190
+msgid "Added"
+msgstr "تمت الإضافة"
+
+#: libs/dashboard_functions.php:192
+msgid "Deleted"
+msgstr "تم الحذف"
+
+#: libs/dashboard_functions.php:197
+msgid "%s property %s"
+msgstr "%s الممتلكات %s"
+
+#: libs/dashboard_functions.php:200
+msgid "%s agent %s"
+msgstr "وكيل %s %s"
+
+#: libs/dashboard_functions.php:203
+msgid "%s agency %s"
+msgstr "سعر الوحدة بالـ "
+
+#: libs/dashboard_functions.php:206
+msgid "%s developer %s"
+msgstr "%s المطور %s"
+
+#: libs/dashboard_functions.php:209
+msgid "Generated Invoice %s"
+msgstr "%s الفاتورة التي تم إنشاؤها"
+
+#: libs/dashboard_functions.php:211
+msgid "Deleted Invoice %s"
+msgstr "%s الفاتورة المحذوفة"
+
+#: libs/dashboard_functions.php:215
+msgid "Write Message  %s"
+msgstr "كتابة %s الرسائل"
+
+#: libs/dashboard_functions.php:217
+msgid "Deleted Message  %s"
+msgstr "حذف رسالة %s"
+
+#: libs/dashboard_functions.php:221
+msgid "Saved Search  %s"
+msgstr "%s البحث المحفوظة"
+
+#: libs/dashboard_functions.php:223
+msgid "Deleted Search  %s"
+msgstr "%s البحث المحذوف"
+
+#: libs/dashboard_functions.php:267
+msgid "Inquiries"
+msgstr "الاستفسارات"
+
+#: libs/dashboard_functions.php:271 libs/dashboard_functions.php:522
+msgid "You don't have any listings or enough data!"
+msgstr "ليس لديك أي قوائم أو بيانات كافية!"
+
+#: libs/dashboard_functions.php:281
+msgid "Your most Popular Listings"
+msgstr "القوائم الأكثر شعبية"
+
+#: libs/dashboard_functions.php:304
+msgid "Total Properties"
+msgstr "إجمالي العقارات"
+
+#: libs/dashboard_functions.php:305
+msgid "Published Properties"
+msgstr "عقارات منشورة"
+
+#: libs/dashboard_functions.php:310
+msgid "Total Agents"
+msgstr "إجمالي المندوبين"
+
+#: libs/dashboard_functions.php:313 libs/dashboard_functions.php:1457
+msgid "Saved Searches"
+msgstr "عمليات البحث المحفوظة"
+
+#: libs/dashboard_functions.php:322
+msgid "Favorite Properties"
+msgstr "عقاراتي المفضلة"
+
+#: libs/dashboard_functions.php:326
+msgid "Account Summary"
+msgstr "ملخص الحساب"
+
+#: libs/dashboard_functions.php:386
+msgid "Listings Views"
+msgstr "طرق عرض القوائم"
+
+#: libs/dashboard_functions.php:394
+msgid "Total views for your listings"
+msgstr "إجمالي عدد المشاهدات لقوائمك"
+
+#: libs/dashboard_functions.php:518
+msgid "Views"
+msgstr "مشاهدات"
+
+#: libs/dashboard_functions.php:534
+msgid "Your most visited Listings"
+msgstr "القوائم الأكثر زيارة"
+
+#: libs/dashboard_functions.php:654
+msgid "Clone: "
+msgstr "نسخة:"
+
+#: libs/dashboard_functions.php:1251
+msgid "Valid file formats"
+msgstr "نموذج ملف صالح"
+
+#: libs/dashboard_functions.php:1253
+#: templates/submit_templates/property_floor_plans.php:140
+msgid "Are you sure you wish to delete ?"
+msgstr "هل انت متأكد من عملية الحذف "
+
+#: libs/dashboard_functions.php:1254
+#: templates/submit_templates/property_floor_plans.php:140
+msgid "Delete Plan"
+msgstr "حذف الخطه"
+
+#: libs/dashboard_functions.php:1259
+msgid "Plan Price in"
+msgstr "سعر الخطة في"
+
+#: libs/dashboard_functions.php:1260
+#: templates/submit_templates/property_floor_plans.php:182
+msgid "Upload Plan Image"
+msgstr "تحميل صورة الخطة"
+
+#: libs/dashboard_functions.php:1261
+msgid "processing..."
+msgstr "معالجة..."
+
+#: libs/dashboard_functions.php:1341
+msgid "Welcome"
+msgstr "اهلا وسهلا"
+
+#: libs/dashboard_functions.php:1394 templates/agency_listings.php:147
+#: templates/agent_listings.php:167
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:5
+#: templates/developer_listings.php:105
+msgid "All"
+msgstr "الكل"
+
+# @ wpestate
+#: libs/dashboard_functions.php:1406
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:17
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:4
+msgid "Expired"
+msgstr "منتهي الصلاحية"
+
+#: libs/dashboard_functions.php:1410
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:21
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:13
+msgid "Draft"
+msgstr "مسودة"
+
+# @ wpestate
+#: libs/dashboard_functions.php:1414
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:25
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-status.php:16
+msgid "Waiting for approval"
+msgstr "بانتظار الموافقة على النشر"
+
+#: libs/dashboard_functions.php:1422
+msgid "Leads"
+msgstr "العملاء المحتملون"
+
+#: libs/dashboard_functions.php:1427
+msgid "Contacts"
+msgstr "المشتركين"
+
+#: libs/dashboard_functions.php:1436 libs/dashboard_functions.php:1477
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+# @ wpestate
+#: libs/dashboard_functions.php:1440
+msgid "My Profile"
+msgstr "ملفي الشخصي"
+
+# @ wpestate
+#: libs/dashboard_functions.php:1444
+msgid "My Properties List"
+msgstr "قائمة عقاراتي"
+
+# @ wpestate
+#: libs/dashboard_functions.php:1448 libs/dashboard_widgets.php:332
+#: word_remove.php:280
+msgid "Add New Property"
+msgstr "اضافة عقار جديد"
+
+# @ wpestate
+#: libs/dashboard_functions.php:1453
+msgid "Favorites"
+msgstr "المفضلة"
+
+#: libs/dashboard_functions.php:1461
+msgid "My Invoices"
+msgstr "الفواتير"
+
+# @ wpestate
+#: libs/dashboard_functions.php:1465
+#: templates/dashboard-templates/add_new_agent_template.php:357
+msgid "Add New Agent"
+msgstr "اضف وكيلاً جديداً"
+
+#: libs/dashboard_functions.php:1469
+msgid "Agent List"
+msgstr "قائمة الوسطاء"
+
+#: libs/dashboard_functions.php:1473
+msgid "Inbox"
+msgstr "صندوق الوارد"
+
+#: libs/dashboard_functions.php:1482
+msgid "CRM"
+msgstr "إدارة العملاء"
+
+# @ wpestate
+#: libs/dashboard_functions.php:1517 libs/dashboard_functions.php:1594
+msgid "Logout"
+msgstr "خروج"
+
+# @ wpestate
+#: libs/dashboard_functions.php:1752
+#: templates/dashboard-templates/add_new_agent.php:163
+#: templates/dashboard-templates/add_new_agent.php:190
+#: templates/dashboard-templates/add_new_agent_template.php:262
+#: templates/dashboard-templates/add_new_agent_template.php:282
+#: templates/dashboard-templates/user_profile_agent.php:240
+#: templates/dashboard-templates/user_profile_agent.php:260
+#: templates/submit_templates/property_categories.php:65
+#: templates/submit_templates/property_categories.php:84
+#: templates/submit_templates/property_location.php:108
+#: templates/submit_templates/property_location.php:156
+#: templates/submit_templates/property_location.php:162
+#: templates/submit_templates/property_location.php:205
+#: templates/submit_templates/property_location.php:211
+msgid "None"
+msgstr "بدون"
+
+#: libs/dashboard_widgets.php:6
+msgid "Your Current Logo"
+msgstr "شعارك الحالي"
+
+#: libs/dashboard_widgets.php:12
+msgid "Upload New Logo"
+msgstr "تحميل شعار جديد"
+
+#: libs/dashboard_widgets.php:17
+msgid "Your Current Colors"
+msgstr "الألوان الحالية"
+
+#: libs/dashboard_widgets.php:47
+msgid "Change Colors"
+msgstr "تغيير الألوان"
+
+#: libs/dashboard_widgets.php:59
+msgid "You have  %1$d pages published."
+msgstr "يوجد %1$d من الصفحات المنشورة."
+
+#: libs/dashboard_widgets.php:76
+msgid "Page Title"
+msgstr "عنوان الصفحة"
+
+#: libs/dashboard_widgets.php:81
+msgid "Page Template"
+msgstr "قالب الصفحة"
+
+#: libs/dashboard_widgets.php:86
+msgid "See All Your Pages"
+msgstr "ترى كل ما تبذلونه من الصفحات"
+
+#: libs/dashboard_widgets.php:88 word_remove.php:278
+msgid "Add New Page"
+msgstr "إضافة صفحة جدیدة"
+
+#: libs/dashboard_widgets.php:321
+msgid "You have  %1$d listings published:"
+msgstr "يوجد %1$d القوائم المنشورة:"
+
+#: libs/dashboard_widgets.php:386
+msgid "Your Payment system is in SANDBOX mode."
+msgstr "نظام الدفع الخاص بك هو في وضع الحماية."
+
+#: libs/dashboard_widgets.php:388
+msgid "Your Payment system is in LIVE mode."
+msgstr "نظام الدفع الخاص بك هو في طريقة العيش."
+
+#: libs/dashboard_widgets.php:398
+msgid "Payments will be procesed in %1$s. Prices are displayed in %2$s"
+msgstr "سوف تكون المدفوعات procesed في %1$s. الأسعار المعروضة في %2$s"
+
+#: libs/dashboard_widgets.php:406
+msgid "You did not add your Paypal Details. No Paypal payment will be processed"
+msgstr "يمكنك إضافة التفاصيل الخاصة بك بأي بال. لا الدفع باي بال سيتم معالجتها"
+
+#: libs/dashboard_widgets.php:408
+msgid "Paypal Api Keys are added.Payments will be processed."
+msgstr "باي بال Api المفاتيح المضافة.المدفوعات سيتم معالجتها."
+
+#: libs/dashboard_widgets.php:415
+msgid "You did not add your Stripe Details. No Stripe payment will be processed"
+msgstr "لم أضف شريط التفاصيل. لا الشريط سيتم معالجة الدفع"
+
+#: libs/dashboard_widgets.php:417
+msgid "Stripe Api Keys are added.Payments will be processed."
+msgstr "الشريط مفاتيح Api يتم إضافة.المدفوعات سيتم معالجتها."
+
+#: libs/dashboard_widgets.php:421
+msgid "Edit Payment Details"
+msgstr "تحرير تفاصيل الدفع"
+
+# @ wpestate
+#: libs/design_functions.php:1741 libs/design_functions.php:1743
+#: libs/design_functions.php:1746 libs/design_functions.php:1750
+#: templates/featured_property_3.php:141 templates/featured_property_4.php:155
+#: templates/property_cards_templates/property_card_actions_type2.php:4
+#: templates/property_cards_templates/property_card_actions_type_default.php:21
+msgid "share"
+msgstr "نشر"
+
+#: libs/design_functions.php:1763
+#: templates/property_cards_templates/property_card_details_default.php:44
+#: templates/property_unit_type3.php:50
+msgid "details"
+msgstr "تفاصيل"
+
+# @ wpestate
+#: libs/design_functions.php:1799 libs/design_functions.php:1804
+#: libs/design_functions.php:1809 libs/design_functions.php:1815
+#: templates/property_cards_templates/property_card_actions_type2.php:5
+#: templates/property_cards_templates/property_card_actions_type_default.php:25
+msgid "compare"
+msgstr "مقارنة"
+
+#: libs/design_functions.php:1806 libs/design_functions.php:1843
+#: libs/design_functions.php:1858
+msgid "featured icon"
+msgstr "ظهرت أيقونة"
+
+#: libs/design_functions.php:1967
+msgid "icon"
+msgstr "ايقونة"
+
+#: libs/design_functions.php:2060
+msgid "Facebook"
+msgstr "فيس بوك"
+
+# @ wpestate
+#: libs/design_functions.php:2061
+#, fuzzy
+msgid "Twitter"
+msgstr "رابط Twitter"
+
+# @ wpestate
+#: libs/design_functions.php:2062
+#, fuzzy
+msgid "Pinterest"
+msgstr "الفائدة"
+
+#: libs/design_functions.php:2063
+#: templates/realtor_templates/agent_contact_bar.php:27
+msgid "WhatsApp"
+msgstr "ال WhatsApp"
+
+#: libs/events.php:11
+msgid "Once Weekly"
+msgstr "مرة واحدة أسبوعيا"
+
+#: libs/gallery_functions.php:378 libs/gallery_functions.php:434
+msgid "See all"
+msgstr "اظهار الكل"
+
+#: libs/gallery_functions.php:378 libs/gallery_functions.php:434
+msgid "photos"
+msgstr "تصاویر"
+
+#: libs/gallery_functions.php:501 libs/gallery_functions.php:554
+#: templates/featured_property_1.php:92 templates/featured_property_1.php:112
+#: templates/featured_property_2.php:86 templates/header5.php:22
+#: templates/header_agency.php:38 templates/header_developer.php:34
+#: templates/image_gallery.php:45 templates/image_gallery.php:78
+#: templates/mobile_menu_header.php:8 templates/mobile_menu_header.php:10
+#: word_remove.php:10 zillow_estimate_page.php:79
+msgid "image"
+msgstr "الصورة"
+
+#: libs/general-settings.php:156 libs/general-settings.php:172
+msgid "[more]"
+msgstr "[المزيد]"
+
+# @ wpestate
+#: libs/general-settings.php:237
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: libs/general-settings.php:238
+msgid "Mobile Menu"
+msgstr "قائمة الجوال"
+
+# @ wpestate
+#: libs/general-settings.php:239
+msgid "Footer Menu"
+msgstr "قائمة التذييل"
+
+# @ wpestate
+#: libs/general-settings.php:242
+msgid "Primary Widget Area"
+msgstr "منطقة القطعة الأساسية"
+
+# @ wpestate
+#: libs/general-settings.php:244
+msgid "The primary widget area"
+msgstr "القائمة الرئيسية"
+
+# @ wpestate
+#: libs/general-settings.php:253
+msgid "Secondary Widget Area"
+msgstr "منطقة القطعة الثانوية"
+
+# @ wpestate
+#: libs/general-settings.php:255
+msgid "The secondary widget area"
+msgstr "منطقة الودجت"
+
+# @ wpestate
+#: libs/general-settings.php:264
+msgid "First Footer Widget Area"
+msgstr "أول ذيل منطقة حاجيات"
+
+# @ wpestate
+#: libs/general-settings.php:266
+msgid "The first footer widget area"
+msgstr "منطقة حاجيات ذيل الأول"
+
+# @ wpestate
+#: libs/general-settings.php:275
+msgid "Second Footer Widget Area"
+msgstr "منطقة حاجيات ذيل الثاني"
+
+# @ wpestate
+#: libs/general-settings.php:277
+msgid "The second footer widget area"
+msgstr "منطقة حاجيات ذيل الثاني"
+
+# @ wpestate
+#: libs/general-settings.php:286
+msgid "Third Footer Widget Area"
+msgstr "منطقة الحاجيات ثالث ذيل"
+
+# @ wpestate
+#: libs/general-settings.php:288
+msgid "The third footer widget area"
+msgstr "منطقة الحاجيات ذيل الثالثة"
+
+# @ wpestate
+#: libs/general-settings.php:297
+msgid "Fourth Footer Widget Area"
+msgstr "رابع ذيل منطقة الحاجيات"
+
+# @ wpestate
+#: libs/general-settings.php:299
+msgid "The fourth footer widget area"
+msgstr "منطقة الحاجيات ذيل الرابع"
+
+# @ wpestate
+#: libs/general-settings.php:308
+msgid "Top Bar Left Widget Area"
+msgstr "ودجات المنطقة العلوية اليسرى"
+
+# @ wpestate
+#: libs/general-settings.php:310
+msgid "The top bar left widget area"
+msgstr "ودجات المنطقة العلوية اليسرى"
+
+# @ wpestate
+#: libs/general-settings.php:318
+msgid "Top Bar Right Widget Area"
+msgstr "المنطقة اعلى اليمين"
+
+# @ wpestate
+#: libs/general-settings.php:320
+msgid "The top bar right widget area"
+msgstr "المنطقة اعلى اليمين"
+
+#: libs/general-settings.php:327
+msgid "Sidebar Menu Widget Area - Before Menu"
+msgstr "قائمة الشريط الجانبي القطعة المنطقة - قبل القائمة"
+
+#: libs/general-settings.php:329
+msgid "Sidebar for header type 3 - before menu"
+msgstr "الشريط الجانبي لنوع الرأس 3 - قبل القائمة"
+
+#: libs/general-settings.php:336
+msgid "Sidebar Menu Widget Area - After Menu"
+msgstr "قائمة الشريط الجانبي القطعة المنطقة - بعد القائمة"
+
+#: libs/general-settings.php:338
+msgid "Sidebar for header type 3 - after menu"
+msgstr "الشريط الجانبي للرأس نوع 3 - بعد القائمة"
+
+#: libs/general-settings.php:348
+msgid "Header4 Widget Area"
+msgstr "Header4 منطقة القطعة"
+
+#: libs/general-settings.php:350
+msgid "Header4 widget area"
+msgstr "Header4 منطقة القطعة"
+
+#: libs/general-settings.php:359
+msgid "Dashboard Top Bar Left Widget Area"
+msgstr "ودجات المنطقة العلوية اليسرى"
+
+#: libs/general-settings.php:361
+msgid "User Dashboard - The top bar left widget area"
+msgstr "لوحة تحكم المستخدم - الجزء العلوي من منطقة القطعة اليسرى"
+
+#: libs/general-settings.php:369
+msgid "Dashboard Top Bar Right Widget Area"
+msgstr "لوحة أعلى شريط حق منطقة القطعة"
+
+#: libs/general-settings.php:371
+msgid "User Dashboard - The top bar right widget area"
+msgstr "لوحة أجهزة القياس المستخدم - الشريط العلوي منطقة القطعة الصحيحة"
+
+#: libs/general-settings.php:379
+msgid "Splash Page Bottom Right Widget Area"
+msgstr "صفحة البداية أسفل يمين منطقة القطعة"
+
+#: libs/general-settings.php:381
+msgid "Splash Page - Bottom right area"
+msgstr "صفحة البداية - أسفل اليمين المنطقة"
+
+#: libs/general-settings.php:389
+msgid "Splash Page Bottom Left Widget Area"
+msgstr "صفحة البداية أسفل يسار منطقة القطعة"
+
+#: libs/general-settings.php:391
+msgid "Splash Page - Bottom left area"
+msgstr "صفحة البداية - منطقة أسفل اليسار"
+
+#: libs/help_functions.php:581 libs/listing_functions.php:609
+msgid "Documents"
+msgstr "ملفات"
+
+#: libs/help_functions.php:687
+msgid "Please submit the"
+msgstr "يرجى تقديم"
+
+#: libs/help_functions.php:687
+msgid "field"
+msgstr "حقل"
+
+#: libs/help_functions.php:829
+msgid "I consent to the"
+msgstr "أوافق على"
+
+#: libs/help_functions.php:1579
+msgid "Transport"
+msgstr "النقل"
+
+#: libs/help_functions.php:1580
+msgid "Supermarkets"
+msgstr "سوبر ماركت"
+
+#: libs/help_functions.php:1581
+msgid "Schools"
+msgstr "المدارس"
+
+#: libs/help_functions.php:1582 libs/help_functions.php:1727
+msgid "Restaurants"
+msgstr "المطاعم"
+
+#: libs/help_functions.php:1583
+msgid "Pharmacies"
+msgstr "الصيدليات"
+
+#: libs/help_functions.php:1584
+msgid "Hospitals"
+msgstr "المستشفيات"
+
+#: libs/help_functions.php:1620
+msgid "K"
+msgstr "ك"
+
+#: libs/help_functions.php:1624
+msgid "M"
+msgstr "م"
+
+#: libs/help_functions.php:1687
+msgid "Active Life"
+msgstr "الحياة النشطة"
+
+#: libs/help_functions.php:1689
+msgid "Arts & Entertainment"
+msgstr "الفنون و الترفيه"
+
+#: libs/help_functions.php:1691
+msgid "Automotive"
+msgstr "السيارات والمركبات"
+
+#: libs/help_functions.php:1693
+msgid "Beauty & Spas"
+msgstr "الجمال & المنتجعات"
+
+#: libs/help_functions.php:1695
+msgid "Education"
+msgstr "التعليم"
+
+#: libs/help_functions.php:1697
+msgid "Event Planning & Services"
+msgstr "الحدث التخطيط والخدمات"
+
+#: libs/help_functions.php:1699
+msgid "Financial Services"
+msgstr "الخدمات المالية"
+
+#: libs/help_functions.php:1701
+msgid "Food"
+msgstr "الطعام"
+
+#: libs/help_functions.php:1703
+msgid "Health & Medical"
+msgstr "الصحة و الطب"
+
+#: libs/help_functions.php:1705
+msgid "Home Services "
+msgstr "خدمات منزلية "
+
+#: libs/help_functions.php:1707
+msgid "Hotels & Travel"
+msgstr "الفنادق والسفر"
+
+#: libs/help_functions.php:1709
+msgid "Local Flavor"
+msgstr "نكهة محلية"
+
+#: libs/help_functions.php:1711
+msgid "Local Services"
+msgstr "الخدمات المحلية"
+
+#: libs/help_functions.php:1713
+msgid "Mass Media"
+msgstr "وسائل الاتصال الجماعي"
+
+#: libs/help_functions.php:1715
+msgid "Nightlife"
+msgstr "حياة الليل"
+
+#: libs/help_functions.php:1717
+msgid "Pets"
+msgstr "مكان مخصص للحيوانات الاليفة"
+
+#: libs/help_functions.php:1719
+msgid "Professional Services"
+msgstr "الخدمات المهنية"
+
+#: libs/help_functions.php:1721
+msgid "Public Services & Government"
+msgstr "العامة والخدمات الحكومية"
+
+#: libs/help_functions.php:1723
+msgid "Real Estate"
+msgstr "العقارات"
+
+#: libs/help_functions.php:1725
+msgid "Religious Organizations"
+msgstr "المنظمات الدينية"
+
+#: libs/help_functions.php:1729
+msgid "Shopping"
+msgstr "التسوق"
+
+#: libs/help_functions.php:1731
+msgid "Transportation"
+msgstr "وسائل النقل"
+
+# @ wpestate
+#: libs/help_functions.php:1845 templates/similar_listings.php:112
+#: templates/similar_listings.php:120
+msgid "Similar Listings"
+msgstr "منشورات مشابهة"
+
+#: libs/help_functions.php:2440 libs/help_functions.php:2471
+msgid "walkscore"
+msgstr "walkscore"
+
+#: libs/help_functions.php:2442 libs/help_functions.php:2474
+msgid "more details here"
+msgstr "المزيد من التفاصيل هنا"
+
+#: libs/help_functions.php:2964
+msgid "All Countries"
+msgstr "جميع الدول"
+
+# @ wpestate
+#: libs/help_functions.php:3231 libs/help_functions.php:3399
+#: libs/help_functions.php:3652 libs/help_functions.php:3788
+#: libs/help_functions.php:4184 libs/searchfunctions.php:426
+#: libs/searchfunctions2.php:15 property_list_directory.php:106
+#: property_list_half.php:79 templates/advanced_search_type2.php:33
+#: templates/advanced_search_type8.php:111
+#: templates/advanced_search_type9.php:115
+#: templates/advanced_search_type_half.php:199
+#: templates/advanced_search_type_half.php:209
+#: templates/adv_search_mobile.php:101 templates/adv_search_mobile.php:163
+#: templates/directory_filters.php:39
+#: templates/property_ajax_tax_hidden_filters.php:25
+#: templates/property_ajax_tax_hidden_filters.php:70
+#: templates/property_list_filters.php:53
+#: templates/property_list_filters.php:102
+#: templates/taxonomy_agent_hidden_filters.php:22
+msgid "Categories"
+msgstr "التصنيفات"
+
+# @ wpestate
+#: libs/help_functions.php:3241 libs/help_functions.php:3454
+#: libs/help_functions.php:3699 libs/help_functions.php:3835
+#: libs/help_functions.php:4379 property_list_half.php:101
+#: templates/directory_filters.php:69
+#: templates/property_ajax_tax_hidden_filters.php:28
+#: templates/property_list_filters.php:56
+#: templates/property_list_filters.php:113
+#: templates/taxonomy_agent_hidden_filters.php:25
+msgid "States"
+msgstr "المحافظات / الولاية"
+
+# @ wpestate
+#: libs/help_functions.php:3243 libs/help_functions.php:3359
+#: libs/help_functions.php:3616 libs/help_functions.php:3752
+#: libs/help_functions.php:4039 templates/directory_filters.php:298
+#: templates/submit_templates/property_status.php:42
+msgid "Property Status"
+msgstr "حالة العقار"
+
+#: libs/help_functions.php:3960
+msgid "More Search Options"
+msgstr "المزيد من خيارت البحث"
+
+# @ wpestate
+#: libs/help_functions.php:4546
+#, fuzzy
+msgid "Pay Submission Fee"
+msgstr "رسوم التقديم"
+
+#: libs/help_functions.php:4650
+msgid "Pay with Credit Card"
+msgstr "دفع بواسطة بطاقة الائتمان"
+
+#: libs/help_functions.php:4651
+#: templates/dashboard-templates/user_memebership_profile.php:132
+msgid "Package Payment"
+msgstr "باقة الدفع"
+
+# @ wpestate
+#: libs/help_functions.php:4769 libs/help_functions.php:4918 word_remove.php:91
+msgid "feet"
+msgstr "فدم"
+
+# @ wpestate
+#: libs/help_functions.php:4769 libs/help_functions.php:4851
+#: libs/help_functions.php:4852 libs/help_functions.php:4853
+#: libs/help_functions.php:4854 libs/help_functions.php:4855
+#: libs/help_functions.php:4858 libs/help_functions.php:4864
+#: libs/help_functions.php:4870 libs/help_functions.php:4877
+#: libs/help_functions.php:4918 libs/help_functions.php:4927
+#: libs/help_functions.php:4928 libs/help_functions.php:4929
+#: libs/help_functions.php:4930 libs/help_functions.php:4931
+#: libs/help_functions.php:4934 libs/help_functions.php:4940
+#: libs/help_functions.php:4946 libs/help_functions.php:4953 word_remove.php:91
+msgid "ft"
+msgstr "قدم"
+
+# @ wpestate
+#: libs/help_functions.php:4770 libs/help_functions.php:4919 word_remove.php:92
+msgid "meters"
+msgstr "متر"
+
+# @ wpestate
+#: libs/help_functions.php:4770 libs/help_functions.php:4852
+#: libs/help_functions.php:4857 libs/help_functions.php:4858
+#: libs/help_functions.php:4859 libs/help_functions.php:4860
+#: libs/help_functions.php:4861 libs/help_functions.php:4865
+#: libs/help_functions.php:4871 libs/help_functions.php:4878
+#: libs/help_functions.php:4919 libs/help_functions.php:4928
+#: libs/help_functions.php:4933 libs/help_functions.php:4934
+#: libs/help_functions.php:4935 libs/help_functions.php:4936
+#: libs/help_functions.php:4937 libs/help_functions.php:4941
+#: libs/help_functions.php:4947 libs/help_functions.php:4954 word_remove.php:92
+msgid "m"
+msgstr "متر"
+
+#: libs/help_functions.php:4771 libs/help_functions.php:4920 word_remove.php:93
+msgid "acres"
+msgstr "فدان"
+
+#: libs/help_functions.php:4771 libs/help_functions.php:4853
+#: libs/help_functions.php:4859 libs/help_functions.php:4863
+#: libs/help_functions.php:4864 libs/help_functions.php:4865
+#: libs/help_functions.php:4866 libs/help_functions.php:4867
+#: libs/help_functions.php:4872 libs/help_functions.php:4879
+#: libs/help_functions.php:4920 libs/help_functions.php:4929
+#: libs/help_functions.php:4935 libs/help_functions.php:4939
+#: libs/help_functions.php:4940 libs/help_functions.php:4941
+#: libs/help_functions.php:4942 libs/help_functions.php:4943
+#: libs/help_functions.php:4948 libs/help_functions.php:4955 word_remove.php:93
+msgid "ac"
+msgstr "تيار متردد"
+
+#: libs/help_functions.php:4772 libs/help_functions.php:4921 word_remove.php:94
+msgid "yards"
+msgstr "ياردات"
+
+#: libs/help_functions.php:4772 libs/help_functions.php:4854
+#: libs/help_functions.php:4860 libs/help_functions.php:4866
+#: libs/help_functions.php:4869 libs/help_functions.php:4870
+#: libs/help_functions.php:4871 libs/help_functions.php:4872
+#: libs/help_functions.php:4873 libs/help_functions.php:4880
+#: libs/help_functions.php:4921 libs/help_functions.php:4930
+#: libs/help_functions.php:4936 libs/help_functions.php:4942
+#: libs/help_functions.php:4945 libs/help_functions.php:4946
+#: libs/help_functions.php:4947 libs/help_functions.php:4948
+#: libs/help_functions.php:4949 libs/help_functions.php:4956 word_remove.php:94
+msgid "yd"
+msgstr "ياردة"
+
+#: libs/help_functions.php:4773 libs/help_functions.php:4922 word_remove.php:95
+msgid "hectares"
+msgstr "هكتار"
+
+#: libs/help_functions.php:4773 libs/help_functions.php:4855
+#: libs/help_functions.php:4861 libs/help_functions.php:4867
+#: libs/help_functions.php:4873 libs/help_functions.php:4876
+#: libs/help_functions.php:4877 libs/help_functions.php:4878
+#: libs/help_functions.php:4879 libs/help_functions.php:4880
+#: libs/help_functions.php:4922 libs/help_functions.php:4931
+#: libs/help_functions.php:4937 libs/help_functions.php:4943
+#: libs/help_functions.php:4949 libs/help_functions.php:4952
+#: libs/help_functions.php:4953 libs/help_functions.php:4954
+#: libs/help_functions.php:4955 libs/help_functions.php:4956 word_remove.php:95
+msgid "ha"
+msgstr "هكتار"
+
+#: libs/help_functions.php:5195
+#: templates/submit_templates/property_description.php:62
+msgid "Property Price"
+msgstr "سعر العقار"
+
+#: libs/help_functions.php:5196
+msgid "Property Price Label"
+msgstr "تسمية سعر العقار"
+
+#: libs/help_functions.php:5197
+msgid "Property Price Label Before"
+msgstr "تسمية سعر العقار قبل"
+
+#: libs/help_functions.php:5198
+msgid "Property Category Submit"
+msgstr "إرسال فئة العقار"
+
+#: libs/help_functions.php:5199
+msgid "Property Action Category"
+msgstr "الملكية فئة العمل"
+
+#: libs/help_functions.php:5200
+msgid "Property Media"
+msgstr "صور وفيديو"
+
+#: libs/help_functions.php:5202
+msgid "Property City"
+msgstr "مدينة العقار"
+
+#: libs/help_functions.php:5203
+msgid "Property Area"
+msgstr "منطقة العقار"
+
+#: libs/help_functions.php:5205
+msgid "Property County"
+msgstr "المحافظة"
+
+#: libs/help_functions.php:5206
+msgid "Property Country"
+msgstr "بلد العقار"
+
+#: libs/help_functions.php:5207
+msgid "Property Map"
+msgstr "خريطة العقارات"
+
+#: libs/help_functions.php:5209
+msgid "Property Longitude"
+msgstr "خط طول العقار"
+
+#: libs/help_functions.php:5211
+msgid "Property Google View"
+msgstr "خاصية عرض Google"
+
+#: libs/help_functions.php:5212
+msgid "property Size"
+msgstr "مساحة العقار"
+
+#: libs/help_functions.php:5218 libs/searchfunctions.php:2174
+#: libs/searchfunctions.php:2342
+msgid "property status"
+msgstr "حالة العقار"
+
+#: libs/help_functions.php:5219
+msgid "Embed Video Id"
+msgstr "تضمين معرف الفيديو"
+
+#: libs/help_functions.php:5220
+msgid "Embed Video Type"
+msgstr "تضمين نوع الفيديو"
+
+#: libs/help_functions.php:5221
+msgid "Embed Virtual Tour"
+msgstr "تضمين جولة افتراضية"
+
+#: libs/help_functions.php:5222
+msgid "Property Subunits"
+msgstr "وحدات سكنية"
+
+# @ wpestate
+#: libs/help_functions.php:5329
+msgid "per month"
+msgstr "شهريا"
+
+# @ wpestate
+#: libs/help_functions.php:5352
+msgid "Home Price"
+msgstr "سعر المنزل"
+
+# @ wpestate
+#: libs/help_functions.php:5355
+msgid "Down Payment"
+msgstr "الدفعة الأولى"
+
+# @ wpestate
+#: libs/help_functions.php:5362
+msgid "Term(*in years)"
+msgstr "المدة (*بالسنوات)"
+
+# @ wpestate
+#: libs/help_functions.php:5365
+msgid "Interest"
+msgstr "الفائدة"
+
+# @ wpestate
+#: libs/help_functions_cards.php:13 templates/normal_directory.php:70
+#: templates/property_list_filters_search.php:10
+#: templates/property_list_filter_half.php:9
+msgid "Price High to Low"
+msgstr "السعر الاعلى للادنى"
+
+# @ wpestate
+#: libs/help_functions_cards.php:14 templates/normal_directory.php:71
+#: templates/property_list_filters_search.php:11
+#: templates/property_list_filter_half.php:10
+msgid "Price Low to High"
+msgstr "السعر الادنى للاعلى"
+
+#: libs/help_functions_cards.php:15 templates/normal_directory.php:72
+#: templates/property_list_filters_search.php:12
+#: templates/property_list_filter_half.php:11
+msgid "Newest first"
+msgstr "الأحدث اولاً"
+
+#: libs/help_functions_cards.php:16 templates/normal_directory.php:73
+#: templates/property_list_filters_search.php:13
+#: templates/property_list_filter_half.php:12
+msgid "Oldest first"
+msgstr "الأقدم اولاً"
+
+#: libs/help_functions_cards.php:17 templates/normal_directory.php:74
+#: templates/property_list_filters_search.php:14
+#: templates/property_list_filter_half.php:13
+msgid "Bedrooms High to Low"
+msgstr "غرف النوم من الاكثر الى الاقل"
+
+#: libs/help_functions_cards.php:18 templates/normal_directory.php:75
+#: templates/property_list_filters_search.php:15
+#: templates/property_list_filter_half.php:14
+msgid "Bedrooms Low to high"
+msgstr "غرف النوم من الاقل الى الاكثر"
+
+#: libs/help_functions_cards.php:19 templates/normal_directory.php:76
+#: templates/property_list_filters_search.php:16
+#: templates/property_list_filter_half.php:15
+msgid "Bathrooms High to Low"
+msgstr "الحمامات من الاكثر الى الاقل"
+
+#: libs/help_functions_cards.php:20 templates/normal_directory.php:77
+#: templates/property_list_filters_search.php:17
+#: templates/property_list_filter_half.php:16
+msgid "Bathrooms Low to high"
+msgstr "الحمامات من الاقل الى الاكثر"
+
+#: libs/listing_functions.php:83 libs/listing_functions.php:104
+msgid "Image Gallery"
+msgstr "استوديو الصور"
+
+#: libs/listing_functions.php:304
+msgid "size:"
+msgstr "بحجم:"
+
+#: libs/listing_functions.php:310
+msgid "rooms: "
+msgstr "الغرف: "
+
+#: libs/listing_functions.php:316
+msgid "baths:"
+msgstr "حمام:"
+
+#: libs/listing_functions.php:340 libs/listing_functions.php:366
+msgid "price: "
+msgstr "السعر: "
+
+#: libs/listing_functions.php:419
+msgid "video image"
+msgstr "صورة فيديو"
+
+# @ wpestate
+#: libs/listing_functions.php:516
+#: templates/submit_templates/property_amenities.php:54
+msgid "Other Features"
+msgstr "ميزات أخرى"
+
+# @ wpestate
+#: libs/listing_functions.php:654 libs/listing_functions.php:700
+#: templates/dashboard-templates/user_profile_agency.php:136
+#: templates/dashboard-templates/user_profile_developer.php:117
+msgid "Address"
+msgstr "العنوان"
+
+# @ wpestate
+#: libs/listing_functions.php:657 libs/listing_functions.php:703
+#: libs/searchfunctions.php:2070 libs/searchfunctions.php:2300
+#: templates/dashboard-templates/add_new_agent.php:232
+#: templates/dashboard-templates/add_new_agent_template.php:109
+#: templates/dashboard-templates/user_profile_agency.php:118
+#: templates/dashboard-templates/user_profile_agent.php:98
+#: templates/dashboard-templates/user_profile_developer.php:99
+#: templates/submit_templates/property_location.php:126
+msgid "City"
+msgstr "المدينة"
+
+# @ wpestate
+#: libs/listing_functions.php:660 libs/listing_functions.php:706
+#: libs/searchfunctions.php:2077 libs/searchfunctions.php:2307
+#: templates/dashboard-templates/add_new_agent.php:236
+#: templates/dashboard-templates/add_new_agent_template.php:121
+#: templates/dashboard-templates/user_profile_agency.php:130
+#: templates/dashboard-templates/user_profile_agent.php:110
+#: templates/dashboard-templates/user_profile_developer.php:111
+msgid "Area"
+msgstr "المنطقة"
+
+#: libs/listing_functions.php:663 libs/listing_functions.php:709
+#: templates/dashboard-templates/add_new_agent.php:243
+#: templates/dashboard-templates/add_new_agent_template.php:115
+#: templates/dashboard-templates/user_profile_agency.php:124
+#: templates/dashboard-templates/user_profile_agent.php:104
+#: templates/dashboard-templates/user_profile_developer.php:105
+msgid "State/County"
+msgstr "الدولة / المحافظة"
+
+# @ wpestate
+#: libs/listing_functions.php:666 libs/listing_functions.php:717
+msgid "Zip"
+msgstr "الرمز البريدي"
+
+#: libs/listing_functions.php:676
+msgid "Open In Google Maps"
+msgstr "فتح في خرائط جوجل"
+
+#: libs/listing_functions.php:797
+msgid "Property Id "
+msgstr "رقم العقار "
+
+# @ wpestate
+#: libs/listing_functions.php:809
+#: templates/property_cards_templates/property_card_details_type6.php:17
+#: templates/property_slider_shortcode.php:64
+msgid "Rooms"
+msgstr "ريسيبشن"
+
+# @ wpestate
+#: libs/listing_functions.php:812
+#: templates/listing_templates/single-overview-section.php:27
+#: templates/property_cards_templates/property_card_details_type4.php:14
+#: templates/property_cards_templates/property_card_details_type4.php:31
+msgid "Bedrooms"
+msgstr "غرف النوم"
+
+# @ wpestate
+#: libs/listing_functions.php:815
+#: templates/listing_templates/single-overview-section.php:38
+#: templates/property_slider_shortcode.php:67
+msgid "Bathrooms"
+msgstr "حمام"
+
+#: libs/listing_functions.php:820
+msgid "Energy index"
+msgstr "مؤشر الطاقة"
+
+#: libs/listing_functions.php:823
+msgid "Energy class"
+msgstr "فئة الطاقة"
+
+# @ wpestate
+#: libs/listing_functions.php:849
+msgid "Not Available"
+msgstr "غير متاح"
+
+#: libs/listing_functions.php:924 libs/listing_functions.php:927
+#: libs/listing_functions.php:936 libs/listing_functions.php:945
+#: libs/listing_functions.php:960 libs/listing_functions.php:969
+#: libs/listing_functions.php:978 libs/listing_functions.php:987
+#: libs/listing_functions.php:990 libs/listing_functions.php:996
+#: libs/listing_functions.php:999
+msgid "Your energy class is "
+msgstr "فئة الطاقة الخاصة بك هي "
+
+#: libs/listing_functions.php:933 libs/listing_functions.php:942
+#: libs/listing_functions.php:963 libs/listing_functions.php:972
+#: libs/listing_functions.php:981
+msgid "Your energy class "
+msgstr "فئة الطاقة "
+
+#: libs/listing_functions.php:951 libs/listing_functions.php:954
+msgid "Your energy class is"
+msgstr "فئة الطاقة الخاصة بك هو"
+
+#: libs/megamenu.php:165
+msgid "%s (Invalid)"
+msgstr "%s (غير صالحة)"
+
+#: libs/megamenu.php:168
+msgid "%s (Pending)"
+msgstr "%s (قيد الانتظار)"
+
+#: libs/megamenu.php:192
+msgid "Move up"
+msgstr "تحريك لأعلى"
+
+#: libs/megamenu.php:205
+msgid "Move down"
+msgstr "تحرك لأسفل"
+
+#: libs/megamenu.php:207 libs/megamenu.php:209
+msgid "Edit Menu Item"
+msgstr "تعديل قائمة العنصر"
+
+#: libs/megamenu.php:218
+msgid "URL"
+msgstr "الرابط"
+
+#: libs/megamenu.php:225
+msgid "Navigation Label"
+msgstr "تسمية الملاحة"
+
+#: libs/megamenu.php:231
+msgid "Title Attribute"
+msgstr "عنوان السمة"
+
+#: libs/megamenu.php:238
+msgid "Open link in a new window/tab"
+msgstr "فتح الرابط بصفحة جديدة"
+
+#: libs/megamenu.php:243
+msgid "CSS Classes (optional)"
+msgstr "كلاسات CSS (اختياري)"
+
+#: libs/megamenu.php:249
+msgid "Link Relationship (XFN)"
+msgstr "رابط العلاقة (XFN)"
+
+#: libs/megamenu.php:257
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "سوف يتم عرض الوصف في القائمة إذا كان القالب الحالي يدعم ذلك."
+
+#: libs/megamenu.php:264
+msgid "Menu Item Icon(ex: fa fa-comment)"
+msgstr "عنصر أيقونة القائمة (مثال: fa fa-comment)"
+
+#: libs/megamenu.php:273
+msgid "Menu Item Label(ex: \"new\")"
+msgstr "عنصر القائمة التسمية(ex: \"جديد\")"
+
+#: libs/megamenu.php:288
+msgid "Set as Mega Menu?"
+msgstr "إضافة كقائمة ميجا؟"
+
+#: libs/megamenu.php:294
+msgid "Mega Menu Widget Area"
+msgstr "منطقة ودجات قائمة الميجا"
+
+#: libs/megamenu.php:296
+msgid "Select Widget Area"
+msgstr "حدد منطقة الودات"
+
+#: libs/megamenu.php:307
+msgid "Upload Background Image | "
+msgstr "رفع صورة الخلفية |"
+
+#: libs/megamenu.php:309
+msgid "Remove Image"
+msgstr "حذف الصورة"
+
+#: libs/megamenu.php:320
+msgid ""
+"Container Styles( *set custom styles for mega menu container only:.  Ex: "
+"background position, background repeat )"
+msgstr ""
+"أنماط الحاويات (* تخصيص الأنماط لتعيين حاويات قائمة الميجا فقط :. مثال: موقف "
+"الخلفية، خلفية تكرار)"
+
+#: libs/megamenu.php:336
+msgid "Draw border right on mega menu column?"
+msgstr "رسم الحدود اليمنى لعمود قائمة الميجا؟"
+
+#: libs/megamenu.php:344
+msgid "Original: %s"
+msgstr "الأصلي: %s"
+
+#: libs/megamenu.php:357
+#: templates/dashboard-templates/add_new_agent_template.php:307
+#: templates/dashboard-templates/add_new_agent_template.php:328
+#: templates/dashboard-templates/user_profile_agent.php:285
+#: templates/dashboard-templates/user_profile_agent.php:306
+msgid "Remove"
+msgstr "حذف"
+
+#: libs/megamenu.php:358
+msgid "Cancel"
+msgstr "إلغاء"
+
+# @ wpestate
+#: libs/plugins.php:128
+msgid "Install Required Plugins"
+msgstr "تثبيت الإضافات المطلوبة"
+
+# @ wpestate
+#: libs/plugins.php:129
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+# @ wpestate
+#: libs/plugins.php:130
+msgid "Installing Plugin: %s"
+msgstr "تثبيت الاضافة : % s"
+
+# @ wpestate
+#: libs/plugins.php:131
+msgid "Something went wrong with the plugin API."
+msgstr "حدث خطأ مع الاضافة  API."
+
+#: libs/plugins.php:132
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "هذا القالب يتطلب الاضافة التالية:%1$s."
+msgstr[1] "هذا الموضوع يتطلب الإضافات التالية: %1$s."
+msgstr[2] "هذا الموضوع يتطلب الإضافات التالية: %1$s."
+msgstr[3] "هذا الموضوع يتطلب الإضافات التالية: %1$s."
+msgstr[4] "هذا الموضوع يتطلب الإضافات التالية: %1$s."
+msgstr[5] "هذا الموضوع يتطلب الإضافات التالية: %1$s."
+
+#: libs/plugins.php:133
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "هذا القالب يوصي بالاضافة التالية: %1$s."
+msgstr[1] "هذا الموضوع توصي الإضافات التالية: %1$s."
+msgstr[2] "هذا الموضوع توصي الإضافات التالية: %1$s."
+msgstr[3] "هذا الموضوع توصي الإضافات التالية: %1$s."
+msgstr[4] "هذا الموضوع توصي الإضافات التالية: %1$s."
+msgstr[5] "هذا الموضوع توصي الإضافات التالية: %1$s."
+
+#: libs/plugins.php:134
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت البرنامج المساعد <ph id="
+"\"mtc_1\" equiv-text=\"base64:JXM=\"/>. اتصل بمسؤول هذا الموقع للمساعدة فى "
+"الحصول على تركيب البرنامج المساعد."
+msgstr[1] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتثبيت %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات المثبتة."
+msgstr[2] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتثبيت %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات المثبتة."
+msgstr[3] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتثبيت %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات المثبتة."
+msgstr[4] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتثبيت %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات المثبتة."
+msgstr[5] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتثبيت %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات المثبتة."
+
+#: libs/plugins.php:135
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "الاضافة  التالية  المطلوبة  غير نشطة حاليا: %1$s."
+msgstr[1] "التالية الإضافات المطلوبة حاليا غير نشط: %1$s."
+msgstr[2] "التالية الإضافات المطلوبة حاليا غير نشط: %1$s."
+msgstr[3] "التالية الإضافات المطلوبة حاليا غير نشط: %1$s."
+msgstr[4] "التالية الإضافات المطلوبة حاليا غير نشط: %1$s."
+msgstr[5] "التالية الإضافات المطلوبة حاليا غير نشط: %1$s."
+
+#: libs/plugins.php:136
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "يوصي ان تكون الاضافة  التالية  المطلوبة   غير نشط حاليا: %1$s."
+msgstr[1] "التالية الإضافات الموصى بها حاليا غير نشط: %1$s."
+msgstr[2] "التالية الإضافات الموصى بها حاليا غير نشط: %1$s."
+msgstr[3] "التالية الإضافات الموصى بها حاليا غير نشط: %1$s."
+msgstr[4] "التالية الإضافات الموصى بها حاليا غير نشط: %1$s."
+msgstr[5] "التالية الإضافات الموصى بها حاليا غير نشط: %1$s."
+
+#: libs/plugins.php:137
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت الإضافة <ph id=\"mtc_1\" equiv-"
+"text=\"base64:JXM=\"/>. اتصل بمسؤول هذا الموقع للمساعدة فى الحصول على تركيب "
+"البرنامج المساعد."
+msgstr[1] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتفعيل %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات تفعيلها."
+msgstr[2] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتفعيل %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات تفعيلها."
+msgstr[3] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتفعيل %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات تفعيلها."
+msgstr[4] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتفعيل %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات تفعيلها."
+msgstr[5] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتفعيل %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات تفعيلها."
+
+#: libs/plugins.php:138
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"الاضافة  التالية تحتاج إلى تحديث للإصدار الأخير لضمان أقصى قدر من التوافق مع "
+"هذا القالب :%1$s."
+msgstr[1] ""
+"الإضافات التالية تحتاج إلى تحديث إلى أحدث إصدار لضمان أقصى قدر من التوافق مع "
+"هذا الموضوع: %1$s."
+msgstr[2] ""
+"الإضافات التالية تحتاج إلى تحديث إلى أحدث إصدار لضمان أقصى قدر من التوافق مع "
+"هذا الموضوع: %1$s."
+msgstr[3] ""
+"الإضافات التالية تحتاج إلى تحديث إلى أحدث إصدار لضمان أقصى قدر من التوافق مع "
+"هذا الموضوع: %1$s."
+msgstr[4] ""
+"الإضافات التالية تحتاج إلى تحديث إلى أحدث إصدار لضمان أقصى قدر من التوافق مع "
+"هذا الموضوع: %1$s."
+msgstr[5] ""
+"الإضافات التالية تحتاج إلى تحديث إلى أحدث إصدار لضمان أقصى قدر من التوافق مع "
+"هذا الموضوع: %1$s."
+
+#: libs/plugins.php:139
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت الإضافة <ph id=\"mtc_1\" equiv-"
+"text=\"base64:JXM=\"/>. اتصل بمسؤول هذا الموقع للمساعدة فى الحصول على تركيب "
+"البرنامج المساعد."
+msgstr[1] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتحديث %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات المحدثة."
+msgstr[2] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتحديث %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات المحدثة."
+msgstr[3] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتحديث %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات المحدثة."
+msgstr[4] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتحديث %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات المحدثة."
+msgstr[5] ""
+"آسف, ولكن ليس لديك الأذونات الصحيحة لتحديث %s الإضافات. اتصل بمسؤول الموقع "
+"لمساعدتك على الحصول على الإضافات المحدثة."
+
+#: libs/plugins.php:140
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "بدأ تنصيب الاضافة"
+msgstr[1] "يمكنك البدء في تثبيت الإضافات"
+msgstr[2] "يمكنك البدء في تثبيت الإضافات"
+msgstr[3] "يمكنك البدء في تثبيت الإضافات"
+msgstr[4] "يمكنك البدء في تثبيت الإضافات"
+msgstr[5] "يمكنك البدء في تثبيت الإضافات"
+
+#: libs/plugins.php:141
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "تفعيل الإضافة المثبتة"
+msgstr[1] "تفعيل الإضافات المثبتة"
+msgstr[2] "تفعيل الإضافات المثبتة"
+msgstr[3] "تفعيل الإضافات المثبتة"
+msgstr[4] "تفعيل الإضافات المثبتة"
+msgstr[5] "تفعيل الإضافات المثبتة"
+
+# @ wpestate
+#: libs/plugins.php:142
+msgid "Return to Required Plugins Installer"
+msgstr "الرجوع إلى مثبت الإضافات المطلوبة"
+
+# @ wpestate
+#: libs/plugins.php:143
+msgid "Plugin activated successfully."
+msgstr "تم تفعيل الإضافة بنجاح."
+
+# @ wpestate
+#: libs/plugins.php:144
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+"جميع الاضافات تم تفعيلها بنجاح . <ph id=\"mtc_1\" equiv-text=\"base64:JTEkcw=="
+"\"/>"
+
+#: libs/searchfunctions.php:141
+msgid "Enter an address, state, city, area or zip code"
+msgstr "أدخل العنوان, محافظة, مدينة, أو منطقة"
+
+#: libs/searchfunctions.php:343 templates/advanced_search_type10.php:37
+#: templates/adv_search_mobile.php:78
+msgid "Type address, state, city or area"
+msgstr "أدخل العنوان أو المنطقة"
+
+# @ wpestate
+#: libs/searchfunctions.php:393 searchform.php:2
+#: templates/advanced_search_type11.php:36 templates/adv_search_mobile.php:105
+msgid "Type Keyword"
+msgstr "ادخل كلمة البحث"
+
+#: libs/searchfunctions.php:2030 libs/searchfunctions.php:2263
+msgid "County, City or Area is "
+msgstr "المحافظة أو المدينة أو المنطقة "
+
+#: libs/searchfunctions.php:2063 libs/searchfunctions.php:2293
+msgid "For"
+msgstr "لـ"
+
+#: libs/searchfunctions.php:2083 libs/searchfunctions.php:2313
+#: templates/submit_templates/property_location.php:91
+msgid "County / State"
+msgstr "المحافظة"
+
+#: libs/searchfunctions.php:2104
+msgid "Has"
+msgstr "لديه"
+
+#: libs/searchfunctions.php:2159 libs/searchfunctions.php:2327
+msgid "types"
+msgstr "بيع / إيجار"
+
+#: libs/searchfunctions.php:2160 libs/searchfunctions.php:2328
+msgid "categories"
+msgstr "الأقسام"
+
+#: libs/searchfunctions.php:2161 libs/searchfunctions.php:2329
+msgid "cities"
+msgstr "المدينة"
+
+#: libs/searchfunctions.php:2162 libs/searchfunctions.php:2330
+msgid "areas"
+msgstr "المناطق"
+
+#: libs/searchfunctions.php:2163 libs/searchfunctions.php:2331
+msgid "property price"
+msgstr "سعر العقار"
+
+#: libs/searchfunctions.php:2164 libs/searchfunctions.php:2332
+msgid "property size"
+msgstr "مساحة العقار"
+
+#: libs/searchfunctions.php:2165 libs/searchfunctions.php:2333
+msgid "property lot size"
+msgstr "المساحة الكلية للعقار"
+
+#: libs/searchfunctions.php:2166 libs/searchfunctions.php:2334
+msgid "property rooms"
+msgstr "عدد الغرف"
+
+#: libs/searchfunctions.php:2167 libs/searchfunctions.php:2335
+msgid "property bedrooms"
+msgstr "غرف نوم العقار"
+
+#: libs/searchfunctions.php:2168 libs/searchfunctions.php:2336
+msgid "property bathrooms"
+msgstr "عدد الحمامات"
+
+#: libs/searchfunctions.php:2169 libs/searchfunctions.php:2337
+msgid "property address"
+msgstr "عنوان العقار"
+
+#: libs/searchfunctions.php:2170 libs/searchfunctions.php:2338
+msgid "property county"
+msgstr "محافظة العقار"
+
+#: libs/searchfunctions.php:2171 libs/searchfunctions.php:2339
+msgid "property state"
+msgstr "منطقة العقار"
+
+#: libs/searchfunctions.php:2172 libs/searchfunctions.php:2340
+msgid "property zip"
+msgstr "الرمز البريدي للعقار"
+
+#: libs/searchfunctions.php:2173 libs/searchfunctions.php:2341
+msgid "property country"
+msgstr "دولة العقار"
+
+#: libs/searchfunctions.php:2191
+msgid "address"
+msgstr "العنوان"
+
+#: libs/searchfunctions.php:2205
+msgid "between "
+msgstr "بين"
+
+# @ wpestate
+#: libs/searchfunctions.php:2205 libs/searchfunctions.php:2207
+#: libs/searchfunctions.php:2211
+msgid "and"
+msgstr "و"
+
+#: libs/searchfunctions.php:2207 libs/searchfunctions.php:2211
+msgid "between"
+msgstr "بين"
+
+#: libs/searchfunctions.php:2215 libs/searchfunctions.php:2368
+msgid " similar with "
+msgstr "مرادف إلى "
+
+#: libs/searchfunctions.php:2217 libs/searchfunctions.php:2372
+#: libs/searchfunctions.php:2406
+msgid " has"
+msgstr " لديه"
+
+#: libs/searchfunctions.php:2219 libs/searchfunctions.php:2376
+msgid " equal with "
+msgstr " مساو لـ"
+
+#: libs/searchfunctions.php:2221 libs/searchfunctions.php:2384
+#: libs/searchfunctions.php:2413
+msgid "smaller than "
+msgstr "أصغر من "
+
+#: libs/searchfunctions.php:2223
+msgid "bigger than "
+msgstr "أكبر من "
+
+#: libs/searchfunctions.php:2362 libs/searchfunctions.php:2422
+msgid "price range from: "
+msgstr "مجال السعر من:"
+
+#: libs/searchfunctions.php:2364 libs/searchfunctions.php:2392
+#: libs/searchfunctions.php:2424
+msgid "bigger than"
+msgstr "أكبر من"
+
+#: libs/searchfunctions.php:2390
+msgid "price range from "
+msgstr "مجال السعر من"
+
+# @ wpestate
+#: libs/searchfunctions2.php:169 templates/advanced_search_type2.php:58
+#: templates/advanced_search_type4.php:74 templates/advanced_search_type4.php:80
+#: templates/advanced_search_type5.php:77 templates/advanced_search_type5.php:83
+#: templates/advanced_search_type7.php:112
+#: templates/advanced_search_type7.php:151
+#: templates/advanced_search_type8.php:168
+#: templates/advanced_search_type9.php:170 templates/adv_search_mobile.php:207
+msgid "Search Properties"
+msgstr "البحث في العقارات"
+
+#: libs/theme-cache.php:5
+msgid "Cache was cleared"
+msgstr "تم مسح ذاكرة التخزين المؤقت"
+
+#: libs/theme-slider.php:442
+msgid "slider"
+msgstr "سلايد شو"
+
+#. Template Name of the theme
+msgid "Property page template"
+msgstr "قالب صفحة العقار"
+
+#. Template Name of the theme
+msgid "Paypal Processor"
+msgstr "باي بال المعالج"
+
+#. Template Name of the theme
+msgid "Properties list"
+msgstr "قائمة العقارات"
+
+#. Template Name of the theme
+msgid "Properties list directory"
+msgstr "دليل قائمة العقارات"
+
+#. Template Name of the theme
+msgid "Properties list half"
+msgstr "عقارات على الخريطة"
+
+# @ wpestate
+#: search.php:22
+msgid "Search Results for : "
+msgstr "نتائج البحث ل: "
+
+# @ wpestate
+#: search.php:32 templates/normal_directory.php:205
+#: templates/normal_map_core.php:235
+msgid ""
+"We didn't find any results. Please try again with different search "
+"parameters. "
+msgstr "لا يوجد نتائج للبحث. الرجاء معاودة البحث باعتماد معطيات اخرى. "
+
+#: single-estate_agency.php:43
+msgid "About Us"
+msgstr "معلومات عنا"
+
+#: single-estate_agency.php:112 templates/header_agency.php:50
+#: templates/header_developer.php:68
+msgid "Adress:"
+msgstr "العنوان:"
+
+#. Template Name of the theme
+msgid "Idx Page"
+msgstr "Idx الصفحة"
+
+# @ wpestate
+#: single-idx.php:28 single.php:39 templates/agency_reviews.php:74
+#: templates/agent_reviews.php:61 templates/developer_reviews.php:60
+#: templates/property_reviews.php:83
+msgid "Posted by "
+msgstr "نشر بواسطة "
+
+# @ wpestate
+#: single-idx.php:28 single.php:39
+msgid "on"
+msgstr "في"
+
+# @ wpestate
+#: single-idx.php:41 single.php:48
+msgid "Pages:"
+msgstr "الصفحات:"
+
+# @ wpestate
+#: single-idx.php:46 single.php:53
+msgid "Next page"
+msgstr "الصفحة التالية"
+
+# @ wpestate
+#: single-idx.php:47 single.php:54
+msgid "Previous page"
+msgstr "الصفحة السابقة"
+
+#. Template Name of the theme
+msgid "Splash Page"
+msgstr "صفحة البداية"
+
+#. Template Name of the theme
+msgid "Stripe Charge Page"
+msgstr "الشريط تهمة الصفحة"
+
+# @ wpestate
+#: templates/advanced_search_type1.php:29 templates/advanced_search_type3.php:22
+#: templates/advanced_search_type5.php:31 templates/adv_search_mobile.php:33
+msgid "Advanced Search"
+msgstr "بحث متقدم"
+
+# @ wpestate
+#: templates/advanced_search_type1.php:78
+#: templates/advanced_search_type_half.php:394
+msgid "SEARCH PROPERTIES"
+msgstr "البحث في العقارات"
+
+#: templates/advanced_search_type2.php:24 templates/advanced_search_type8.php:95
+#: templates/advanced_search_type9.php:98 templates/adv_search_mobile.php:157
+msgid "Search State, City or Area"
+msgstr "مدينة او منطقة"
+
+#: templates/advanced_search_type4.php:29
+msgid "Advanced Search "
+msgstr "البحث المتقدم "
+
+#: templates/advanced_search_type_half.php:82
+#: templates/dashboard-templates/add_new_agent.php:226
+#: templates/dashboard-templates/user_profile_agency.php:216
+#: templates/dashboard-templates/user_profile_developer.php:190
+msgid "Location"
+msgstr "الموقع"
+
+#: templates/advanced_search_type_half.php:87
+msgid "Radius:"
+msgstr "نصف القطر:"
+
+# @ wpestate
+#: templates/advanced_search_type_half.php:399 templates/preview_template.php:4
+msgid "We found "
+msgstr "تم ايجاد "
+
+# @ wpestate
+#: templates/advanced_search_type_half.php:399 templates/preview_template.php:4
+msgid "results."
+msgstr "نتيجة."
+
+# @ wpestate
+#: templates/adv_search_mobile.php:211
+msgid "we found"
+msgstr "تم ايجاد"
+
+# @ wpestate
+#: templates/adv_search_mobile.php:211
+msgid "results"
+msgstr "نتيجة"
+
+#: templates/agency_agents.php:43
+msgid "We don't have any agents yet!"
+msgstr "ليس لدينا أي وسطاء حتى الآن!"
+
+#: templates/agency_agents.php:45
+msgid "Our Agents"
+msgstr "وكلائنا"
+
+#: templates/agency_listings.php:175 templates/agent_listings.php:204
+#: templates/developer_listings.php:131
+msgid "Load More Properties"
+msgstr "تحميل المزيد من  العقارات"
+
+#: templates/agency_reviews.php:3
+msgid "Agency Reviews "
+msgstr "تقييم الوكالة"
+
+#: templates/agency_reviews.php:88 templates/agent_reviews.php:74
+#: templates/developer_reviews.php:74 templates/property_reviews.php:97
+msgid "of"
+msgstr "من"
+
+#: templates/agency_reviews.php:92 templates/agent_reviews.php:78
+#: templates/developer_reviews.php:78 templates/property_reviews.php:101
+msgid "Posted on "
+msgstr "تم النشر في"
+
+#: templates/agency_reviews.php:124 templates/agent_reviews.php:102
+#: templates/developer_reviews.php:105 templates/property_reviews.php:124
+msgid "Reviews"
+msgstr "المراجعات"
+
+#: templates/agency_reviews.php:179 templates/agent_reviews.php:156
+#: templates/developer_reviews.php:159 templates/property_reviews.php:178
+msgid "Update Review "
+msgstr "مراجعة التحديث"
+
+#: templates/agency_reviews.php:181 templates/agent_reviews.php:158
+#: templates/developer_reviews.php:161 templates/property_reviews.php:180
+msgid "pending approval"
+msgstr "في انتظار الموافقة"
+
+#: templates/agency_reviews.php:185 templates/agent_reviews.php:162
+#: templates/developer_reviews.php:165 templates/property_reviews.php:184
+msgid "Write a Review "
+msgstr "أكتب مراجعة"
+
+#: templates/agency_reviews.php:192 templates/agent_reviews.php:169
+#: templates/developer_reviews.php:172 templates/property_reviews.php:191
+msgid "Your Rating & Review"
+msgstr "تقييم المشروع"
+
+#: templates/agency_reviews.php:211 templates/agent_reviews.php:188
+#: templates/developer_reviews.php:191 templates/property_reviews.php:210
+msgid "Review Title"
+msgstr "عنوان المراجعة"
+
+#: templates/agency_reviews.php:212 templates/agent_reviews.php:189
+#: templates/developer_reviews.php:192 templates/property_reviews.php:211
+msgid "Your Review"
+msgstr "رأيك"
+
+#: templates/agency_reviews.php:223 templates/agent_reviews.php:200
+#: templates/developer_reviews.php:203 templates/property_reviews.php:222
+msgid "Edit Review"
+msgstr "تحرير المراجعة"
+
+#: templates/agency_reviews.php:226 templates/agent_reviews.php:203
+#: templates/developer_reviews.php:206 templates/property_reviews.php:225
+msgid "Submit Review"
+msgstr "تقديم المراجعة"
+
+#: templates/agency_reviews.php:237 templates/agent_reviews.php:213
+#: templates/developer_reviews.php:217 templates/property_reviews.php:237
+msgid "You need to "
+msgstr "يجب عليك تسجيل "
+
+#: templates/agency_reviews.php:237 templates/agent_reviews.php:213
+#: templates/developer_reviews.php:217 templates/property_reviews.php:237
+msgid "login"
+msgstr "دخول"
+
+#: templates/agency_reviews.php:237 templates/agent_reviews.php:213
+#: templates/developer_reviews.php:217 templates/property_reviews.php:237
+msgid "in order to post a review "
+msgstr "من أجل إضافة تقييم"
+
+#: templates/agency_unit.php:151 templates/agent_unit.php:24
+#: templates/agent_unit_widget.php:111
+msgid "listing"
+msgstr "قوائم"
+
+#: templates/agentdetails.php:88
+msgid "Member of:"
+msgstr "عضو في: "
+
+# @ wpestate
+#: templates/agent_contact.php:31 templates/agent_contact.php:47
+#: templates/footer_buttons.php:10 templates/header_agency.php:108
+#: templates/header_developer.php:90
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+# @ wpestate
+#: templates/agent_contact.php:33
+msgid "Contact Me"
+msgstr "اتصل بنا"
+
+#: templates/agent_contact.php:40
+msgid "Schedule a showing?"
+msgstr "رتب موعد لعرض العقار؟"
+
+#: templates/agent_contact.php:61
+msgid "Day"
+msgstr "يوم"
+
+#: templates/agent_contact.php:66
+msgid "Time"
+msgstr "الوقت"
+
+#: templates/agent_contact.php:92
+msgid "I'm interested in"
+msgstr "أنا مهتم في"
+
+#: templates/agent_contact.php:101
+#: templates/realtor_templates/agent_contact_bar.php:7
+msgid "Send Email"
+msgstr "إرسال بريد الكتروني"
+
+#: templates/agent_contact.php:121
+msgid "Send Private Message"
+msgstr "إرسال رسالة خاصة"
+
+#: templates/agent_contact.php:122
+msgid ""
+"You can reply to private messages from \"Inbox\" page in your user account."
+msgstr ""
+"يمكنك الرد على الرسائل الخاصة من \"علبة الوارد\" في صفحة حساب المستخدم الخاص "
+"بك."
+
+# @ wpestate
+#: templates/agent_listings.php:177 templates/agent_unit_featured.php:85
+#: templates/featured_property_1.php:131
+msgid "My Listings"
+msgstr "منشوراتي"
+
+#: templates/agent_reviews.php:2
+msgid "Agent Reviews "
+msgstr "تقييم الوكيل"
+
+#: templates/agent_unit.php:11 templates/agent_unit_featured.php:26
+#: templates/agent_unit_widget.php:61 templates/agent_unit_widget.php:71
+#: templates/blog_unit.php:28 templates/blog_unit2.php:63
+#: templates/dashboard-templates/add_new_agent.php:38
+#: templates/dashboard-templates/add_new_agent_template.php:380
+#: templates/dashboard-templates/dashboard_agent_unit.php:18
+#: templates/dashboard-templates/user_profile.php:145
+#: templates/dashboard-templates/user_profile_agency.php:256
+#: templates/dashboard-templates/user_profile_agent.php:362
+#: templates/dashboard-templates/user_profile_developer.php:232
+#: templates/featured_property_1.php:123 templates/featured_property_1.php:127
+#: templates/featured_property_2.php:106
+#: templates/property_animation_slider.php:70
+#: templates/property_cards_templates/property_card_slider.php:41
+#: templates/submit_templates/property_images.php:98
+#: templates/submit_templates/property_images.php:104
+#: templates/submit_templates/property_images_new.php:57
+#: templates/submit_templates/property_images_new.php:67
+#: templates/submit_templates/property_images_new.php:116
+#: templates/submit_templates/property_images_new.php:119
+msgid "user image"
+msgstr "صورة المستخدم"
+
+# @ wpestate
+#: templates/ajax_container.php:2
+msgid "Your search results"
+msgstr "نتائج بحثك"
+
+# @ wpestate
+#: templates/blog_unit.php:59
+msgid "Continue Reading"
+msgstr "اكمل القراءة"
+
+# @ wpestate
+#: templates/blog_unit2.php:104
+msgid "Continue reading"
+msgstr "مواصلة القراءة"
+
+# @ wpestate
+#: templates/breadcrumbs.php:27
+msgid "Home"
+msgstr "الرئيسية"
+
+# @ wpestate
+#: templates/breadcrumbs.php:32
+msgid "Archives"
+msgstr "الارشيف"
+
+# @ wpestate
+#: templates/compare_list.php:16
+msgid "Compare"
+msgstr "مقارنة"
+
+#: templates/dashboard-templates/add_new_agent.php:19
+#: templates/dashboard-templates/user_menu.php:7
+#: templates/dashboard-templates/user_profile_agency.php:293
+#: templates/dashboard-templates/user_profile_agent.php:402
+#: templates/dashboard-templates/user_profile_developer.php:292
+msgid "Your account is pending approval. Please wait for admin to approve it. "
+msgstr "حسابك في انتظار الموافقة. يرجى الانتظار لمدة الادارة للموافقة عليه. "
+
+#: templates/dashboard-templates/add_new_agent.php:22
+#: templates/dashboard-templates/user_menu.php:10
+#: templates/dashboard-templates/user_profile_agency.php:296
+#: templates/dashboard-templates/user_profile_agent.php:405
+#: templates/dashboard-templates/user_profile_developer.php:295
+msgid "Your account is disabled."
+msgstr "حسابك معطل."
+
+#: templates/dashboard-templates/add_new_agent.php:33
+#: templates/dashboard-templates/add_new_agent_template.php:378
+#: templates/dashboard-templates/user_profile.php:141
+#: templates/dashboard-templates/user_profile_agency.php:252
+#: templates/dashboard-templates/user_profile_agent.php:360
+#: templates/dashboard-templates/user_profile_developer.php:228
+msgid "Photo"
+msgstr "صورة"
+
+#: templates/dashboard-templates/add_new_agent.php:34
+msgid "Upload your profile photo."
+msgstr "ارفع صورة ملفك."
+
+#: templates/dashboard-templates/add_new_agent.php:44
+#: templates/dashboard-templates/add_new_agent_template.php:385
+#: templates/dashboard-templates/user_profile.php:149
+#: templates/dashboard-templates/user_profile_agency.php:261
+#: templates/dashboard-templates/user_profile_agent.php:366
+#: templates/dashboard-templates/user_profile_developer.php:237
+msgid "Upload  profile image."
+msgstr "ارفع صورة ملفك."
+
+#: templates/dashboard-templates/add_new_agent.php:50
+#: templates/dashboard-templates/add_new_agent_template.php:391
+#: templates/dashboard-templates/user_profile.php:157
+#: templates/dashboard-templates/user_profile_agency.php:268
+#: templates/dashboard-templates/user_profile_agent.php:373
+#: templates/dashboard-templates/user_profile_developer.php:244
+msgid "*minimum 500px x 500px"
+msgstr "* الحد الأدنى 500 بكسل × 500 بكسل"
+
+#: templates/dashboard-templates/add_new_agent.php:56
+#: templates/dashboard-templates/add_new_agent.php:98
+#: templates/dashboard-templates/add_new_agent.php:251
+#: templates/dashboard-templates/user_profile.php:117
+msgid "User Details"
+msgstr "تفاصيل المستخدم"
+
+#: templates/dashboard-templates/add_new_agent.php:57
+msgid "Add your contact information."
+msgstr "اضف تفاصيل الاتصال بك."
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent.php:63
+#: templates/dashboard-templates/add_new_agent_template.php:32
+#: templates/dashboard-templates/user_profile.php:18
+#: templates/dashboard-templates/user_profile_agent.php:14
+msgid "First Name"
+msgstr "الاسم الاول"
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent.php:68
+#: templates/dashboard-templates/add_new_agent_template.php:37
+#: templates/dashboard-templates/user_profile.php:23
+#: templates/dashboard-templates/user_profile_agent.php:19
+msgid "Last Name"
+msgstr "الاسم الاخير"
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent.php:83
+#: templates/dashboard-templates/add_new_agent_template.php:47
+#: templates/dashboard-templates/user_profile.php:38
+#: templates/dashboard-templates/user_profile_agency.php:30
+#: templates/dashboard-templates/user_profile_agent.php:35
+#: templates/dashboard-templates/user_profile_developer.php:28
+msgid "Mobile"
+msgstr "موبايل"
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent.php:88
+#: templates/dashboard-templates/add_new_agent_template.php:59
+#: templates/dashboard-templates/user_profile.php:43
+#: templates/dashboard-templates/user_profile_agency.php:35
+#: templates/dashboard-templates/user_profile_agent.php:40
+#: templates/dashboard-templates/user_profile_developer.php:33
+msgid "Skype"
+msgstr "Skype"
+
+#: templates/dashboard-templates/add_new_agent.php:99
+msgid "Add your social media information."
+msgstr "اضف معلومات مواقع التواصل الاجتماعي."
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent.php:104
+#: templates/dashboard-templates/add_new_agent_template.php:73
+#: templates/dashboard-templates/user_profile.php:52
+#: templates/dashboard-templates/user_profile_agency.php:72
+#: templates/dashboard-templates/user_profile_agency.php:105
+#: templates/dashboard-templates/user_profile_agent.php:63
+#: templates/dashboard-templates/user_profile_developer.php:66
+msgid "Facebook Url"
+msgstr "رابط Facebook"
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent.php:109
+#: templates/dashboard-templates/add_new_agent_template.php:84
+#: templates/dashboard-templates/user_profile.php:57
+#: templates/dashboard-templates/user_profile_agency.php:82
+#: templates/dashboard-templates/user_profile_agent.php:73
+#: templates/dashboard-templates/user_profile_developer.php:76
+msgid "Twitter Url"
+msgstr "رابط Twitter"
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent.php:114
+#: templates/dashboard-templates/add_new_agent_template.php:94
+#: templates/dashboard-templates/user_profile.php:62
+#: templates/dashboard-templates/user_profile_agency.php:92
+#: templates/dashboard-templates/user_profile_agent.php:83
+#: templates/dashboard-templates/user_profile_developer.php:86
+msgid "Linkedin Url"
+msgstr "رابط Linkedin"
+
+#: templates/dashboard-templates/add_new_agent.php:120
+#: templates/dashboard-templates/add_new_agent_template.php:79
+#: templates/dashboard-templates/user_profile.php:67
+#: templates/dashboard-templates/user_profile_agency.php:77
+#: templates/dashboard-templates/user_profile_agency.php:110
+#: templates/dashboard-templates/user_profile_agent.php:68
+#: templates/dashboard-templates/user_profile_developer.php:71
+msgid "Instagram Url"
+msgstr "رابط Instagram"
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent.php:125
+#: templates/dashboard-templates/add_new_agent_template.php:89
+#: templates/dashboard-templates/user_profile.php:72
+#: templates/dashboard-templates/user_profile_agency.php:87
+#: templates/dashboard-templates/user_profile_agent.php:78
+#: templates/dashboard-templates/user_profile_developer.php:81
+msgid "Pinterest Url"
+msgstr "رابط Pinterest"
+
+#: templates/dashboard-templates/add_new_agent.php:130
+#: templates/dashboard-templates/add_new_agent_template.php:99
+#: templates/dashboard-templates/user_profile.php:78
+#: templates/dashboard-templates/user_profile_agency.php:97
+#: templates/dashboard-templates/user_profile_agent.php:88
+#: templates/dashboard-templates/user_profile_developer.php:91
+msgid "Website Url (without http)"
+msgstr "رابط الموقع (بدون http)"
+
+#: templates/dashboard-templates/add_new_agent.php:140
+#: templates/dashboard-templates/add_new_agent_template.php:247
+#: templates/dashboard-templates/user_profile_agent.php:211
+msgid "Agent Area/Categories"
+msgstr "وكيل منطقة/فئات"
+
+#: templates/dashboard-templates/add_new_agent.php:141
+msgid "What kind of listings do you handle?"
+msgstr "أي نوع من القوائم هل التعامل معها ؟ "
+
+#: templates/dashboard-templates/add_new_agent.php:174
+#: templates/dashboard-templates/add_new_agent_template.php:272
+#: templates/dashboard-templates/user_profile_agency.php:153
+#: templates/dashboard-templates/user_profile_agent.php:250
+#: templates/dashboard-templates/user_profile_developer.php:134
+msgid "Action Category"
+msgstr "فئة العمل"
+
+#: templates/dashboard-templates/add_new_agent.php:205
+#: templates/dashboard-templates/add_new_agent_template.php:295
+#: templates/dashboard-templates/user_profile_agent.php:273
+msgid "Agent Custom Data"
+msgstr "بيانات مخصصة عامل"
+
+#: templates/dashboard-templates/add_new_agent.php:206
+msgid "Any custom parameters for agent"
+msgstr "أي المعلمات المخصصة للعميل"
+
+#: templates/dashboard-templates/add_new_agent.php:210
+#: templates/dashboard-templates/add_new_agent_template.php:335
+#: templates/dashboard-templates/user_profile_agent.php:313
+msgid "Add Custom Field"
+msgstr "إضافة حقل مخصص"
+
+#: templates/dashboard-templates/add_new_agent.php:215
+msgid "User Param 1"
+msgstr "المستخدم المعلمة 1"
+
+#: templates/dashboard-templates/add_new_agent.php:227
+msgid "In what area are your properties"
+msgstr "في أي منطقة هي العقارات الخاصة بك"
+
+#: templates/dashboard-templates/add_new_agent.php:252
+msgid "Add some information about yourself."
+msgstr "اضف بعض المعلومات عنك."
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent.php:256
+#: templates/dashboard-templates/add_new_agent_template.php:131
+#: templates/dashboard-templates/user_profile.php:87
+#: templates/dashboard-templates/user_profile_agent.php:122
+msgid "Title/Position"
+msgstr "المسمى الوظيفي/مجال العمل"
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent.php:261
+#: templates/dashboard-templates/add_new_agent_template.php:137
+#: templates/dashboard-templates/user_profile_agent.php:128
+msgid "About Me"
+msgstr "معلومات عني"
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent.php:265
+#: templates/dashboard-templates/user_profile.php:122
+#: templates/dashboard-templates/user_profile_agency.php:233
+#: templates/dashboard-templates/user_profile_agent.php:332
+#: templates/dashboard-templates/user_profile_developer.php:207
+msgid "Update profile"
+msgstr "تحديث الملف الشخصي"
+
+#: templates/dashboard-templates/add_new_agent.php:266
+#: templates/dashboard-templates/user_profile.php:123
+#: templates/dashboard-templates/user_profile_agency.php:243
+#: templates/dashboard-templates/user_profile_agent.php:344
+#: templates/dashboard-templates/user_profile_developer.php:219
+msgid "Delete profile"
+msgstr "حذف الحساب"
+
+#: templates/dashboard-templates/add_new_agent_template.php:22
+msgid "Agent Password"
+msgstr "كلمة مرور الوكيل"
+
+#: templates/dashboard-templates/add_new_agent_template.php:27
+msgid "Re-type Password"
+msgstr "إعادة كتابة كلمة المرور"
+
+#: templates/dashboard-templates/add_new_agent_template.php:65
+#: templates/dashboard-templates/user_profile_agent.php:46
+msgid "Member of"
+msgstr "عضو في"
+
+#: templates/dashboard-templates/add_new_agent_template.php:223
+#: templates/dashboard-templates/add_new_agent_template.php:348
+#: templates/dashboard-templates/user_profile_agent.php:323
+msgid "Agent Details"
+msgstr "تفاصيل الوكيل"
+
+#: templates/dashboard-templates/add_new_agent_template.php:227
+msgid "Agent Username"
+msgstr "اسم الوكيل"
+
+#: templates/dashboard-templates/add_new_agent_template.php:231
+msgid "Username:"
+msgstr "اسم المستخدم: "
+
+#: templates/dashboard-templates/add_new_agent_template.php:231
+msgid "is not editable"
+msgstr "غير قابل للتحرير"
+
+#: templates/dashboard-templates/add_new_agent_template.php:241
+msgid "Agent Social Details"
+msgstr "وكيل التفاصيل الاجتماعية"
+
+#: templates/dashboard-templates/add_new_agent_template.php:299
+#: templates/dashboard-templates/add_new_agent_template.php:320
+#: templates/dashboard-templates/user_profile_agent.php:277
+#: templates/dashboard-templates/user_profile_agent.php:298
+msgid "Parameter Label"
+msgstr "المعلمة التسمية"
+
+#: templates/dashboard-templates/add_new_agent_template.php:303
+#: templates/dashboard-templates/add_new_agent_template.php:324
+#: templates/dashboard-templates/user_profile_agent.php:281
+#: templates/dashboard-templates/user_profile_agent.php:302
+msgid "Parameter Value"
+msgstr "المعلمة القيمة"
+
+#: templates/dashboard-templates/add_new_agent_template.php:342
+#: templates/dashboard-templates/user_profile_agent.php:318
+msgid "Agent Location"
+msgstr "موقع الوكيل"
+
+# @ wpestate
+#: templates/dashboard-templates/add_new_agent_template.php:359
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:16
+msgid "Edit Agent"
+msgstr "تعديل الوكيل "
+
+# @ wpestate
+#: templates/dashboard-templates/change_pass_template.php:2
+msgid "Change Password"
+msgstr "غير كلمه السر"
+
+# @ wpestate
+#: templates/dashboard-templates/change_pass_template.php:6
+msgid "Old Password"
+msgstr "كلمة المرور  القديمة"
+
+# @ wpestate
+#: templates/dashboard-templates/change_pass_template.php:11
+msgid "New Password "
+msgstr "كلمة المرور الجديدة "
+
+# @ wpestate
+#: templates/dashboard-templates/change_pass_template.php:15
+msgid "Confirm New Password"
+msgstr "تأكيد الرقم السري الجديد"
+
+# @ wpestate
+#: templates/dashboard-templates/change_pass_template.php:21
+#: templates/login_register_modal.php:142 templates/login_register_modal.php:153
+#: templates/mobile_menu.php:169 templates/mobile_menu.php:177
+msgid "Reset Password"
+msgstr "اعادة تعيين كلمة المرور"
+
+# @ wpestate
+#: templates/dashboard-templates/dashboard-left-col.php:17
+msgid "Welcome back, "
+msgstr "اهلا بك من جديد، "
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:3
+msgid "Order By"
+msgstr "طلب بحسب"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:8
+msgid "Default Order"
+msgstr "الترتيب الأفتراضي"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:12
+msgid "Price -  High to Low"
+msgstr "السعر الاعلى للادنى"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:16
+msgid "Price -  Low to High"
+msgstr "السعر الادنى للاعلى"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:20
+msgid "Bathrooms -  High to Low"
+msgstr "الحمامات من الاكثر الى الاقل"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:24
+msgid "Bathrooms -Low to High"
+msgstr "الحمامات من الاقل الى الاكثر"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:28
+msgid "Date - Old to New"
+msgstr "تاريخ من الأقدم إلى الأحدث"
+
+#: templates/dashboard-templates/dashboard-list-filter-actions.php:32
+msgid "Date - New to Old"
+msgstr "التاريخ من الأحدث إلى الأقدم"
+
+#: templates/dashboard-templates/dashboard-list-filter-categories.php:34
+msgid "Filter By Status"
+msgstr "التصفية حسب الحالة"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-agent-unit-actions.php:20
+msgid "Delete Agent"
+msgstr "حذف وكيل"
+
+# @ wpestate
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:31
+msgid "Edit property"
+msgstr "تعديل العقار "
+
+# @ wpestate
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:36
+msgid "Delete property"
+msgstr "حذف العقار "
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:48
+msgid "Duplicate Property"
+msgstr "خاصية مكررة"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:56
+msgid "Not enough listings to duplicate "
+msgstr "لا توجد قوائم كافية لتكرارها "
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:64
+msgid "Views Stats"
+msgstr "عدد مشاهدات الصفحة"
+
+# @ wpestate
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:71
+msgid "Resend for approval"
+msgstr "إعادة ارسال للموافقة"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:82
+msgid "Paid & Featured"
+msgstr "مدفوعة ومتميزة"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:116
+msgid ""
+"Set as featured,  *Listings set as featured are subtracted from your package"
+msgstr "تعيين كعقار مميز، *العقارات المميزة يتم حسابهم من الباقة الخاصة بك"
+
+#: templates/dashboard-templates/dashboard-unit-templates/dashboard-unit-actions.php:116
+msgid "Set as featured"
+msgstr "التعيين كـ مميز"
+
+# @ wpestate
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:18
+msgid "Submission Fee"
+msgstr "رسوم التسجيل:"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:34
+#: templates/dashboard-templates/user_memebership_profile.php:193
+msgid "Wire Transfer"
+msgstr "التحويل البنكي"
+
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:43
+msgid "Featured  Fee"
+msgstr "رسوم التعيين كمميز"
+
+# @ wpestate
+#: templates/dashboard-templates/dashboard-unit-templates/per_listing_pay.php:59
+msgid "Upgrade to featured"
+msgstr "الترقية الى عقار مميز"
+
+#: templates/dashboard-templates/dashboard_agent_unit.php:36
+msgid "user id:"
+msgstr "معرف المستخدم:"
+
+# @ wpestate
+#: templates/dashboard-templates/dashboard_listing_unit.php:51
+#: templates/dashboard-templates/user_memebership_profile.php:140
+#: templates/featured_property_1.php:50 templates/featured_property_2.php:47
+#: templates/featured_property_3.php:54 templates/featured_property_4.php:63
+#: templates/property_cards_templates/property_card_featured_label.php:7
+#: templates/property_cards_templates/property_card_tags.php:6
+msgid "Featured"
+msgstr "المميز"
+
+#: templates/dashboard-templates/dashboard_listing_unit.php:74
+msgid "Expires on "
+msgstr "تنتهي الصلاحية في"
+
+#: templates/dashboard-templates/dashboard_listing_unit.php:114
+msgid "Remove From Favorites"
+msgstr "إزالة من المفضّلة"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:27
+msgid "Publish Listing with Feature"
+msgstr "نشر القائمة مع الميزة"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:40
+msgid "One Time"
+msgstr "مرة واحدة"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:42
+msgid "Recurring"
+msgstr "دورى"
+
+#: templates/dashboard-templates/invoice_listing_unit.php:69
+#: templates/listing_templates/overview_template.php:76
+msgid "Print"
+msgstr "طباعة"
+
+#: templates/dashboard-templates/message-listing-unit.php:20
+msgid "new message"
+msgstr "رسالة جديدة"
+
+#: templates/dashboard-templates/message-listing-unit.php:27
+msgid "Conversation started by you "
+msgstr "بدأت المحادثة من قبلك"
+
+#: templates/dashboard-templates/message-listing-unit.php:29
+msgid "From"
+msgstr "المرسل"
+
+#: templates/dashboard-templates/message-listing-unit.php:44
+msgid "reply to message"
+msgstr "الرد على الرسالة"
+
+#: templates/dashboard-templates/message-listing-unit.php:48
+msgid "delete message"
+msgstr "مسح الرسالة"
+
+#: templates/dashboard-templates/message-listing-unit.php:84
+msgid "From: "
+msgstr "من:"
+
+#: templates/dashboard-templates/message-listing-unit.php:102
+msgid "Send Reply"
+msgstr "أرسل الرد"
+
+#: templates/dashboard-templates/search_unit.php:16
+#: templates/half_map_core.php:83 templates/normal_map_core.php:89
+msgid "Search Parameters: "
+msgstr "معلمات البحث: "
+
+#: templates/dashboard-templates/search_unit.php:22
+msgid "delete search"
+msgstr "مسح البحث"
+
+#: templates/dashboard-templates/user_memebership_profile.php:43
+msgid "cancel stripe subscription"
+msgstr "إلغاء شريط الاشتراك"
+
+#: templates/dashboard-templates/user_memebership_profile.php:52
+msgid "See Available Packages and Payment Methods"
+msgstr "شاهد حزم الإعلانات المتوفرة وطرق الدفع"
+
+# @ wpestate
+#: templates/dashboard-templates/user_memebership_profile.php:62
+msgid "Packages Available"
+msgstr "الحزم المتوفرة"
+
+#: templates/dashboard-templates/user_memebership_profile.php:73
+msgid "User"
+msgstr "مستخدم"
+
+# @ wpestate
+#: templates/dashboard-templates/user_memebership_profile.php:127
+#: templates/dashboard-templates/user_memebership_profile.php:136
+msgid "Unlimited"
+msgstr "لا نهائي"
+
+# @ wpestate
+#: templates/dashboard-templates/user_memebership_profile.php:136
+msgid "listings "
+msgstr "الاعلانات "
+
+#: templates/dashboard-templates/user_memebership_profile.php:141
+msgid "Images / per listing"
+msgstr "صور / لكل قائمة"
+
+#: templates/dashboard-templates/user_memebership_profile.php:144
+msgid "Select package"
+msgstr "اختيار الباقة "
+
+#: templates/dashboard-templates/user_memebership_profile.php:162
+msgid "Payment Method"
+msgstr "طريقة الدفع "
+
+# @ wpestate
+#: templates/dashboard-templates/user_memebership_profile.php:176
+msgid "make payment recurring "
+msgstr "تجديد الحزمة بشكل تلقائي"
+
+# @ wpestate
+#: templates/dashboard-templates/user_memebership_profile.php:221
+msgid "days"
+msgstr "الايام"
+
+# @ wpestate
+#: templates/dashboard-templates/user_memebership_profile.php:224
+msgid "weeks"
+msgstr "شهور"
+
+# @ wpestate
+#: templates/dashboard-templates/user_memebership_profile.php:227
+msgid "months"
+msgstr "شهور "
+
+# @ wpestate
+#: templates/dashboard-templates/user_memebership_profile.php:230
+msgid "year"
+msgstr "%s سنة"
+
+#: templates/dashboard-templates/user_memebership_profile.php:232
+msgid "years"
+msgstr "سنين"
+
+#: templates/dashboard-templates/user_profile.php:111
+msgid "Social Media"
+msgstr "التواصل الاجتماعى"
+
+#: templates/dashboard-templates/user_profile_agency.php:14
+msgid "Agency Name"
+msgstr "اسم الوكالة"
+
+#: templates/dashboard-templates/user_profile_agency.php:40
+msgid "Languages"
+msgstr "اللغات"
+
+#: templates/dashboard-templates/user_profile_agency.php:45
+#: templates/dashboard-templates/user_profile_developer.php:43
+msgid "Taxes"
+msgstr "الضرائب"
+
+#: templates/dashboard-templates/user_profile_agency.php:50
+#: templates/dashboard-templates/user_profile_developer.php:48
+msgid "License"
+msgstr "الرخصة"
+
+#: templates/dashboard-templates/user_profile_agency.php:55
+#: templates/google-map-contact-details.php:49
+msgid "Opening Hours"
+msgstr "ساعات العمل يومياَ"
+
+#: templates/dashboard-templates/user_profile_agency.php:64
+#: templates/dashboard-templates/user_profile_agent.php:54
+#: templates/dashboard-templates/user_profile_developer.php:57
+msgid "HubSpot Api Key"
+msgstr ""
+
+#: templates/dashboard-templates/user_profile_agency.php:166
+#: templates/dashboard-templates/user_profile_agency.php:229
+#: templates/dashboard-templates/user_profile_developer.php:146
+#: templates/dashboard-templates/user_profile_developer.php:203
+msgid "About Agency"
+msgstr "عن الوكالة"
+
+#: templates/dashboard-templates/user_profile_agency.php:205
+#: templates/dashboard-templates/user_profile_agent.php:205
+#: templates/dashboard-templates/user_profile_developer.php:179
+msgid "Social Information"
+msgstr "الشبكات الاجتماعية"
+
+#: templates/dashboard-templates/user_profile_agency.php:221
+#: templates/dashboard-templates/user_profile_developer.php:195
+msgid "Place Pin with Agency Address"
+msgstr "مكان دبوس مع وكالة عنوان"
+
+#: templates/dashboard-templates/user_profile_agency.php:240
+#: templates/dashboard-templates/user_profile_agent.php:340
+#: templates/dashboard-templates/user_profile_developer.php:216
+msgid "View public profile"
+msgstr "عرض الملف الشخصي عام"
+
+#: templates/dashboard-templates/user_profile_developer.php:12
+msgid "Developer Name"
+msgstr "اسم المطور"
+
+#: templates/developer_reviews.php:2
+msgid "Developer Reviews "
+msgstr "تقييم المطور"
+
+#: templates/directory_filters.php:190
+msgid "Size:"
+msgstr "الحجم:"
+
+#: templates/directory_filters.php:207
+msgid "Lot Size:"
+msgstr "مساحة الموقف :"
+
+#: templates/directory_filters.php:226
+msgid "Property Rooms:"
+msgstr "عدد الغرف:"
+
+#: templates/directory_filters.php:245
+msgid "Property Bedrooms:"
+msgstr "غرف نوم الملكية:"
+
+#: templates/directory_filters.php:264
+msgid "Property Bathrooms:"
+msgstr "حمامات الملكية:"
+
+# @ wpestate
+#: templates/directory_filters.php:296
+msgid "Property Status:"
+msgstr "حالة العقار: "
+
+#: templates/directory_filters.php:305
+msgid "Property Keyword:"
+msgstr "الكلمة الرئيسية للعقار:"
+
+#: templates/directory_filters.php:306
+msgid "keyword"
+msgstr "الكلمة الرئيسية"
+
+#: templates/featured_property_4.php:144
+#: templates/property_cards_templates/property_card_details_type.php:30
+msgid "full info"
+msgstr "معلومات المشروع"
+
+#: templates/featured_property_4.php:145
+msgid "map"
+msgstr "خريطة"
+
+# @ wpestate
+#: templates/featured_property_4b.php:13
+msgid "Featured Property"
+msgstr "عقار مميز"
+
+#: templates/featured_property_4b.php:17 templates/featured_property_5.php:51
+msgid "discover more"
+msgstr "إكتشف المزيد"
+
+# @ wpestate
+#: templates/footer_buttons.php:11
+msgid "Use the form below to contact us!"
+msgstr "تواصل معنا عبر النموذج التالي!"
+
+# @ wpestate
+#: templates/footer_buttons.php:20
+msgid "Type your message..."
+msgstr "اكتب رسالتك هنا..."
+
+# @ wpestate
+#: templates/footer_buttons.php:25
+msgid "Send"
+msgstr "ارسال"
+
+#: templates/front_end_submission.php:150 templates/front_end_submission.php:155
+#: templates/front_end_submission.php:192 templates/front_end_submission.php:197
+#: user_dashboard_add.php:111 user_dashboard_add.php:256
+msgid "Save as Draft"
+msgstr "حفظ كمسودة"
+
+# @ wpestate
+#: templates/front_end_submission.php:154 templates/front_end_submission.php:196
+msgid "Add Property"
+msgstr "اضافة عقار"
+
+#: templates/google-map-contact-details.php:33
+msgid "How To Find Us"
+msgstr "تواصل معنا"
+
+# @ wpestate
+#: templates/google_maps_base.php:67
+msgid "click to enable zoom"
+msgstr "اضغط لتفعيل التكبير والتصغير"
+
+# @ wpestate
+#: templates/google_maps_base.php:69 templates/google_maps_base_map_list.php:16
+msgid "loading..."
+msgstr "جار التحميل..."
+
+# @ wpestate
+#: templates/google_maps_base.php:93 templates/google_maps_base_map_list.php:5
+msgid "View"
+msgstr "عرض"
+
+#: templates/google_maps_base.php:94 templates/google_maps_base_map_list.php:6
+msgid "Roadmap"
+msgstr "خريطة الطريق"
+
+#: templates/google_maps_base.php:95 templates/google_maps_base_map_list.php:7
+msgid "Satellite"
+msgstr "القنوات الفضائية"
+
+#: templates/google_maps_base.php:96 templates/google_maps_base_map_list.php:8
+msgid "Hybrid"
+msgstr "هجين"
+
+#: templates/google_maps_base.php:97 templates/google_maps_base_map_list.php:9
+msgid "Terrain"
+msgstr "أرض"
+
+# @ wpestate
+#: templates/google_maps_base.php:98 templates/google_maps_base_map_list.php:11
+msgid "My Location"
+msgstr "موقعي الحالي"
+
+# @ wpestate
+#: templates/google_maps_base.php:102
+msgid "Prev"
+msgstr "السابق"
+
+# @ wpestate
+#: templates/google_maps_base.php:103
+msgid "Next"
+msgstr "التالي"
+
+#: templates/google_maps_base.php:113
+msgid "Google Maps Search"
+msgstr "بحث خرائط جوجل"
+
+#: templates/half_map_core.php:87 templates/normal_map_core.php:94
+msgid "Save this Search?"
+msgstr "حفظ هذا البحث؟"
+
+#: templates/half_map_core.php:88 templates/normal_map_core.php:95
+msgid "Search name"
+msgstr "البحث عن اسم"
+
+#: templates/half_map_core.php:89 templates/normal_map_core.php:96
+msgid "Save Search"
+msgstr "حفظ البحث"
+
+# @ wpestate
+#: templates/half_map_core.php:105 templates/login_register_modal.php:62
+#: templates/mobile_menu.php:82 templates/mobile_menu.php:91
+#: templates/normal_map_core.php:112
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: templates/half_map_core.php:105 templates/normal_map_core.php:112
+msgid ""
+"to save search and you will receive an email notification when new properties "
+"matching your search will be published."
+msgstr ""
+"إحفظ البحث وسوف تتلقى بريد إلكتروني عندما يتم نشر عقارات جديدة تطابق بحثك."
+
+# @ wpestate
+#: templates/half_map_core.php:124 templates/normal_map_core.php:166
+msgid "Properties listed in "
+msgstr "عقارات منشورة في "
+
+# @ wpestate
+#: templates/half_map_core.php:176
+msgid "Map View"
+msgstr "عرض الخريطة"
+
+#: templates/header_agency.php:79 templates/header_developer.php:124
+msgid "Website:"
+msgstr "موقع الكتروني:"
+
+#: templates/header_agency.php:85
+msgid "We Speak:"
+msgstr "نحن نتكلم:"
+
+#: templates/header_agency.php:91
+msgid "Opening Hours:"
+msgstr "ساعات العمل:"
+
+#: templates/header_agency.php:97 templates/header_developer.php:134
+msgid "License:"
+msgstr "License:"
+
+#: templates/header_agency.php:103 templates/header_developer.php:139
+msgid "Our Taxes:"
+msgstr "الضرائب لدينا:"
+
+#: templates/image_gallery.php:94
+msgid "Want to find out more?"
+msgstr "هل تريد معرفة المزيد؟"
+
+# @ wpestate
+#: templates/listing_templates/overview_template.php:67
+msgid "share this page"
+msgstr "مشاركة الصفحة"
+
+# @ wpestate
+#: templates/listing_templates/overview_template.php:68
+msgid "Share"
+msgstr "انشر"
+
+#: templates/listing_templates/overview_template.php:72
+msgid "Favorite"
+msgstr "مفضلة"
+
+# @ wpestate
+#: templates/listing_templates/overview_template.php:75
+msgid "print page"
+msgstr "صفحة الطباعة"
+
+#: templates/listing_templates/single-overview-section.php:12
+msgid "Overview"
+msgstr "تفاصيل عامة"
+
+#: templates/listing_templates/single-overview-section.php:16
+msgid "Updated On:"
+msgstr "تحديث يوم:"
+
+#: templates/listing_templates/single-overview-section.php:49
+msgid "Garages"
+msgstr "جراج"
+
+#: templates/listing_templates/single-overview-section.php:69
+msgid "Year Built:"
+msgstr "سنة البناء:"
+
+#: templates/login_register_modal.php:51
+msgid "Sign into your account"
+msgstr "تسجيل الدخول إلى حسابك"
+
+# @ wpestate
+#: templates/login_register_modal.php:56 templates/login_register_modal.php:82
+#: templates/mobile_menu.php:86 templates/mobile_menu.php:109
+msgid "Username"
+msgstr "اسم المستخدم"
+
+# @ wpestate
+#: templates/login_register_modal.php:57 templates/login_register_modal.php:88
+#: templates/mobile_menu.php:87 templates/mobile_menu.php:115
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: templates/login_register_modal.php:67
+msgid "or"
+msgstr "او"
+
+#: templates/login_register_modal.php:80
+msgid "Create an account"
+msgstr "انشئ حساب"
+
+#: templates/login_register_modal.php:89 templates/mobile_menu.php:116
+msgid "Retype Password"
+msgstr "اعادة إدخال كلمة المرور"
+
+#: templates/login_register_modal.php:108 templates/mobile_menu.php:132
+msgid "Select User Type"
+msgstr "اختر نوع المستخدم"
+
+#: templates/login_register_modal.php:123 templates/mobile_menu.php:148
+msgid "I agree with "
+msgstr "أوافق على"
+
+#: templates/login_register_modal.php:123 templates/mobile_menu.php:148
+msgid "terms & conditions"
+msgstr "الشروط والأحكام"
+
+# @ wpestate
+#: templates/login_register_modal.php:132 templates/mobile_menu.php:157
+msgid "A password will be e-mailed to you"
+msgstr "سيتم ارسال كلمة المرور الى بريدك الالكتروني"
+
+# @ wpestate
+#: templates/login_register_modal.php:136 templates/mobile_menu.php:105
+#: templates/mobile_menu.php:163
+msgid "Register"
+msgstr "التسجيل"
+
+# @ wpestate
+#: templates/login_register_modal.php:145 templates/mobile_menu.php:173
+msgid "Enter Your Email Address"
+msgstr "ادخل بريدك الالكتروني"
+
+#: templates/login_register_modal.php:158
+msgid "Register here!"
+msgstr "لإضافة إعلان - سجـــل الان !"
+
+#: templates/login_register_modal.php:159
+msgid "Forgot password?"
+msgstr "نسيت كلمة المرور؟"
+
+#: templates/login_register_modal.php:161 templates/login_register_modal.php:162
+msgid "Back to login"
+msgstr "العودة إلى تسجيل الدخول"
+
+# @ wpestate
+#: templates/mobile_menu.php:93
+msgid "Need an account? Register here!"
+msgstr "مستخدم جديد سجل الان"
+
+# @ wpestate
+#: templates/mobile_menu.php:94
+msgid "Forgot Password?"
+msgstr "نسيت كلمة المرور؟"
+
+# @ wpestate
+#: templates/mobile_menu.php:165
+msgid "Back to Login"
+msgstr "العودة لصفحة تسجيل الدخول"
+
+# @ wpestate
+#: templates/mobile_menu.php:179
+msgid "Return to Login"
+msgstr "العودة لتسجيل الدخول"
+
+#: templates/multi_units.php:20
+msgid "Available Units"
+msgstr "الوحدات الموجودة"
+
+#: templates/multi_units.php:23
+msgid "Other units in"
+msgstr "وحدات أخرى في"
+
+#: templates/multi_units.php:130
+msgid "Category: "
+msgstr "القسم "
+
+# @ wpestate
+#: templates/multi_units.php:132
+msgid "Rooms: "
+msgstr "عدد قطع الريسبشن : "
+
+#: templates/multi_units.php:135
+msgid "Bedrooms: "
+msgstr "غرف النوم :"
+
+#: templates/multi_units.php:138
+msgid "Baths: "
+msgstr "دورات المياه: "
+
+# @ wpestate
+#: templates/multi_units.php:141
+msgid "Size: "
+msgstr "المساحة: "
+
+# @ wpestate
+#: templates/normal_directory.php:63 templates/property_list_filters.php:20
+#: templates/property_list_filters_search.php:7
+#: templates/property_list_filter_half.php:3
+msgid "Sort by"
+msgstr "ترتيب حسب"
+
+#: templates/normal_directory.php:223 templates/normal_map_core.php:270
+msgid ""
+"There are no properties listed on this page at this moment. Please try again "
+"later. "
+msgstr ""
+"لا توجد الخصائص المذكورة في هذه الصفحة في هذه اللحظة. الرجاء معاودة المحاولة "
+"في وقت لاحق."
+
+#: templates/normal_directory.php:225 templates/normal_map_core.php:272
+msgid ""
+"There are no agents listed on this page at this moment. Please try again "
+"later. "
+msgstr ""
+"لا يوجد وكلاء المدرجة على هذه الصفحة في هذه اللحظة. يرجى المحاولة مرة أخرى في "
+"وقت لاحق. "
+
+#: templates/normal_directory.php:237
+msgid "Load More Listings"
+msgstr "تحميل المزيد من القوائم"
+
+#: templates/normal_map_core.php:157
+msgid "Agents in "
+msgstr "المندوبين في "
+
+#: templates/normal_map_core.php:160
+msgid "Agencies in "
+msgstr "وكالة "
+
+#: templates/normal_map_core.php:163
+msgid "Developers in "
+msgstr "المطورين في"
+
+#: templates/other_agents.php:5 templates/other_agents.php:7
+msgid "Other Agents"
+msgstr "وكلاء آخرون"
+
+#: templates/places_unit.php:89 templates/places_unit_elementor.php:60
+msgid "%d listing"
+msgid_plural "%d listings"
+msgstr[0] "قائمة %d"
+msgstr[1] "قائمة %d"
+msgstr[2] "قائمة %d"
+msgstr[3] "قائمة %d"
+msgstr[4] "قائمة %d"
+msgstr[5] "قائمة %d"
+
+#: templates/places_unit_type2.php:103
+#: templates/places_unit_type2_elementor.php:62
+msgid "%d Listing"
+msgid_plural "%d Listings"
+msgstr[0] "قائمة %d"
+msgstr[1] "قائمة %d"
+msgstr[2] "قائمة %d"
+msgstr[3] "قائمة %d"
+msgstr[4] "قائمة %d"
+msgstr[5] "قائمة %d"
+
+#: templates/preview_template.php:5
+msgid "View results"
+msgstr "عرض النتائج"
+
+# @ wpestate
+#: templates/property_cards_templates/property_card_category_type1.php:7
+#: templates/property_slider_shortcode.php:57
+msgid "in"
+msgstr "على"
+
+#: templates/property_cards_templates/property_card_details_type1.php:9
+msgid "<span class=\"property_details_type1_value\">%d</span> Room"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Rooms"
+msgstr[0] "<span class=\"property_details_type1_value\">%d</span> غرفة"
+msgstr[1] "<span class=\"property_details_type1_value\">%d</span> غرفة"
+msgstr[2] "<span class=\"property_details_type1_value\">%d</span> غرفة"
+msgstr[3] "<span class=\"property_details_type1_value\">%d</span> غرفة"
+msgstr[4] "<span class=\"property_details_type1_value\">%d</span> غرفة"
+msgstr[5] "<span class=\"property_details_type1_value\">%d</span> غرفة"
+
+#: templates/property_cards_templates/property_card_details_type1.php:14
+msgid "<span class=\"property_details_type1_value\">%d</span> Bath"
+msgid_plural "<span class=\"property_details_type1_value\">%d</span> Baths"
+msgstr[0] "<span class=\"property_details_type1_value\">%d</span> حمام"
+msgstr[1] "<span class=\"property_details_type1_value\">%d</span> حمام"
+msgstr[2] "<span class=\"property_details_type1_value\">%d</span> حمام"
+msgstr[3] "<span class=\"property_details_type1_value\">%d</span> حمام"
+msgstr[4] "<span class=\"property_details_type1_value\">%d</span> حمام"
+msgstr[5] "<span class=\"property_details_type1_value\">%d</span> حمام"
+
+#: templates/property_cards_templates/property_card_details_type1.php:20
+msgid "ID"
+msgstr "المعرّف"
+
+#: templates/property_cards_templates/property_card_details_type3.php:16
+#: templates/property_cards_templates/property_card_details_type6.php:25
+msgid "Beds"
+msgstr "نوم"
+
+# @ wpestate
+#: templates/property_cards_templates/property_card_details_type3.php:24
+#: templates/property_cards_templates/property_card_details_type4.php:18
+#: templates/property_cards_templates/property_card_details_type4.php:35
+#: templates/property_cards_templates/property_card_details_type6.php:34
+msgid "Baths"
+msgstr "حمام"
+
+#: templates/property_cards_templates/property_card_details_type4.php:22
+#: templates/property_slider_shortcode.php:70
+msgid "Size"
+msgstr "بحجم"
+
+# @ wpestate
+#: templates/property_details_modal.php:28
+msgid "Contact Agent"
+msgstr "معلومات العميل"
+
+#: templates/property_page_acc_content.php:392
+#: templates/property_page_acc_content.php:407
+#: templates/property_page_tab_content.php:353
+msgid "Page Views Statistics"
+msgstr "إحصائيات مشاهدات الصفحة"
+
+# @ wpestate
+#: templates/property_reviews.php:24
+msgid "Property Reviews"
+msgstr "تقييم العقار"
+
+# @ wpestate
+#: templates/property_slider_shortcode.php:56
+msgid "category"
+msgstr "تصنيف"
+
+#: templates/property_slider_shortcode.php:60
+msgid "location"
+msgstr "موقعك"
+
+# @ wpestate
+#: templates/realtor_templates/agent_about_me.php:5
+msgid "About Me "
+msgstr "معلومات عني "
+
+#: templates/realtor_templates/agent_contact_bar.php:4
+msgid "Hello I'm interested in one of your listings."
+msgstr "مرحبا أنا مهتم في واحدة من القوائم الخاصة بك."
+
+#: templates/realtor_templates/agent_contact_bar.php:13
+#: templates/realtor_templates/mobile_agent_area.php:12
+msgid "Hello I'm interested in "
+msgstr "مرحبا أنا مهتم في "
+
+#: templates/realtor_templates/agent_contact_bar.php:22
+msgid "Call"
+msgstr "الاتصال"
+
+#: templates/realtor_templates/agent_taxonomies.php:3
+msgid "Specialties & Service Areas"
+msgstr "التخصصات والخدمات المناطق"
+
+# @ wpestate
+#: templates/related_posts.php:38
+msgid "Related Posts"
+msgstr "منشورات ذات علاقة"
+
+# @ wpestate
+#: templates/submit_templates/floor_plans.php:56
+#: templates/submit_templates/floor_plans.php:143
+msgid "Upload Image"
+msgstr "حمل صورة"
+
+# @ wpestate
+#: templates/submit_templates/floor_plans.php:77
+msgid "Select Images"
+msgstr "اختيار الصور"
+
+# @ wpestate
+#: templates/submit_templates/property_categories.php:50
+#: templates/submit_templates/property_categories_new.php:16
+msgid "Select Categories"
+msgstr "حدد الفئات"
+
+# @ wpestate
+#: templates/submit_templates/property_categories.php:74
+msgid "Listed In "
+msgstr "نوع المعروض "
+
+#: templates/submit_templates/property_description.php:7
+#: templates/submit_templates/property_description_new.php:26
+msgid "Property Description"
+msgstr "وصف العقار"
+
+# @ wpestate
+#: templates/submit_templates/property_details.php:79
+msgid "Listing Details"
+msgstr "التفاصيل"
+
+# @ wpestate
+#: templates/submit_templates/property_details.php:83
+msgid "Size in"
+msgstr "المساحة بـ"
+
+#: templates/submit_templates/property_details.php:83
+#: templates/submit_templates/property_details.php:91
+msgid " (*only numbers)"
+msgstr "(*أرقام فقط)"
+
+# @ wpestate
+#: templates/submit_templates/property_details.php:91
+msgid "Lot Size in"
+msgstr "المساحة الكلية بـ"
+
+#: templates/submit_templates/property_details.php:99
+msgid "Rooms (*only numbers)"
+msgstr "ريسيبشن (* أرقام فقط)"
+
+#: templates/submit_templates/property_details.php:107
+msgid "Bedrooms (*only numbers)"
+msgstr "غرف نوم (* أرقام فقط)"
+
+#: templates/submit_templates/property_details.php:115
+msgid "Bathrooms (*only numbers)"
+msgstr "عدد الحمامات"
+
+#: templates/submit_templates/property_details.php:129
+msgid "Owner/Agent notes (*not visible on front end)"
+msgstr "ملاحظات المالك (* غير مرئية على الواجهة الأمامية)"
+
+#: templates/submit_templates/property_energy_effective.php:18
+msgid "Select Energy Class"
+msgstr "اختر فئة الطاقة"
+
+#: templates/submit_templates/property_energy_effective.php:23
+msgid "Select Energy Class (EU regulation)"
+msgstr "حدد فئة الطاقة (تنظيم الاتحاد الأوروبي)"
+
+#: templates/submit_templates/property_energy_effective.php:35
+msgid "Energy Index in kWh/m2a"
+msgstr "مؤشر الطاقة بالكيلوواط / م 2"
+
+# @ wpestate
+#: templates/submit_templates/property_featured.php:10
+msgid "Featured Submission"
+msgstr "تقديم مميز"
+
+# @ wpestate
+#: templates/submit_templates/property_featured.php:13
+msgid "Make this listing featured from property list."
+msgstr "جعل هذا المنشور مميز من قائمة العقارات."
+
+#: templates/submit_templates/property_floor_plans.php:73
+msgid "Use Floor Plans"
+msgstr "إضافة بلان (مسقط هندسي)"
+
+#: templates/submit_templates/property_floor_plans.php:197
+msgid "Add another plan"
+msgstr "اضافة بلان اخر"
+
+#: templates/submit_templates/property_images.php:70
+#: templates/submit_templates/property_images_new.php:87
+msgid "Listing Media"
+msgstr "قائمة الوسائط"
+
+#: templates/submit_templates/property_images.php:117
+#: templates/submit_templates/property_images_new.php:132
+msgid "Drag and Drop Images or "
+msgstr "سحب وإسقاط الصور أو "
+
+#: templates/submit_templates/property_images.php:119
+#: templates/submit_templates/property_images_new.php:134
+msgid "Select Media"
+msgstr "حدد وسائط"
+
+#: templates/submit_templates/property_images.php:127
+#: templates/submit_templates/property_images_new.php:142
+msgid ""
+"* At least 1 image is required for a valid submission.Minimum size is "
+"500/500px."
+msgstr "* على الأقل 1 صورة مطلوب صالحة التقديم. حجم الحد الأدنى هو 500/500px."
+
+#: templates/submit_templates/property_images.php:144
+#: templates/submit_templates/property_images_new.php:159
+msgid " You can upload maximum %s images"
+msgstr " يمكنك تحميل أقصى %s صور"
+
+#: templates/submit_templates/property_images.php:147
+#: templates/submit_templates/property_images_new.php:162
+msgid "** Double click on the image to select featured."
+msgstr "** انقر مرتين على الصورة لتحديد المواصفات."
+
+#: templates/submit_templates/property_images.php:148
+#: templates/submit_templates/property_images_new.php:163
+msgid "*** Change images order with Drag & Drop."
+msgstr "*** تغيير ترتيب الصور عن طريق أسحب و أفلت."
+
+#: templates/submit_templates/property_images.php:149
+#: templates/submit_templates/property_images_new.php:164
+msgid "**** PDF files upload supported as well."
+msgstr "**** ندعم تحميل ملفات PDF أيضاً."
+
+#: templates/submit_templates/property_images.php:150
+#: templates/submit_templates/property_images_new.php:165
+msgid "***** Images might take longer to be processed."
+msgstr "***** الصور قد تستغرق وقتاً أطول بحيث تتم معالجتها."
+
+#: templates/submit_templates/property_images_new.php:175
+msgid "manage floorplans"
+msgstr "إدارة مخططات الأدوار"
+
+# @ wpestate
+#: templates/submit_templates/property_location.php:78
+msgid "Listing Location"
+msgstr "موقع (مكان) العقار"
+
+#: templates/submit_templates/property_location.php:82
+msgid "*Address"
+msgstr "*العنوان"
+
+#: templates/submit_templates/property_location.php:83
+msgid "Enter address"
+msgstr "ادخل العنوان"
+
+#: templates/submit_templates/property_location.php:171
+msgid "Enter city"
+msgstr "ادخل المدينة"
+
+#: templates/submit_templates/property_location.php:182
+msgid "Neighborhood"
+msgstr "الحي"
+
+# @ wpestate
+#: templates/submit_templates/property_location.php:230
+msgid "Zip "
+msgstr "الرمز البريدي "
+
+# @ wpestate
+#: templates/submit_templates/property_location.php:244
+msgid "Country "
+msgstr "الدولة "
+
+# @ wpestate
+#: templates/submit_templates/property_location.php:253
+msgid "Place Pin with Property Address"
+msgstr "تحديد الموقع على الخريطة"
+
+# @ wpestate
+#: templates/submit_templates/property_location.php:266
+msgid "Latitude (for Google Maps)"
+msgstr "دوائر العرض (for Google Maps)"
+
+# @ wpestate
+#: templates/submit_templates/property_location.php:275
+msgid "Longitude (for Google Maps)"
+msgstr "خطوط الطول (for Google Maps)"
+
+# @ wpestate
+#: templates/submit_templates/property_location.php:283
+msgid "Enable Google Street View"
+msgstr "تفعيل عرض  Google Street"
+
+# @ wpestate
+#: templates/submit_templates/property_location.php:292
+msgid "Google Street View - Camera Angle (value from 0 to 360)"
+msgstr "زاوية العرض لخرائط Google Street View (من 0 الى 360)"
+
+# @ wpestate
+#: templates/submit_templates/property_slider.php:6
+msgid "Slider Option"
+msgstr "اعدادات السلايدر"
+
+# @ wpestate
+#: templates/submit_templates/property_slider.php:9
+msgid "Slider type "
+msgstr "نوع السلايدر "
+
+# @ wpestate
+#: templates/submit_templates/property_status.php:39
+msgid "Select Property Status"
+msgstr "اختر حالة العقار"
+
+#: templates/submit_templates/property_status.php:44
+msgid "no status"
+msgstr "لا حالة"
+
+#: templates/submit_templates/property_subunits.php:23
+msgid "Subunits"
+msgstr "الوحدات الفرعية"
+
+#: templates/submit_templates/property_subunits.php:34
+msgid "Enable "
+msgstr "مكن "
+
+#: templates/submit_templates/property_subunits.php:40
+msgid "Select Subunits From the list: "
+msgstr "حدد الوحدات الفرعية من القائمة:"
+
+# @ wpestate
+#: templates/submit_templates/property_video.php:38
+msgid "Video Option"
+msgstr "خيارات الفيديو"
+
+# @ wpestate
+#: templates/submit_templates/property_video.php:44
+msgid "Video from"
+msgstr "مصدر الفيديو"
+
+# @ wpestate
+#: templates/submit_templates/property_video.php:56
+msgid "Embed Video id: "
+msgstr "ID  وصلة الفيديو:"
+
+# @ wpestate
+#: templates/submit_templates/user_memebership_form.php:21
+msgid "Membership"
+msgstr "العضوية"
+
+# @ wpestate
+#: templates/submit_templates/user_memebership_form.php:30
+msgid "Paid submission"
+msgstr "ادراج مدفوع"
+
+# @ wpestate
+#: templates/submit_templates/user_memebership_form.php:32
+msgid "This is a paid submission."
+msgstr "هذا الادراج مدفوع."
+
+# @ wpestate
+#: templates/submit_templates/user_memebership_form.php:33
+msgid "Price: "
+msgstr "السعر: "
+
+# @ wpestate
+#: templates/submit_templates/user_memebership_form.php:34
+msgid "Featured (extra): "
+msgstr "مميز (إضافية): "
+
+#: templates/submit_templates/video_tour.php:29
+msgid "Virtual Tour: "
+msgstr "جولة افتراضية"
+
+#: templates/top_user_menu.php:49
+msgid "Add Listing"
+msgstr "إضافة اعلان"
+
+#. Template Name of the theme
+msgid "Terms and Conditions"
+msgstr "الشروط والأحكام"
+
+#. Template Name of the theme
+msgid "User Dashboard"
+msgstr "لوحة تحكم المستخدم"
+
+#. Template Name of the theme
+msgid "User Dashboard Submit"
+msgstr "لوحة أجهزة القياس المستخدم تقديم"
+
+#. Template Name of the theme
+msgid "User Dashboard Add agent"
+msgstr "لوحة أجهزة القياس المستخدم إضافة الوكيل"
+
+#. Template Name of the theme
+msgid "User Dashboard Agent List"
+msgstr "لوحة أجهزة القياس المستخدم قائمة الوكيل"
+
+#. Template Name of the theme
+msgid "User Dashboard Stats"
+msgstr "إحصائيات لوحة معلومات المستخدم"
+
+#: user_dashboard_analytics.php:45
+msgid "Analytics"
+msgstr "الاحصائيات"
+
+#: user_dashboard_analytics.php:61
+msgid "Back to properties list"
+msgstr "العودة إلى قائمة الخصائص"
+
+#: user_dashboard_analytics.php:64
+msgid "Total number of views:"
+msgstr "إجمالي عدد مرات المشاهدة:"
+
+#. Template Name of the theme
+msgid "User Dashboard Favorite"
+msgstr "لوحة أجهزة القياس المستخدم المفضلة"
+
+# @ wpestate
+#: user_dashboard_favorite.php:66
+msgid "You don't have any favorite properties yet!"
+msgstr "لا يوجد اي عقارات في مفضلتك حتى الان!"
+
+#. Template Name of the theme
+msgid "User Dashboard Inbox"
+msgstr "لوحة أجهزة القياس المستخدم البريد الوارد"
+
+#: user_dashboard_inbox.php:31
+msgid "You have"
+msgstr "عندك"
+
+#: user_dashboard_inbox.php:31
+msgid "unread messages"
+msgstr "رسائل غير مقروءة"
+
+#. Template Name of the theme
+msgid "User Dashboard Invoices"
+msgstr "لوحة أجهزة القياس المستخدم الفواتير"
+
+#. Template Name of the theme
+msgid "User Dashboard Main"
+msgstr "لوحة معلومات المستخدم الرئيسية"
+
+#. Template Name of the theme
+msgid "User Dashboard Profile Page"
+msgstr "لوحة أجهزة القياس المستخدم صفحة الملف الشخصي"
+
+#. Template Name of the theme
+msgid "User Dashboard  Saved Searches"
+msgstr "لوحة أجهزة القياس المستخدم وعمليات البحث المحفوظة"
+
+#: user_dashboard_searches.php:60
+msgid "You don't have any saved searches yet!"
+msgstr "ليس لديك أي عمليات بحث محفوظة حتى الآن!"
+
+#: word_remove.php:15
+msgid "Update the theme & plugins"
+msgstr "تحديث الموضوع و الإضافات"
+
+#: word_remove.php:16
+msgid "Buy new license"
+msgstr ""
+
+#: word_remove.php:17
+msgid "Change log"
+msgstr "تغيير السجل"
+
+#: word_remove.php:18
+msgid "Get help"
+msgstr "الحصول على مساعدة"
+
+#: word_remove.php:20
+msgid "Open ticket"
+msgstr "أنشيء تذكرة جديدة"
+
+#: word_remove.php:21
+msgid "Documentation"
+msgstr "الوثائق"
+
+#: word_remove.php:22
+msgid "Rate us"
+msgstr "قيمنا"
+
+#: word_remove.php:30
+msgid "Current Version: "
+msgstr "الإصدار الحالي:"
+
+#: word_remove.php:40
+msgid "Start Now"
+msgstr "ابدأ الآن"
+
+#: word_remove.php:41
+msgid "Site Settings "
+msgstr "إعدادات الموقع"
+
+#: word_remove.php:49
+msgid ""
+"We recommend doing demo import first and then finishing this setup. Adding "
+"Demo import AFTER completing this setup changes your settings options to demo "
+"options. "
+msgstr ""
+"نوصي القيام استيراد التجريبي أولا ثم الانتهاء من هذا الإعداد. مضيفا استيراد "
+"التجريبي بعد الانتهاء من هذا الإعداد على تغيير إعدادات الخيارات إلى خيارات "
+"تجريبي. "
+
+#: word_remove.php:51
+msgid "Continue"
+msgstr "متابعة"
+
+#: word_remove.php:51
+msgid "OR"
+msgstr "أو"
+
+#: word_remove.php:52
+msgid "Import Demo Content"
+msgstr "استيراد المحتوي التجريبي"
+
+#: word_remove.php:57
+msgid "Map Settings"
+msgstr "إعدادات الخريطة"
+
+# @ wpestate
+#: word_remove.php:61
+msgid "Google Maps API KEY"
+msgstr "Google Maps API KEY"
+
+#: word_remove.php:66 word_remove.php:212 word_remove.php:246
+msgid "Previous Step"
+msgstr "الخطوة السابقة"
+
+# @ wpestate
+#: word_remove.php:73
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#: word_remove.php:77
+msgid "Select default country"
+msgstr "البلد الاساسي"
+
+# @ wpestate
+#: word_remove.php:83
+msgid "Currency symbol"
+msgstr "رمز العملة"
+
+#: word_remove.php:84
+msgid "Set currency symbol for property price."
+msgstr "تعيين رمز العملة لسعر العقار."
+
+# @ wpestate
+#: word_remove.php:112
+msgid "square"
+msgstr "مربع"
+
+# @ wpestate
+#: word_remove.php:117
+msgid "Measurement Unit"
+msgstr "وحده القياس"
+
+#: word_remove.php:118
+msgid "Select the measurement unit you will use on the website"
+msgstr "اختر وحدة القياس التى سوف تستخدمها على موقعك "
+
+#: word_remove.php:204
+msgid "Language for datepicker"
+msgstr "اللغة لمنتقي التاريخ"
+
+#: word_remove.php:205
+msgid "This applies for the calendar field type available for properties."
+msgstr "ينطبق هذا على نوع حقل التقويم المتاح للعقار"
+
+#: word_remove.php:217
+msgid "Apperance Options"
+msgstr "خيارات المظهر"
+
+#: word_remove.php:219
+msgid "standard "
+msgstr "اساسي"
+
+#: word_remove.php:220
+msgid "half map"
+msgstr "نصف خريطة"
+
+#: word_remove.php:225
+msgid "Property List Type for Advanced Search"
+msgstr "قائمة عقارات البحث المتقدم"
+
+#: word_remove.php:226
+msgid "Select standard or half map style for advanced search results page."
+msgstr "إختر الإظهار على الخريطة أم لا لنتائج البحث المتقدم."
+
+# @ wpestate
+#: word_remove.php:233
+msgid "grid"
+msgstr "الشبكه"
+
+# @ wpestate
+#: word_remove.php:234
+msgid "list"
+msgstr "List"
+
+#: word_remove.php:239
+msgid "Property List display(*global option)"
+msgstr "عرض قائمة الخصائص (*الخيار العمومي)"
+
+#: word_remove.php:240
+msgid "Select grid or list style for properties list pages."
+msgstr "Select grid or list style for properties list pages."
+
+#: word_remove.php:252
+msgid ""
+"For further setup see our help files, knowledgebase articles and tutorials to "
+"help make this process easier and more enjoyable for you: "
+msgstr ""
+"لمزيد من الإعداد راجع ملفات المساعدة ، المعرفة المواد و الدروس للمساعدة في "
+"جعل هذه العملية أسهل وأكثر متعة بالنسبة لك: "
+
+#: word_remove.php:252
+msgid "http://help.wpresidence.net/"
+msgstr ""
+
+#: word_remove.php:277
+msgid "Personalize Your Website"
+msgstr "تخصيص موقع الويب الخاص بك"
+
+#: word_remove.php:279
+msgid "Payments"
+msgstr "المدفوعات"
+
+#: word_remove.php:361
+msgid "Powered by "
+msgstr "مدعومة من طرف"
+
+#. Template Name of the theme
+msgid "Zillow Estimate"
+msgstr "Zillow تقدير"
+
+# @ wpestate
+#: zillow_estimate_page.php:22
+msgid "The state field is empty !"
+msgstr "حقل المحافظة فارغ!"
+
+# @ wpestate
+#: zillow_estimate_page.php:32
+msgid "The City field is empty !"
+msgstr "حقل المدينة فارغ!"
+
+# @ wpestate
+#: zillow_estimate_page.php:41
+msgid "Your address field is empty!"
+msgstr "حقل عنوان العقار (المكان) فارغ!"
+
+#: zillow_estimate_page.php:80
+msgid "On"
+msgstr "تشغيل"
+
+#: zillow_estimate_page.php:80
+msgid "this property is estimated at"
+msgstr "وتقدر هذا العقار في"
+
+#: zillow_estimate_page.php:83
+msgid "Address:"
+msgstr "العنوان:"
+
+#: zillow_estimate_page.php:84
+msgid "City:"
+msgstr "مدينة :"
+
+#: zillow_estimate_page.php:85
+msgid "State:"
+msgstr "المحافظة :"
+
+# @ wpestate
+#: zillow_estimate_page.php:89
+msgid ""
+"We are sorry, but we don't have an estimation for this property at this "
+"moment!  "
+msgstr "لا يوجد لدينا تقدير لسعر هذا العقار حتى الآن! "
+
+# @ wpestate
+#: zillow_estimate_page.php:93
+msgid "Please fill in the form correctly and try again!"
+msgstr "الرجاء التأكد من تعبئة النموذج بشكل صحيح، والمحاولة مرة اخرى!"
+
+#~ msgid "Property Reviews "
+#~ msgstr "التعليقات"
+
+#~ msgid "Single Agent"
+#~ msgstr "وكيل مستقل"
